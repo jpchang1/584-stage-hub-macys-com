@@ -1,0 +1,21 @@
+{
+    "id": "213270",
+    "first_name": "Wanda",
+    "last_name": "Melendez",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/986392213-0.8212647334672.jpg",
+        "job_title": "Support Associate"
+    },
+    "last_login_timestamp": "1525732547",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-05 02:47:57",
+    "login_id": "1759121",
+    "user_id": "213270",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Wanda Melendez",
+    "profile_picture": "\/api\/canvas\/logo\/986392213-0.8212647334672.jpg",
+    "titleTextEncoded": "wanda-melendez",
+    "title": "Wanda Melendez",
+    "videos_count": "0"
+}

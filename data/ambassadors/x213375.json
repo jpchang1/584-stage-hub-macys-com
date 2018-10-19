@@ -1,0 +1,21 @@
+{
+    "id": "213375",
+    "first_name": "Claudia ",
+    "last_name": "Davis",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/710840570-0.7861212009098.jpg",
+        "job_title": "My Stylist"
+    },
+    "last_login_timestamp": "1526430817",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-13 02:25:22",
+    "login_id": "1759121",
+    "user_id": "213375",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Claudia  Davis",
+    "profile_picture": "\/api\/canvas\/logo\/710840570-0.7861212009098.jpg",
+    "titleTextEncoded": "claudia-davis",
+    "title": "Claudia  Davis",
+    "videos_count": "0"
+}

@@ -1,0 +1,101 @@
+{
+    "title": "Jacqueline Palmer\/Catwalk fashions",
+    "description": "All of Macy\u2019s best fashions for social and casual settings come together for a great cause!\nCheck out all of these terrific ",
+    "referenceId": "8b66774b5a6d0505c367fca1585d94ae",
+    "date_created": "1528971973",
+    "date_modified": "1528992425",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "12",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": "women",
+    "id": "164891646",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "f0420a54-6c96-41d5-b975-4b99be5ea7f6",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "75",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "75",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "75",
+        "prettyDuration": "00:01:15",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/624904934-1528992425.jpg",
+        "type": "mp4",
+        "assetId": "164891646",
+        "assetTitle": "F0420A54-6C96-41D5-B975-4B99BE5EA7F6",
+        "assetTitleTextEncoded": "f0420a54-6c96-41d5-b975-4b99be5ea7f6",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164891646",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164891646\/1e201\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164891646\/1e201\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164891646\/1e201\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164891646\/1e201\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164891646\/1e201\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164891646\/1e201\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164891646\/1e201\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

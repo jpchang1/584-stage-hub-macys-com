@@ -1,0 +1,21 @@
+{
+    "id": "213211",
+    "first_name": "Francesca",
+    "last_name": "Dantzler",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/802536208-0.7610398845281.jpg",
+        "job_title": "Manager, Talent Acquisition Analytics"
+    },
+    "last_login_timestamp": "1528845086",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 12:40:07",
+    "login_id": "1759121",
+    "user_id": "213211",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Francesca Dantzler",
+    "profile_picture": "\/api\/canvas\/logo\/802536208-0.7610398845281.jpg",
+    "titleTextEncoded": "francesca-dantzler",
+    "title": "Francesca Dantzler",
+    "videos_count": "0"
+}

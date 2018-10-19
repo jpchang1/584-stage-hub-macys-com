@@ -1,0 +1,93 @@
+{
+    "title": "I.N.C. Quiin Chain Crossbody",
+    "description": "What's New Wednesday: Meet the I.N.C. Quiin Chain Crossbody!\nThis convertible bag is sure to compliment any outfit.",
+    "referenceId": "0f7595eb9321decff6f0a70678a2ef33",
+    "date_created": "1528319738",
+    "date_modified": "1528320524",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "8",
+    "engagement_score": "1",
+    "conversion_score": "25",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213293",
+    "product_category": "handbags",
+    "id": "164639317",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "inc-quiin-4k-1",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "38",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "38",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "38",
+        "prettyDuration": "00:00:38",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164639317\/96ffc\/thumb-0f7595eb9321decff6f0a70678a2ef33-00002.jpg",
+        "type": "mp4",
+        "assetId": "164639317",
+        "assetTitle": "INC_Quiin_4K_(1)",
+        "assetTitleTextEncoded": "inc-quiin-4k-1",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164639317",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164639317\/96ffc\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164639317\/96ffc\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164639317\/96ffc\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164639317\/96ffc\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164639317\/96ffc\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2018-06-18\"},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

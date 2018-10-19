@@ -1,0 +1,21 @@
+{
+    "id": "213295",
+    "first_name": "Jamila",
+    "last_name": "Jones",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "INC design assistant "
+    },
+    "last_login_timestamp": "1525821043",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-06 23:14:02",
+    "login_id": "1759121",
+    "user_id": "213295",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Jamila Jones",
+    "profile_picture": null,
+    "titleTextEncoded": "jamila-jones",
+    "title": "Jamila Jones",
+    "videos_count": "0"
+}

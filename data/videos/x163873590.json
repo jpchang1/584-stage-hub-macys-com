@@ -1,0 +1,93 @@
+{
+    "title": "Makeup on the go!",
+    "description": "How I achieve natural, light coverage makeup while on the go!",
+    "referenceId": "5a9a18b3b57dd1f32fc918ded224d92d",
+    "date_created": "1525978523",
+    "date_modified": "1525978841",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "44",
+    "engagement_score": "9",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213203",
+    "product_category": "beauty",
+    "id": "163873590",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "jnor5664-1",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "162",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "162",
+            "width": 960,
+            "height": 540
+        },
+        "mediaDuration": "162",
+        "prettyDuration": "00:02:42",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163873590\/1a509\/thumb-5a9a18b3b57dd1f32fc918ded224d92d-00002.jpg",
+        "type": "mp4",
+        "assetId": "163873590",
+        "assetTitle": "JNOR5664 1]",
+        "assetTitleTextEncoded": "jnor5664-1",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163873590",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163873590\/1a509\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163873590\/1a509\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163873590\/1a509\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163873590\/1a509\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163873590\/1a509\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

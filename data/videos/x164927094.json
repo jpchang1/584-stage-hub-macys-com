@@ -1,0 +1,88 @@
+{
+    "title": "Summer Fashion",
+    "description": "Summer fashion ideas to look your best this Summer.",
+    "referenceId": "9a64087d3ecf33dc41d64caabd871ce3",
+    "date_created": "1529193930",
+    "date_modified": "1529339656",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "0",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213345",
+    "product_category": null,
+    "id": "164927094",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "974528c1-9151-4503-b237-c56b26a790ef",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "57",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "57",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "57",
+        "prettyDuration": "00:00:57",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164927094\/2d532\/thumb-9a64087d3ecf33dc41d64caabd871ce3-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164927094\/2d532\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164927094\/2d532\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164927094\/2d532\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164927094\/2d532\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164927094\/2d532\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164927094\/2d532\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164927094\/2d532\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

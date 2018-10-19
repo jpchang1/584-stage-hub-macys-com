@@ -1,0 +1,95 @@
+{
+    "title": "Workout Haul",
+    "description": "Ladies Summer Workout Attire",
+    "referenceId": "b8767635a143321735c5767023c1c4b0",
+    "date_created": "1526825760",
+    "date_modified": "1526943430",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "47",
+    "engagement_score": "7",
+    "conversion_score": "25",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": "women",
+    "id": "163979253",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "17111cc8-a744-422a-9720-d18bf98890c9",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "61",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "61",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "61",
+        "prettyDuration": "00:01:01",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163979253\/272ca\/thumb-b8767635a143321735c5767023c1c4b0-00002.jpg",
+        "type": "mp4",
+        "assetId": "163979253",
+        "assetTitle": "17111CC8-A744-422A-9720-D18BF98890C9",
+        "assetTitleTextEncoded": "17111cc8-a744-422a-9720-d18bf98890c9",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163979253",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163979253\/272ca\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163979253\/272ca\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163979253\/272ca\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163979253\/272ca\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163979253\/272ca\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

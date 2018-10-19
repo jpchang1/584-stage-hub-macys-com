@@ -1,0 +1,21 @@
+{
+    "id": "213309",
+    "first_name": "Megan",
+    "last_name": "Fish",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/568490941-0.9202266434673.jpg",
+        "job_title": "Site Merchandise Manager "
+    },
+    "last_login_timestamp": "1529339108",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-07 16:12:06",
+    "login_id": "1759121",
+    "user_id": "213309",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Megan Fish",
+    "profile_picture": "\/api\/canvas\/logo\/568490941-0.9202266434673.jpg",
+    "titleTextEncoded": "megan-fish",
+    "title": "Megan Fish",
+    "videos_count": "3"
+}

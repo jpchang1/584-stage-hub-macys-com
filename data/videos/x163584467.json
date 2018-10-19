@@ -1,0 +1,86 @@
+{
+    "title": "Surprise",
+    "description": "Enjoy yourself at any concert",
+    "referenceId": "39584cef3eeb685662a5c87036b07774",
+    "date_created": "1525776169",
+    "date_modified": "1526403415",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "43",
+    "engagement_score": "5",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213213",
+    "product_category": null,
+    "id": "163584467",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "1b2c8b4e-28b2-494e-9c14-c354ae0682c3",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "10",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "10",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "10",
+        "prettyDuration": "00:00:10",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163584467\/4a933\/thumb-39584cef3eeb685662a5c87036b07774-00001.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163584467\/4a933\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163584467\/4a933\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163584467\/4a933\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163584467\/4a933\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163584467\/4a933\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

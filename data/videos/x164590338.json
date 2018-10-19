@@ -1,0 +1,95 @@
+{
+    "title": "Vince Camuto Off-the-shoulder Top",
+    "description": "Vince Camuto",
+    "referenceId": "fdfa23b2320568fb9707d234bb36da85",
+    "date_created": "1527353813",
+    "date_modified": "1527354533",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "29",
+    "engagement_score": "11",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213341",
+    "product_category": "women",
+    "id": "164590338",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "c06b9c85-0fb0-41f7-905a-d6b3cb58617d",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "5",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "5",
+            "width": 272,
+            "height": 480
+        },
+        "mediaDuration": "5",
+        "prettyDuration": "00:00:05",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164590338\/3f016\/thumb-fdfa23b2320568fb9707d234bb36da85-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164590338\/3f016\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164590338\/3f016\/media.m3u8",
+        "assetId": "164590338",
+        "assetTitle": "Off-the-shoulder Top- Katelyn H",
+        "assetTitleTextEncoded": "c06b9c85-0fb0-41f7-905a-d6b3cb58617d",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164590338",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164590338\/3f016\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164590338\/3f016\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164590338\/3f016\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164590338\/3f016\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 204,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164590338\/3f016\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

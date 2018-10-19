@@ -1,0 +1,21 @@
+{
+    "id": "213198",
+    "first_name": "jacqueline",
+    "last_name": "andrade",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/152729110-0.4534245653543.jpg",
+        "job_title": "color expert"
+    },
+    "last_login_timestamp": "1528522950",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 07:05:38",
+    "login_id": "1759121",
+    "user_id": "213198",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "jacqueline andrade",
+    "profile_picture": "\/api\/canvas\/logo\/152729110-0.4534245653543.jpg",
+    "titleTextEncoded": "jacqueline-andrade",
+    "title": "jacqueline andrade",
+    "videos_count": "0"
+}

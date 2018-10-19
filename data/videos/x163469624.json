@@ -1,0 +1,93 @@
+{
+    "title": "The best of skin care",
+    "description": "Chanel skin care products. My favorites and the ones I currently use.",
+    "referenceId": "30fdfb21fd54a3681c0d4653f4afa038",
+    "date_created": "1525644828",
+    "date_modified": "1525645534",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "30",
+    "engagement_score": "5",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213181",
+    "product_category": null,
+    "id": "163469624",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "6073b38c-db7c-4e4d-8094-c61f2ef5c087",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "85",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "85",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "85",
+        "prettyDuration": "00:01:25",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163469624\/d77d7\/thumb-30fdfb21fd54a3681c0d4653f4afa038-00002.jpg",
+        "type": "mp4",
+        "assetId": "163469624",
+        "assetTitle": "6073B38C DB7C-4E4D-8094-C61F2EF5C087",
+        "assetTitleTextEncoded": "6073b38c-db7c-4e4d-8094-c61f2ef5c087",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163469624",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163469624\/d77d7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163469624\/d77d7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163469624\/d77d7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163469624\/d77d7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163469624\/d77d7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

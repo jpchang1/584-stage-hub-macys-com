@@ -1,0 +1,21 @@
+{
+    "id": "213239",
+    "first_name": "Jessica",
+    "last_name": "Cosio",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Software Engineer"
+    },
+    "last_login_timestamp": "1525721251",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 17:42:12",
+    "login_id": "1759121",
+    "user_id": "213239",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Jessica Cosio",
+    "profile_picture": null,
+    "titleTextEncoded": "jessica-cosio",
+    "title": "Jessica Cosio",
+    "videos_count": "0"
+}

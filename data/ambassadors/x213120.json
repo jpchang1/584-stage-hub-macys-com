@@ -1,0 +1,21 @@
+{
+    "id": "213120",
+    "first_name": "Daniel",
+    "last_name": "Ni",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "My Stylist"
+    },
+    "last_login_timestamp": "1528841530",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 21:06:08",
+    "login_id": "1759121",
+    "user_id": "213120",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Daniel Ni",
+    "profile_picture": null,
+    "titleTextEncoded": "daniel-ni",
+    "title": "Daniel Ni",
+    "videos_count": "0"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "213381",
+    "first_name": "John",
+    "last_name": "Marron",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/893047240-0.6360245614778.jpg",
+        "job_title": "Visual Manager"
+    },
+    "last_login_timestamp": "1529371626",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-14 14:54:37",
+    "login_id": "1759121",
+    "user_id": "213381",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "John Marron",
+    "profile_picture": "\/api\/canvas\/logo\/893047240-0.6360245614778.jpg",
+    "titleTextEncoded": "john-marron",
+    "title": "John Marron",
+    "videos_count": "3"
+}

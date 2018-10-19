@@ -1,0 +1,21 @@
+{
+    "id": "213205",
+    "first_name": "Rachelle",
+    "last_name": "Rowe",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/786290085-0.2512877996545.jpg",
+        "job_title": "Visual Manager"
+    },
+    "last_login_timestamp": "1529077440",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 11:33:03",
+    "login_id": "1759121",
+    "user_id": "213205",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Rachelle Rowe",
+    "profile_picture": "\/api\/canvas\/logo\/786290085-0.2512877996545.jpg",
+    "titleTextEncoded": "rachelle-rowe",
+    "title": "Rachelle Rowe",
+    "videos_count": "4"
+}

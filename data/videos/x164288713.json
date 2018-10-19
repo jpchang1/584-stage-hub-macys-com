@@ -1,0 +1,95 @@
+{
+    "title": "Shine Bright",
+    "description": "Summer is here and it's time to shine bright in the sun. With a peachy glow and bursts of crisp white pieces I'm having fun playing in the lines between business and casual. These Levi's fit like a glove and check out the wedge heels by Jessica Simpson with pearl accents. Keep it breezy!",
+    "referenceId": "5018d8a2951edf34eda25745b2bbd0d9",
+    "date_created": "1527197203",
+    "date_modified": "1527203242",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "32",
+    "engagement_score": "6",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213177",
+    "product_category": "women",
+    "id": "164288713",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "shine-bright",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "27",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "27",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "27",
+        "prettyDuration": "00:00:27",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/261956433-1527203242.jpg",
+        "type": "mp4",
+        "assetId": "164288713",
+        "assetTitle": "Shine Bright",
+        "assetTitleTextEncoded": "shine-bright",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164288713",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164288713\/7b186\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164288713\/7b186\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164288713\/7b186\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164288713\/7b186\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164288713\/7b186\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

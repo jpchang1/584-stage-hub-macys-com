@@ -1,0 +1,93 @@
+{
+    "title": "New Bobbi Brown!!!!",
+    "description": "Nine new sparkle sticks that you can wear day to night! Very creamy and pigmented. Keep an eye on this brand for new and luxury products!",
+    "referenceId": "6049cc0478bcc0279b34fcb5d76e0cab",
+    "date_created": "1528729561",
+    "date_modified": "1528730400",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213440",
+    "product_category": "beauty",
+    "id": "164787698",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "9458b000-7831-4447-87a4-efa46aa432dd",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "60",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "60",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164787698\/029f9\/thumb-6049cc0478bcc0279b34fcb5d76e0cab-00002.jpg",
+        "type": "mp4",
+        "assetId": 164787698,
+        "assetTitle": "New Bobbi Brown!!!!",
+        "assetTitleTextEncoded": "9458b000-7831-4447-87a4-efa46aa432dd",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 164787698,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164787698\/029f9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164787698\/029f9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164787698\/029f9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164787698\/029f9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164787698\/029f9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Bolec Info",
+    "tvp_enhanced_transcript": null
+}

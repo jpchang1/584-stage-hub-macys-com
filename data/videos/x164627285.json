@@ -1,0 +1,95 @@
+{
+    "title": "Plus size summer denim",
+    "description": "Pulling off the denim overalls look is easy with this Rachel Roy plus size denim jumpsuit! Just add colorful earrings and shoes, like these from I.N.C. International Concepts and you are ready to go",
+    "referenceId": "0b5517b59f3efb4a20c09ec6deff5ea3",
+    "date_created": "1528028398",
+    "date_modified": "1528304104",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "43",
+    "engagement_score": "4",
+    "conversion_score": "75",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213300",
+    "product_category": "women",
+    "id": "164627285",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "plus-size-summer-denim",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "20",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "20",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "20",
+        "prettyDuration": "00:00:20",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164627285\/a215b\/thumb-0b5517b59f3efb4a20c09ec6deff5ea3-00002.jpg",
+        "type": "mp4",
+        "assetId": 164627285,
+        "assetTitle": "Plus size summer denim",
+        "assetTitleTextEncoded": "59bf3df2-6aa7-4da5-8d6e-98757498675b",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 164627285,
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164627285\/a215b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164627285\/a215b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164627285\/a215b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164627285\/a215b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164627285\/a215b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2018-06-18\"},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

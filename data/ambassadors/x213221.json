@@ -1,0 +1,21 @@
+{
+    "id": "213221",
+    "first_name": "Sade'",
+    "last_name": "Anderson",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/953367059-0.8733271836768.jpg",
+        "job_title": "Manager of Jewelry Education"
+    },
+    "last_login_timestamp": "1527790827",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 14:33:36",
+    "login_id": "1759121",
+    "user_id": "213221",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Sade' Anderson",
+    "profile_picture": "\/api\/canvas\/logo\/953367059-0.8733271836768.jpg",
+    "titleTextEncoded": "sade-anderson",
+    "title": "Sade' Anderson",
+    "videos_count": "2"
+}

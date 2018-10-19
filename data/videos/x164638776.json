@@ -1,0 +1,93 @@
+{
+    "title": "WithinUrMeans - Macy's May Beauty Box",
+    "description": "Macy\u2019s Beauty Box. Your Monthly Subscription To Gorgeous Treats. Sign up today!",
+    "referenceId": "5294c9976be6cccf774bd177be96ab58",
+    "date_created": "1528289117",
+    "date_modified": "1528303379",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "37",
+    "engagement_score": "4",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213101",
+    "product_category": "beauty",
+    "id": "164638776",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "img-2965",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "7",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "7",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "7",
+        "prettyDuration": "00:00:07",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164638776\/f1752\/thumb-5294c9976be6cccf774bd177be96ab58-00002.jpg",
+        "type": "mp4",
+        "assetId": 164638776,
+        "assetTitle": "WithinUrMeans - Macy's May Beauty Box",
+        "assetTitleTextEncoded": "img-2965",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 164638776,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164638776\/f1752\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164638776\/f1752\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164638776\/f1752\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164638776\/f1752\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164638776\/f1752\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

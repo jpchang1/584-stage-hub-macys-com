@@ -1,0 +1,97 @@
+{
+    "title": "Style & Co Faux-Leather Moto Jacket",
+    "description": "This jacket has been a great staple piece in my closet for winter. It's a great city-style jacket for those cold nights. It also comes in Petite sizes. I'm wearing the Petite Large.\n#macysstylecrew #macysstylecrewailee",
+    "referenceId": "0c85c390a76f420bf22606e77980f012",
+    "date_created": "1526086200",
+    "date_modified": "1526341386",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "19",
+    "engagement_score": "6",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213194",
+    "product_category": "women",
+    "id": "163881996",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "201d6d54-2bc2-497b-b737-5f16fa10b137",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "31",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "31",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "31",
+        "prettyDuration": "00:00:31",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/613000820-1526341380.png",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/163881996\/e7128\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/163881996\/e7128\/media.m3u8",
+        "assetId": 163881996,
+        "assetTitle": "Style & Co Faux-Leather Moto Jacket",
+        "assetTitleTextEncoded": "201d6d54-2bc2-497b-b737-5f16fa10b137",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 163881996,
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163881996\/e7128\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163881996\/e7128\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163881996\/e7128\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163881996\/e7128\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163881996\/e7128\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

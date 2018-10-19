@@ -1,0 +1,21 @@
+{
+    "id": "213107",
+    "first_name": "Angela",
+    "last_name": "Rosenau",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/331355570-0.9647034658584.jpg",
+        "job_title": "Visual trimmer"
+    },
+    "last_login_timestamp": "1527218875",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 20:38:41",
+    "login_id": "1759121",
+    "user_id": "213107",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Angela Rosenau",
+    "profile_picture": "\/api\/canvas\/logo\/331355570-0.9647034658584.jpg",
+    "titleTextEncoded": "angela-rosenau",
+    "title": "Angela Rosenau",
+    "videos_count": "1"
+}

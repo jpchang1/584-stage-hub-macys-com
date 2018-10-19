@@ -1,0 +1,97 @@
+{
+    "title": "EMILY CURRAN | MACY'S STYLE CREW | EP. 1 - EXFOLIATING WITH ORIGINS",
+    "description": "In this episode, Emily demonstrates exfoliation using Origins Modern Friction, Nature's Dermabrasion! It smooths skin, rubs away dead skin, and preps skin for a flawless makeup application!",
+    "referenceId": "820a029bbb420eb171ffb08e3a50bdde",
+    "date_created": "1525657800",
+    "date_modified": "1528843924",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "44",
+    "engagement_score": "7",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213118",
+    "product_category": null,
+    "id": "163478690",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "ep",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "40",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "40",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "40",
+        "prettyDuration": "00:00:40",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/826820909-1526344536.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/163478690\/f1161\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/163478690\/f1161\/media.m3u8",
+        "assetId": "163478690",
+        "assetTitle": "Ep. 1 - Exfoliating",
+        "assetTitleTextEncoded": "ep",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163478690",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163478690\/f1161\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163478690\/f1161\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163478690\/f1161\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163478690\/f1161\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163478690\/f1161\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

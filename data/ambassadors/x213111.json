@@ -1,0 +1,21 @@
+{
+    "id": "213111",
+    "first_name": "Lydia",
+    "last_name": "Kirsch",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/491156042-0.9784802858717.jpg",
+        "job_title": "My Stylist"
+    },
+    "last_login_timestamp": "1528994092",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 20:45:09",
+    "login_id": "1759121",
+    "user_id": "213111",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Lydia Kirsch",
+    "profile_picture": "\/api\/canvas\/logo\/491156042-0.9784802858717.jpg",
+    "titleTextEncoded": "lydia-kirsch",
+    "title": "Lydia Kirsch",
+    "videos_count": "3"
+}

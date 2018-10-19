@@ -1,0 +1,21 @@
+{
+    "id": "213317",
+    "first_name": "Lisa",
+    "last_name": "Tran",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Campaign Analyst"
+    },
+    "last_login_timestamp": "1527813372",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-07 18:25:41",
+    "login_id": "1759121",
+    "user_id": "213317",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Lisa Tran",
+    "profile_picture": null,
+    "titleTextEncoded": "lisa-tran",
+    "title": "Lisa Tran",
+    "videos_count": "0"
+}

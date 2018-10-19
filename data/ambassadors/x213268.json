@@ -1,0 +1,21 @@
+{
+    "id": "213268",
+    "first_name": "Julia",
+    "last_name": "Jammal",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/946043374-0.3897210363298.jpg",
+        "job_title": "Sales Manager- Beauty"
+    },
+    "last_login_timestamp": "1525893228",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-05 01:08:06",
+    "login_id": "1759121",
+    "user_id": "213268",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Julia Jammal",
+    "profile_picture": "\/api\/canvas\/logo\/946043374-0.3897210363298.jpg",
+    "titleTextEncoded": "julia-jammal",
+    "title": "Julia Jammal",
+    "videos_count": "0"
+}

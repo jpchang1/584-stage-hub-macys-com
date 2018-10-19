@@ -1,0 +1,95 @@
+{
+    "title": "What Dad Likes",
+    "description": "Hey it listers! It's me again. Father's Day is right around the corner and we have more than enough gifts for what he likes! How about the 5 Ways To Wear Seersucker trend! Follow the link and get your gifts early!",
+    "referenceId": "9874c26c3e9db3d38c22d8ff5d99a330",
+    "date_created": "1527187354",
+    "date_modified": "1527191888",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "20",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213226",
+    "product_category": "men",
+    "id": "164288407",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "c60b2bbc-ab04-4fc6-8513-80857cee3457-mp4",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "15",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "15",
+            "width": 576,
+            "height": 1024
+        },
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164288407\/35066\/thumb-9874c26c3e9db3d38c22d8ff5d99a330-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164288407\/35066\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164288407\/35066\/media.m3u8",
+        "assetId": "164288407",
+        "assetTitle": "What Dad Likes",
+        "assetTitleTextEncoded": "c60b2bbc-ab04-4fc6-8513-80857cee3457-mp4",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164288407",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164288407\/35066\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 576,
+                "height": 1024
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164288407\/35066\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164288407\/35066\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164288407\/35066\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164288407\/35066\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,95 @@
+{
+    "title": "@saystheart : Caydee #MacysStyleCrew",
+    "description": "I'm completely obsessed with denim, and it is so easy to style! For a cool, edgy look, try pairing your denim jacket with a graphic t-shirt and a pair of high rise skinny jeans! Don't be afraid to get creative! To shop this look, click the links provided below!",
+    "referenceId": "6754cf962287ff51ced815d779ae71cf",
+    "date_created": "1527552862",
+    "date_modified": "1528997639",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "26",
+    "engagement_score": "4",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213274",
+    "product_category": "juniors",
+    "id": "164597166",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "caydee1",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "22",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "22",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "22",
+        "prettyDuration": "00:00:22",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164597166\/50ffa\/thumb-6754cf962287ff51ced815d779ae71cf-00002.jpg",
+        "type": "mp4",
+        "assetId": "164597166",
+        "assetTitle": "#MacysStyleCrew Don & Cat: Cat",
+        "assetTitleTextEncoded": "caydee1",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164597166",
+            "li": "1759121"
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164597166\/50ffa\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164597166\/50ffa\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164597166\/50ffa\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164597166\/50ffa\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164597166\/50ffa\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164597166\/50ffa\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164597166\/50ffa\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Bisuteria",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,21 @@
+{
+    "id": "213134",
+    "first_name": "Danada",
+    "last_name": "Smith",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Manager Operations & Asset Protection"
+    },
+    "last_login_timestamp": "1525670689",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 21:26:35",
+    "login_id": "1759121",
+    "user_id": "213134",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Danada Smith",
+    "profile_picture": null,
+    "titleTextEncoded": "danada-smith",
+    "title": "Danada Smith",
+    "videos_count": "0"
+}

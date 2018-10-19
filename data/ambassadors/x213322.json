@@ -1,0 +1,21 @@
+{
+    "id": "213322",
+    "first_name": "Kenneth",
+    "last_name": "Marshall",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "MyStylist"
+    },
+    "last_login_timestamp": "1525962327",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-07 23:23:49",
+    "login_id": "1759121",
+    "user_id": "213322",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Kenneth Marshall",
+    "profile_picture": null,
+    "titleTextEncoded": "kenneth-marshall",
+    "title": "Kenneth Marshall",
+    "videos_count": "0"
+}

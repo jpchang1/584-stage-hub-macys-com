@@ -1,0 +1,21 @@
+{
+    "id": "213267",
+    "first_name": "Melissa",
+    "last_name": "Caudill",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/863222305-0.5454939668066.jpg",
+        "job_title": "Sales Associate"
+    },
+    "last_login_timestamp": "1527448840",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-05 00:40:33",
+    "login_id": "1759121",
+    "user_id": "213267",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Melissa Caudill",
+    "profile_picture": "\/api\/canvas\/logo\/863222305-0.5454939668066.jpg",
+    "titleTextEncoded": "melissa-caudill",
+    "title": "Melissa Caudill",
+    "videos_count": "1"
+}

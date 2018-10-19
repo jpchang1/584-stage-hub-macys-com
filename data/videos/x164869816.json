@@ -1,0 +1,99 @@
+{
+    "title": "Summer Trend Alert - The Statement Slide!",
+    "description": "I am so into slides RN. Super comfy & easy, like relaxed chic. Everyone is wearing them, so I've rounded up my fave slides available at Macy's for your viewing pleasure.",
+    "referenceId": "473c5f16050bdafff09ca0f5351a36fc",
+    "date_created": "1528859290",
+    "date_modified": "1529237379",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "5",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213156",
+    "product_category": "shoes",
+    "id": "164869816",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "img-5286",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "7",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "7",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "7",
+        "prettyDuration": "00:00:07",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164869816\/d1b42\/thumb-473c5f16050bdafff09ca0f5351a36fc-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "assetId": "164869816",
+        "assetTitle": "Summer Trend Alert - The Statement Slide!",
+        "assetTitleTextEncoded": "img-5286",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164869816",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164869816\/d1b42\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164869816\/d1b42\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164869816\/d1b42\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164869816\/d1b42\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164869816\/d1b42\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

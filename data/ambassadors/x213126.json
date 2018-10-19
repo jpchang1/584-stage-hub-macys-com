@@ -1,0 +1,21 @@
+{
+    "id": "213126",
+    "first_name": "Michael",
+    "last_name": "Libra",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/819516444-0.5659787895623.jpg",
+        "job_title": "MyStylist Executive"
+    },
+    "last_login_timestamp": "1527816570",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 21:14:36",
+    "login_id": "1759121",
+    "user_id": "213126",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Michael Libra",
+    "profile_picture": "\/api\/canvas\/logo\/819516444-0.5659787895623.jpg",
+    "titleTextEncoded": "michael-libra",
+    "title": "Michael Libra",
+    "videos_count": "8"
+}

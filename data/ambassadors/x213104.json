@@ -1,0 +1,21 @@
+{
+    "id": "213104",
+    "first_name": "Bryanna",
+    "last_name": "Santos",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/203026408-0.3808444013819.jpg",
+        "job_title": "Sales Manager"
+    },
+    "last_login_timestamp": "1529358287",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 20:33:27",
+    "login_id": "1759121",
+    "user_id": "213104",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Bryanna Santos",
+    "profile_picture": "\/api\/canvas\/logo\/203026408-0.3808444013819.jpg",
+    "titleTextEncoded": "bryanna-santos",
+    "title": "Bryanna Santos",
+    "videos_count": "0"
+}

@@ -1,0 +1,95 @@
+{
+    "title": "STYLE CREW KATE",
+    "description": "So excited to be part of the style crew. Shop my favorite Steve Madden summer shoes!",
+    "referenceId": "0729100370f09fa0d6dda2568d56c3f6",
+    "date_created": "1526860801",
+    "date_modified": "1526861518",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "34",
+    "engagement_score": "5",
+    "conversion_score": "50",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213210",
+    "product_category": "shoes",
+    "id": "163979419",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "img-5492-1",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "4",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "4",
+            "width": 540,
+            "height": 960
+        },
+        "mediaDuration": "4",
+        "prettyDuration": "00:00:04",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163979419\/116fe\/thumb-0729100370f09fa0d6dda2568d56c3f6-00002.jpg",
+        "type": "mp4",
+        "assetId": 163979419,
+        "assetTitle": "STYLE CREW KATE",
+        "assetTitleTextEncoded": "img-5492-1",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 163979419,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163979419\/116fe\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 540,
+                "height": 960
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163979419\/116fe\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163979419\/116fe\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163979419\/116fe\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163979419\/116fe\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/163979419\/116fe\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/163979419\/116fe\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

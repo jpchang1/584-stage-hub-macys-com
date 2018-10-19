@@ -1,0 +1,93 @@
+{
+    "title": "Little White Bridal Shower Dress",
+    "description": "This sheath dress is the perfect statement for any bridal shower! It was perfect for mine.",
+    "referenceId": "acfbc1c53139693db1a1e5dbb290ba2a",
+    "date_created": "1529251694",
+    "date_modified": "1529251771",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213203",
+    "product_category": "women",
+    "id": "164932276",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "09a6b9e5-ce5e-46ea-b4eb-55fd928ce0e7",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "6",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "6",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "6",
+        "prettyDuration": "00:00:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164932276\/870ee\/thumb-acfbc1c53139693db1a1e5dbb290ba2a-00002.jpg",
+        "type": "mp4",
+        "assetId": "164932276",
+        "assetTitle": "09A6B9E5-CE5E-46EA-B4EB-55FD928CE0E7",
+        "assetTitleTextEncoded": "09a6b9e5-ce5e-46ea-b4eb-55fd928ce0e7",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164932276",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164932276\/870ee\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164932276\/870ee\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164932276\/870ee\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164932276\/870ee\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164932276\/870ee\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,95 @@
+{
+    "title": "Be sweet like a pineapple! It's summer time!_HD",
+    "description": "Summer is here and Pineapples have invaded Macys! #macys #macysstylecrew #summertime",
+    "referenceId": "cbc238b0b62844d325f3d876687c8fa2",
+    "date_created": "1527808116",
+    "date_modified": "1528232011",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213152",
+    "product_category": "kids",
+    "id": "164611717",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "be-sweet-like-a-pineapple-it-s-summer-time-hd",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "61",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "61",
+            "width": 720,
+            "height": 960
+        },
+        "mediaDuration": "61",
+        "prettyDuration": "00:01:01",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/510627933-1528232010.png",
+        "type": "mp4",
+        "assetId": "164611717",
+        "assetTitle": "Be sweet like a pineapple! It's summer time!_HD",
+        "assetTitleTextEncoded": "be-sweet-like-a-pineapple-it-s-summer-time-hd",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164611717",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164611717\/d2649\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 960
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164611717\/d2649\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 540,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164611717\/d2649\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164611717\/d2649\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164611717\/d2649\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 180,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Audrey Edible Arrangements",
+    "tvp_enhanced_transcript": null
+}

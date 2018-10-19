@@ -1,0 +1,21 @@
+{
+    "id": "213250",
+    "first_name": "Maria",
+    "last_name": "Castano",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/719164732-0.7109609773382.jpg",
+        "job_title": "Admin"
+    },
+    "last_login_timestamp": "1525711761",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 20:11:53",
+    "login_id": "1759121",
+    "user_id": "213250",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Maria Castano",
+    "profile_picture": "\/api\/canvas\/logo\/719164732-0.7109609773382.jpg",
+    "titleTextEncoded": "maria-castano",
+    "title": "Maria Castano",
+    "videos_count": "0"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "213242",
+    "first_name": "Amanda",
+    "last_name": "Cavanzo",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/964627206-0.3930154650006.jpg",
+        "job_title": "Visual Manager"
+    },
+    "last_login_timestamp": "1527294920",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 18:25:52",
+    "login_id": "1759121",
+    "user_id": "213242",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Amanda Cavanzo",
+    "profile_picture": "\/api\/canvas\/logo\/964627206-0.3930154650006.jpg",
+    "titleTextEncoded": "amanda-cavanzo",
+    "title": "Amanda Cavanzo",
+    "videos_count": "1"
+}

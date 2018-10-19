@@ -1,0 +1,93 @@
+{
+    "title": "Michael Kors and Style & Co. Casual Style",
+    "description": "Michael Kors handbags, Style & Co. top. always a good combination for a casual style. Love the Style & Co top with a free style design.",
+    "referenceId": "808dc5132a44b96f2a257795818f8bd8",
+    "date_created": "1527201831",
+    "date_modified": "1527202004",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "28",
+    "engagement_score": "3",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213183",
+    "product_category": "handbags",
+    "id": "164288730",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "michael-kors-and-style-co-casual-style",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "15",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "15",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164288730\/257ec\/thumb-808dc5132a44b96f2a257795818f8bd8-00002.jpg",
+        "type": "mp4",
+        "assetId": "164288730",
+        "assetTitle": "Michael Kors and Style & Co. Casual Style",
+        "assetTitleTextEncoded": "michael-kors-and-style-co-casual-style",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164288730",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164288730\/257ec\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164288730\/257ec\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164288730\/257ec\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164288730\/257ec\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164288730\/257ec\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

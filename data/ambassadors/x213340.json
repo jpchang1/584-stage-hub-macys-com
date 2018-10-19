@@ -1,0 +1,21 @@
+{
+    "id": "213340",
+    "first_name": "Macys",
+    "last_name": "StyleCrew",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Style Crewer"
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-08 22:34:35",
+    "login_id": "1759121",
+    "user_id": "213340",
+    "role_id": "2",
+    "status": "1",
+    "fullName": "Macys StyleCrew",
+    "profile_picture": null,
+    "titleTextEncoded": "macys-stylecrew",
+    "title": "Macys StyleCrew",
+    "videos_count": "0"
+}

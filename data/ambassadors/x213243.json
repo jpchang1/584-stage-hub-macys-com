@@ -1,0 +1,21 @@
+{
+    "id": "213243",
+    "first_name": "Carly",
+    "last_name": "Krasnoff",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/170196002-0.6968966567888.jpg",
+        "job_title": "Omni Associate Planner - Plus Collections"
+    },
+    "last_login_timestamp": "1528988341",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 18:32:56",
+    "login_id": "1759121",
+    "user_id": "213243",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Carly Krasnoff",
+    "profile_picture": "\/api\/canvas\/logo\/170196002-0.6968966567888.jpg",
+    "titleTextEncoded": "carly-krasnoff",
+    "title": "Carly Krasnoff",
+    "videos_count": "1"
+}

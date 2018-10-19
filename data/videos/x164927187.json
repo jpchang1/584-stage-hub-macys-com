@@ -1,0 +1,97 @@
+{
+    "title": "Sapphire beautyblender",
+    "description": "Gotta catch them all right? If you have never played with a beautyblender before, an authentic one, you HAVE to! From foundation to concealer, it couldn't be more flawless! Oh and by the way, use the same way with your skincare also! Now available in the sapphire color!\n\nSapphire WEB ID: 6510724\n\nFollow me on Instagram for more: @janie.hong",
+    "referenceId": "6c04c4fc404cb4522dfcc3cf02651e9c",
+    "date_created": "1529197432",
+    "date_modified": "1529345195",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "0",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213220",
+    "product_category": "beauty",
+    "id": "164927187",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "sapphire-beautyblender",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "27",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "27",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "27",
+        "prettyDuration": "00:00:27",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164927187\/a63e7\/thumb-6c04c4fc404cb4522dfcc3cf02651e9c-00002.jpg",
+        "type": "mp4",
+        "assetId": "164927187",
+        "assetTitle": "Sapphire beautyblender",
+        "assetTitleTextEncoded": "sapphire-beautyblender",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164927187",
+            "li": "1759121"
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164927187\/a63e7\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164927187\/a63e7\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164927187\/a63e7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164927187\/a63e7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164927187\/a63e7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164927187\/a63e7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164927187\/a63e7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Sports",
+    "tvp_enhanced_transcript": null
+}

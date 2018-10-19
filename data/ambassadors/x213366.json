@@ -1,0 +1,21 @@
+{
+    "id": "213366",
+    "first_name": "Fey",
+    "last_name": "Mejias",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/378265015-0.1409618775825.jpg",
+        "job_title": "Associate Product Manager"
+    },
+    "last_login_timestamp": "1529188308",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-11 16:23:42",
+    "login_id": "1759121",
+    "user_id": "213366",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Fey Mejias",
+    "profile_picture": "\/api\/canvas\/logo\/378265015-0.1409618775825.jpg",
+    "titleTextEncoded": "fey-mejias",
+    "title": "Fey Mejias",
+    "videos_count": "2"
+}

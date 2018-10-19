@@ -1,0 +1,97 @@
+{
+    "title": "Audition tape - preview",
+    "description": "Product Assistant shows us her all time favourite outfits.",
+    "referenceId": "343593c3c2ad20a41428267b14996ee3",
+    "date_created": "1528256951",
+    "date_modified": "1528317791",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "9",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213426",
+    "product_category": "women",
+    "id": "164633073",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "a1e9d25e-a2fd-4aa5-9316-83228967f119",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "61",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "61",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "61",
+        "prettyDuration": "00:01:01",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164633073\/a9d7e\/thumb-343593c3c2ad20a41428267b14996ee3-00002.jpg",
+        "type": "mp4",
+        "assetId": "164633073",
+        "assetTitle": "A1E9D25E-A2FD-4AA5-9316-83228967F119",
+        "assetTitleTextEncoded": "a1e9d25e-a2fd-4aa5-9316-83228967f119",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164633073",
+            "li": "1759121"
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164633073\/a9d7e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164633073\/a9d7e\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164633073\/a9d7e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164633073\/a9d7e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164633073\/a9d7e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164633073\/a9d7e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164633073\/a9d7e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,21 @@
+{
+    "id": "213196",
+    "first_name": "Jack",
+    "last_name": "Petee",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/243150655-0.2362273490056.jpg",
+        "job_title": "Sales Associate"
+    },
+    "last_login_timestamp": "1525652099",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 05:43:51",
+    "login_id": "1759121",
+    "user_id": "213196",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Jack Petee",
+    "profile_picture": "\/api\/canvas\/logo\/243150655-0.2362273490056.jpg",
+    "titleTextEncoded": "jack-petee",
+    "title": "Jack Petee",
+    "videos_count": "0"
+}

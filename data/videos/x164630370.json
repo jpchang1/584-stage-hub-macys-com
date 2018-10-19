@@ -1,0 +1,93 @@
+{
+    "title": "Peeves",
+    "description": "Please enjoy this video of Peeves the bunny hopping around in a Macy's bag until I figure out how to delete it!  #facepalm lol :)",
+    "referenceId": "5c412825c03f87786771839991f5de81",
+    "date_created": "1528137618",
+    "date_modified": "1528142085",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "7",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213280",
+    "product_category": null,
+    "id": "164630370",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "peeves-01",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "8",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "8",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "8",
+        "prettyDuration": "00:00:08",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164630370\/66854\/thumb-5c412825c03f87786771839991f5de81-00002.jpg",
+        "type": "mp4",
+        "assetId": "164630370",
+        "assetTitle": "Peeves_01",
+        "assetTitleTextEncoded": "peeves-01",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164630370",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164630370\/66854\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164630370\/66854\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164630370\/66854\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164630370\/66854\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164630370\/66854\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

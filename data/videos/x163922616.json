@@ -1,0 +1,99 @@
+{
+    "title": "Everyday Foundation Routine - Melissa Bauth",
+    "description": "Learn about foundation wardrobing, quick tips and tricks all while creating a flawless everyday foundation look with Melissa Bauth.",
+    "referenceId": "404a00ce24ff49448b65719ad1fb17ac",
+    "date_created": "1526351402",
+    "date_modified": "1526353144",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "49",
+    "engagement_score": "9",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213108",
+    "product_category": "beauty",
+    "id": "163922616",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "everyday-foundation-routine-melissa-bauth",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": "537",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "537",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "537",
+        "prettyDuration": "00:08:57",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163922616\/1e696\/thumb-404a00ce24ff49448b65719ad1fb17ac-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/163922616\/1e696\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/163922616\/1e696\/media.m3u8",
+        "assetId": 163922616,
+        "assetTitle": "Everyday Foundation Routine - Melissa Bauth",
+        "assetTitleTextEncoded": "everyday-foundation-routine-melissa-bauth",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 163922616,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163922616\/1e696\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163922616\/1e696\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163922616\/1e696\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163922616\/1e696\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163922616\/1e696\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

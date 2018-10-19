@@ -1,0 +1,93 @@
+{
+    "title": "INC Paisley pant, Style & Co shoe",
+    "description": "Calvin Klein Top\nI.N.C. Wide leg pant, jewelry, and white handbag\nStyle&Co Shoes",
+    "referenceId": "55af57fb1831d8ce129b404dc51e71f6",
+    "date_created": "1526067304",
+    "date_modified": "1527363770",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "30",
+    "engagement_score": "6",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213303",
+    "product_category": "women",
+    "id": "163880368",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "5dde9faf-3fa5-4520-87dd-66cf8e10177e",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "7",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "7",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "7",
+        "prettyDuration": "00:00:07",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163880368\/b4aef\/thumb-55af57fb1831d8ce129b404dc51e71f6-00001.jpg",
+        "type": "mp4",
+        "assetId": 163880368,
+        "assetTitle": "INC Paisley pant, Style & Co shoe",
+        "assetTitleTextEncoded": "5dde9faf-3fa5-4520-87dd-66cf8e10177e",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 163880368,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163880368\/b4aef\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163880368\/b4aef\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163880368\/b4aef\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163880368\/b4aef\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163880368\/b4aef\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

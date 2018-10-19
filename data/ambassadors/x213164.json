@@ -1,0 +1,21 @@
+{
+    "id": "213164",
+    "first_name": "Yvette",
+    "last_name": "Jones",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/929798557-0.7879635796882.jpg",
+        "job_title": "SM"
+    },
+    "last_login_timestamp": "1525731644",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 00:31:12",
+    "login_id": "1759121",
+    "user_id": "213164",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Yvette Jones",
+    "profile_picture": "\/api\/canvas\/logo\/929798557-0.7879635796882.jpg",
+    "titleTextEncoded": "yvette-jones",
+    "title": "Yvette Jones",
+    "videos_count": "0"
+}

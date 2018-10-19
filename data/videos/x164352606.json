@@ -1,0 +1,95 @@
+{
+    "title": "Celebrating Summer",
+    "description": "Summer dressing with these fun ladies in #INCInternationalConcept #TrinaTurk for #MemorialDayWeekend #MacysStyleCrew #BeOurGuest @macysvisual41",
+    "referenceId": "b5d1ba10e0b223924cf6f7feb3fa4e81",
+    "date_created": "1527263176",
+    "date_modified": "1527293599",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "60",
+    "engagement_score": "7",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213334",
+    "product_category": "women",
+    "id": "164352606",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "vid-47870207-135808-351",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "6",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "6",
+            "width": 562,
+            "height": 1080
+        },
+        "mediaDuration": "6",
+        "prettyDuration": "00:00:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164352606\/8fc82\/thumb-b5d1ba10e0b223924cf6f7feb3fa4e81-00002.jpg",
+        "type": "mp4",
+        "assetId": 164352606,
+        "assetTitle": "Celebrating Summer",
+        "assetTitleTextEncoded": "vid-47870207-135808-351",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 164352606,
+            "li": "1759121"
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164352606\/8fc82\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164352606\/8fc82\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164352606\/8fc82\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 562,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164352606\/8fc82\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 374,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164352606\/8fc82\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 250,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164352606\/8fc82\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 188,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164352606\/8fc82\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 124,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

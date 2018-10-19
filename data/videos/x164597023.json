@@ -1,0 +1,93 @@
+{
+    "title": "Calvin Klein Bomber + All white",
+    "description": "Finally saying Goodbye to winter. So, its time to bring out the white pants, and shorts.  Teaming it with a Calvin Klein baseball striped bomber is perfect for the chilly days in the city.  Be sure to like and follow @Mr_TJay! Thanks! ***I DO NOT OWN ANY RIGHTS TO THIS MUSIC. NO COPY RIGHT INFRINGEME...",
+    "referenceId": "51312504726bf5200b9720792ea035ef",
+    "date_created": "1527513807",
+    "date_modified": "1527515203",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "64",
+    "engagement_score": "6",
+    "conversion_score": "25",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213335",
+    "product_category": "men",
+    "id": "164597023",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "ck-d4",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "32",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "32",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "32",
+        "prettyDuration": "00:00:32",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164597023\/96197\/thumb-51312504726bf5200b9720792ea035ef-00002.jpg",
+        "type": "mp4",
+        "assetId": "164597023",
+        "assetTitle": "Calvin Klein Bomber + All white",
+        "assetTitleTextEncoded": "ck-d4",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164597023",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164597023\/96197\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164597023\/96197\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164597023\/96197\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164597023\/96197\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164597023\/96197\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2018-06-18\"},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,21 @@
+{
+    "id": "213373",
+    "first_name": "Justin",
+    "last_name": "Mcintyre",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/718102796-0.8710217013955.jpg",
+        "job_title": "Sales Associate"
+    },
+    "last_login_timestamp": "1526571851",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-12 19:09:17",
+    "login_id": "1759121",
+    "user_id": "213373",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Justin Mcintyre",
+    "profile_picture": "\/api\/canvas\/logo\/718102796-0.8710217013955.jpg",
+    "titleTextEncoded": "justin-mcintyre",
+    "title": "Justin Mcintyre",
+    "videos_count": "0"
+}

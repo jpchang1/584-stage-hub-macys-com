@@ -1,0 +1,21 @@
+{
+    "id": "213113",
+    "first_name": "John",
+    "last_name": "Shannon",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Product Assistant"
+    },
+    "last_login_timestamp": "1525802589",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 20:46:42",
+    "login_id": "1759121",
+    "user_id": "213113",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "John Shannon",
+    "profile_picture": null,
+    "titleTextEncoded": "john-shannon",
+    "title": "John Shannon",
+    "videos_count": "0"
+}

@@ -1,0 +1,99 @@
+{
+    "title": "Night in White",
+    "description": "How to wear a see through flowy top on a hot summer night",
+    "referenceId": "5e82087da69202ff7825c298cc35a0a6",
+    "date_created": "1527097414",
+    "date_modified": "1528124844",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "273",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213205",
+    "product_category": "women",
+    "id": "163992255",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "3aa96934-11d1-4ce9-9270-be343576a503",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "12",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "12",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "12",
+        "prettyDuration": "00:00:12",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163992255\/1ea0c\/thumb-5e82087da69202ff7825c298cc35a0a6-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "assetId": 163992255,
+        "assetTitle": "Night in White",
+        "assetTitleTextEncoded": "3aa96934-11d1-4ce9-9270-be343576a503",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 163992255,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163992255\/1ea0c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163992255\/1ea0c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163992255\/1ea0c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163992255\/1ea0c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163992255\/1ea0c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "ADM Value Macy's",
+    "tvp_enhanced_transcript": null
+}

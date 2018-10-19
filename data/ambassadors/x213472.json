@@ -1,0 +1,21 @@
+{
+    "id": "213472",
+    "first_name": "James",
+    "last_name": "McGhee",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/870449571-0.2835885372478.jpg",
+        "job_title": "Sales Supervisor"
+    },
+    "last_login_timestamp": "1529349744",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-06-15 19:26:09",
+    "login_id": "1759121",
+    "user_id": "213472",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "James McGhee",
+    "profile_picture": "\/api\/canvas\/logo\/870449571-0.2835885372478.jpg",
+    "titleTextEncoded": "james-mcghee",
+    "title": "James McGhee",
+    "videos_count": "0"
+}

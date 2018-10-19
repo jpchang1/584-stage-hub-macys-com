@@ -1,0 +1,95 @@
+{
+    "title": "Jacqueline Palmer\/Style Crew",
+    "description": "Color Trend for summer! Try a little yellow, and some fun to your wardrobe. #macysstylecrew #macystylecrewjacqueline #guess #kasper #Thenorthface #calvinklien #tommyhilfiger #summer #fashion #trend",
+    "referenceId": "7cd1dbc3de46336a4d3c3bd686c6b999",
+    "date_created": "1527646963",
+    "date_modified": "1527647425",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "110",
+    "engagement_score": "16",
+    "conversion_score": "25",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": "women",
+    "id": "164599819",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "39507e26-d483-4194-9e14-b165bdfc30f3",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "222",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "222",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "222",
+        "prettyDuration": "00:03:42",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164599819\/42b3d\/thumb-7cd1dbc3de46336a4d3c3bd686c6b999-00002.jpg",
+        "type": "mp4",
+        "assetId": "164599819",
+        "assetTitle": "39507E26-D483-4194-9E14-B165BDFC30F3",
+        "assetTitleTextEncoded": "39507e26-d483-4194-9e14-b165bdfc30f3",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164599819",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164599819\/42b3d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164599819\/42b3d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164599819\/42b3d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164599819\/42b3d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164599819\/42b3d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164599819\/42b3d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164599819\/42b3d\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2018-06-18\"},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

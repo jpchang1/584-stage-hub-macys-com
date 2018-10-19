@@ -1,0 +1,21 @@
+{
+    "id": "213118",
+    "first_name": "Emily",
+    "last_name": "Curran",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/536613486-0.2582833372987.jpg",
+        "job_title": "CHANEL Beauty Advisor"
+    },
+    "last_login_timestamp": "1529333686",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 20:54:56",
+    "login_id": "1759121",
+    "user_id": "213118",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Emily Curran",
+    "profile_picture": "\/api\/canvas\/logo\/536613486-0.2582833372987.jpg",
+    "titleTextEncoded": "emily-curran",
+    "title": "Emily Curran",
+    "videos_count": "13"
+}

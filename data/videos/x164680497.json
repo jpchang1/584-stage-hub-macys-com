@@ -1,0 +1,95 @@
+{
+    "title": "Jacqueline Palmer\/Trunk show",
+    "description": "The first ever pre owned, certified, two year warranty on Rolex watches! \n#jewelry #macysstylecrew #macysjewlery #rolex #watches #fashion #finewatches #style #summershow",
+    "referenceId": "20ff240254da840a4b0c6f9636fdbf36",
+    "date_created": "1528403830",
+    "date_modified": "1528405053",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": "jewelry",
+    "id": "164680497",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "0f0d1316-4ac5-4d1f-8e51-0b2347e6c05e",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "67",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "67",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "67",
+        "prettyDuration": "00:01:07",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/601778640-1528405052.png",
+        "type": "mp4",
+        "assetId": "164680497",
+        "assetTitle": "0F0D1316-4AC5-4D1F-8E51-0B2347E6C05E",
+        "assetTitleTextEncoded": "0f0d1316-4ac5-4d1f-8e51-0b2347e6c05e",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164680497",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164680497\/811f3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164680497\/811f3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164680497\/811f3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164680497\/811f3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164680497\/811f3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

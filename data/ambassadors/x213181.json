@@ -1,0 +1,21 @@
+{
+    "id": "213181",
+    "first_name": "Daniel",
+    "last_name": "Alves de Carvalho",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/624597593-0.8766918652690.jpg",
+        "job_title": "Fine Jewelry Lead"
+    },
+    "last_login_timestamp": "1525748617",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 02:54:40",
+    "login_id": "1759121",
+    "user_id": "213181",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Daniel Alves de Carvalho",
+    "profile_picture": "\/api\/canvas\/logo\/624597593-0.8766918652690.jpg",
+    "titleTextEncoded": "daniel-alves-de-carvalho",
+    "title": "Daniel Alves de Carvalho",
+    "videos_count": "1"
+}

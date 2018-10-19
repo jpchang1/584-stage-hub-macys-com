@@ -1,0 +1,21 @@
+{
+    "id": "213210",
+    "first_name": "Kate",
+    "last_name": "Guinaw",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/658791906-0.1198214697185.jpg",
+        "job_title": "Associate Product Manager"
+    },
+    "last_login_timestamp": "1526255341",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 12:33:50",
+    "login_id": "1759121",
+    "user_id": "213210",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Kate Guinaw",
+    "profile_picture": "\/api\/canvas\/logo\/658791906-0.1198214697185.jpg",
+    "titleTextEncoded": "kate-guinaw",
+    "title": "Kate Guinaw",
+    "videos_count": "1"
+}

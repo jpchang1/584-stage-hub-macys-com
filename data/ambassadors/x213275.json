@@ -1,0 +1,21 @@
+{
+    "id": "213275",
+    "first_name": "Anthony",
+    "last_name": "Stewart",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Jewelry lead"
+    },
+    "last_login_timestamp": "1525640541",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-05 12:22:50",
+    "login_id": "1759121",
+    "user_id": "213275",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Anthony Stewart",
+    "profile_picture": null,
+    "titleTextEncoded": "anthony-stewart",
+    "title": "Anthony Stewart",
+    "videos_count": "0"
+}

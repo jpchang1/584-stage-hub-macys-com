@@ -1,0 +1,21 @@
+{
+    "id": "213254",
+    "first_name": "Joe",
+    "last_name": "McKee",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Digital Assistant Merchant, Men's Shoes"
+    },
+    "last_login_timestamp": "1525724785",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 21:35:22",
+    "login_id": "1759121",
+    "user_id": "213254",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Joe McKee",
+    "profile_picture": null,
+    "titleTextEncoded": "joe-mckee",
+    "title": "Joe McKee",
+    "videos_count": "0"
+}

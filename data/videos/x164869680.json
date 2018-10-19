@@ -1,0 +1,97 @@
+{
+    "title": "Vince Camuto Ruffle Sleeve Shift Dress",
+    "description": "This charming Vince Camuto shift dress suffused with contemporary style and energizing color will be a good choice whether you are going to a summer wedding, a birthday party, or on a date .\nYou can find this dress on macys.com,   Web ID 6059407.",
+    "referenceId": "c52cb138a9d25f8cd591c7c6f1254fdd",
+    "date_created": "1528854972",
+    "date_modified": "1528941831",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "7",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213258",
+    "product_category": "women",
+    "id": "164869680",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "img-2487",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "9",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "9",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "9",
+        "prettyDuration": "00:00:09",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164869680\/765ac\/thumb-c52cb138a9d25f8cd591c7c6f1254fdd-00002.jpg",
+        "type": "mp4",
+        "assetId": 164869680,
+        "assetTitle": "Vince Camuto Ruffle Sleeve Shift Dress",
+        "assetTitleTextEncoded": "img-2487",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 164869680,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164869680\/765ac\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164869680\/765ac\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164869680\/765ac\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164869680\/765ac\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164869680\/765ac\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Summer Lip Color ft. Est\u0113e Lauder",
+    "description": "Some of my favorite pink lips for your summer days!",
+    "referenceId": "d11a78e0c14ab0a13175dac91982a3ad",
+    "date_created": "1526397611",
+    "date_modified": "1526397919",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "21",
+    "engagement_score": "3",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213170",
+    "product_category": "beauty",
+    "id": "163925398",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "img-1185",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "16",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "16",
+            "width": 480,
+            "height": 600
+        },
+        "mediaDuration": "16",
+        "prettyDuration": "00:00:16",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163925398\/70946\/thumb-d11a78e0c14ab0a13175dac91982a3ad-00001.jpg",
+        "type": "mp4",
+        "assetId": "163925398",
+        "assetTitle": "Summer Lip Color ft. Est\u0113e Lauder",
+        "assetTitleTextEncoded": "img-1185",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163925398",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163925398\/70946\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 600
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163925398\/70946\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 600
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163925398\/70946\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163925398\/70946\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 288,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163925398\/70946\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

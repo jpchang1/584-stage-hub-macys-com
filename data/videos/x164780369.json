@@ -1,0 +1,95 @@
+{
+    "title": "EMILY CURRAN | JACQUELINE PALMER | WHITE, BLACK AND RED",
+    "description": "Black, white, and red are IN for the summer! Shop this classic look with some Calvin Klein and Laura Mercier!",
+    "referenceId": "d683fffc8df06a06c5eef89f27fe33e6",
+    "date_created": "1528547322",
+    "date_modified": "1528891211",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213118",
+    "product_category": "beauty",
+    "id": "164780369",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "a4b6ae46-afee-442a-b3c8-a0fe43a8b3b7",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "110",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "110",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "110",
+        "prettyDuration": "00:01:50",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164780369\/99414\/thumb-d683fffc8df06a06c5eef89f27fe33e6-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "assetId": "164780369",
+        "assetTitle": "Wear Black, White, and Red This Summer",
+        "assetTitleTextEncoded": "a4b6ae46-afee-442a-b3c8-a0fe43a8b3b7",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164780369",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164780369\/99414\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164780369\/99414\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164780369\/99414\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164780369\/99414\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164780369\/99414\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

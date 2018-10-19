@@ -1,0 +1,93 @@
+{
+    "title": "Shoe Shopping Trip!",
+    "description": "New shoes, new shoes!! Summer is almost here and all my old warm weather shoes just were not cutting it anymore - no place puts shoes to the test like NYC. Soo, while Macy's is having one of their awesome shoes sales, 40% off when you buy two or more pairs, I decided to follow my favorite phrase from Parks & Rec- Treat Yo Self! So excited to take these puppies for a spin around the city! \n\nSale ends 6\/19 - don't miss out!",
+    "referenceId": "7b9185d251663203f6d5bd790bbdb1a8",
+    "date_created": "1529102916",
+    "date_modified": "1529104720",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "6",
+    "engagement_score": null,
+    "conversion_score": "100",
+    "CVV_VI": "4",
+    "video_type": null,
+    "user_id": "213156",
+    "product_category": "shoes",
+    "id": "164920515",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "shoe-shopping-trip",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "14",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "14",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "14",
+        "prettyDuration": "00:00:14",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164920515\/3f949\/thumb-7b9185d251663203f6d5bd790bbdb1a8-00002.jpg",
+        "type": "mp4",
+        "assetId": "164920515",
+        "assetTitle": "Shoe Shopping Trip!",
+        "assetTitleTextEncoded": "shoe-shopping-trip",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164920515",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164920515\/3f949\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164920515\/3f949\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164920515\/3f949\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164920515\/3f949\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164920515\/3f949\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2018-06-18\"},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

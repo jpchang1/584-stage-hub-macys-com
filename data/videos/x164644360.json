@@ -1,0 +1,97 @@
+{
+    "title": "ABH Prism",
+    "description": "Get yours hands on the amazing Anastasia of Beverly Hills limited edition palette!!!",
+    "referenceId": "5186a1526ab20a429081c10a5814957e",
+    "date_created": "1528327464",
+    "date_modified": "1528327541",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "5",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213440",
+    "product_category": "beauty",
+    "id": "164644360",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "77e68275-6360-4dfb-9766-8a748bd6027f",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "17",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "17",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "17",
+        "prettyDuration": "00:00:17",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164644360\/108bf\/thumb-5186a1526ab20a429081c10a5814957e-00002.jpg",
+        "type": "mp4",
+        "assetId": "164644360",
+        "assetTitle": "77E68275-6360-4DFB-9766-8A748BD6027F",
+        "assetTitleTextEncoded": "77e68275-6360-4dfb-9766-8a748bd6027f",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164644360",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164644360\/108bf\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164644360\/108bf\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164644360\/108bf\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164644360\/108bf\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164644360\/108bf\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

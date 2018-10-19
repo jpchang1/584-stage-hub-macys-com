@@ -1,0 +1,21 @@
+{
+    "id": "213231",
+    "first_name": "Staci",
+    "last_name": "Beal",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/628477168-0.6812762644141.jpg",
+        "job_title": "Counter Manager Trend Beauty"
+    },
+    "last_login_timestamp": "1529381704",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 15:58:47",
+    "login_id": "1759121",
+    "user_id": "213231",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Staci Beal",
+    "profile_picture": "\/api\/canvas\/logo\/628477168-0.6812762644141.jpg",
+    "titleTextEncoded": "staci-beal",
+    "title": "Staci Beal",
+    "videos_count": "0"
+}

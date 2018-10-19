@@ -1,0 +1,21 @@
+{
+    "id": "213169",
+    "first_name": "Jun",
+    "last_name": "Chang",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/583885888-0.5493924553506.jpg",
+        "job_title": "Dev"
+    },
+    "last_login_timestamp": "1539588290",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 01:04:26",
+    "login_id": "1759121",
+    "user_id": "213169",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Jun Chang",
+    "profile_picture": "\/api\/canvas\/logo\/583885888-0.5493924553506.jpg",
+    "titleTextEncoded": "jun-chang",
+    "title": "Jun Chang",
+    "videos_count": "0"
+}

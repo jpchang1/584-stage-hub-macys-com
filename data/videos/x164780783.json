@@ -1,0 +1,99 @@
+{
+    "title": "Uncle Sam Wants Macy's",
+    "description": "Uncle Sam updates his look at Macy's.",
+    "referenceId": "818b676a62e5f70d604fc73895a6a2ea",
+    "date_created": "1528589324",
+    "date_modified": "1528591382",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "52",
+    "engagement_score": "7",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213121",
+    "product_category": "men",
+    "id": "164780783",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "uncle-sam-wants-macy-s",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "134",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "134",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "134",
+        "prettyDuration": "00:02:14",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164780783\/c5499\/thumb-818b676a62e5f70d604fc73895a6a2ea-00002.jpg",
+        "type": "mp4",
+        "assetId": "164780783",
+        "assetTitle": "Uncle Sam Wants Macy's",
+        "assetTitleTextEncoded": "uncle-sam-wants-macy-s",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164780783",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164780783\/c5499\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164780783\/c5499\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164780783\/c5499\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164780783\/c5499\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164780783\/c5499\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164780783\/c5499\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164780783\/c5499\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "App Store",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,21 @@
+{
+    "id": "213426",
+    "first_name": "Layla",
+    "last_name": "Taremi",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/169629990-0.8415150343440.jpg",
+        "job_title": "Product Assistant - INC Dresses"
+    },
+    "last_login_timestamp": "1528513251",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-06-01 15:14:42",
+    "login_id": "1759121",
+    "user_id": "213426",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Layla Taremi",
+    "profile_picture": "\/api\/canvas\/logo\/169629990-0.8415150343440.jpg",
+    "titleTextEncoded": "layla-taremi",
+    "title": "Layla Taremi",
+    "videos_count": "1"
+}

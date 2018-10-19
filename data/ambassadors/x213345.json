@@ -1,0 +1,21 @@
+{
+    "id": "213345",
+    "first_name": "Andrea",
+    "last_name": "Warner",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/174813758-0.7681942856404.jpg",
+        "job_title": "My Stylist@macy's Fashion Stylist  and Corporate Sales"
+    },
+    "last_login_timestamp": "1529369614",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-09 16:39:48",
+    "login_id": "1759121",
+    "user_id": "213345",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Andrea Warner",
+    "profile_picture": "\/api\/canvas\/logo\/174813758-0.7681942856404.jpg",
+    "titleTextEncoded": "andrea-warner",
+    "title": "Andrea Warner",
+    "videos_count": "5"
+}

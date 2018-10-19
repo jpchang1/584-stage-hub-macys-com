@@ -1,0 +1,21 @@
+{
+    "id": "213249",
+    "first_name": "Jerard",
+    "last_name": "De Leon",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/286003045-0.7106729935854.jpg",
+        "job_title": "Visual Lead"
+    },
+    "last_login_timestamp": "1527361844",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 19:54:58",
+    "login_id": "1759121",
+    "user_id": "213249",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Jerard De Leon",
+    "profile_picture": "\/api\/canvas\/logo\/286003045-0.7106729935854.jpg",
+    "titleTextEncoded": "jerard-de-leon",
+    "title": "Jerard De Leon",
+    "videos_count": "0"
+}

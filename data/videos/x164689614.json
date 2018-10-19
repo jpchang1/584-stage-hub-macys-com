@@ -1,0 +1,99 @@
+{
+    "title": "FREE PEOPLE TANK AND BRALETTE",
+    "description": "",
+    "referenceId": "2bd3b7ade3661678b9a1633ecdc0775e",
+    "date_created": "1528418722",
+    "date_modified": "1528420147",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "9",
+    "engagement_score": "3",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213213",
+    "product_category": "women",
+    "id": "164689614",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "0bd98c28-c763-41aa-bce4-3e0805ca31d1",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "8",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "8",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "8",
+        "prettyDuration": "00:00:08",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164689614\/a810f\/thumb-2bd3b7ade3661678b9a1633ecdc0775e-00002.jpg",
+        "type": "mp4",
+        "assetId": "164689614",
+        "assetTitle": "0BD98C28-C763-41AA-BCE4-3E0805CA31D1",
+        "assetTitleTextEncoded": "0bd98c28-c763-41aa-bce4-3e0805ca31d1",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164689614",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164689614\/a810f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164689614\/a810f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164689614\/a810f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164689614\/a810f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164689614\/a810f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164689614\/a810f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164689614\/a810f\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

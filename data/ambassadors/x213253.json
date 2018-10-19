@@ -1,0 +1,21 @@
+{
+    "id": "213253",
+    "first_name": "Olivia",
+    "last_name": "Philip",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/706152226-0.5721380089875.jpg",
+        "job_title": "Sales Manager"
+    },
+    "last_login_timestamp": "1528652300",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 21:02:38",
+    "login_id": "1759121",
+    "user_id": "213253",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Olivia Philip",
+    "profile_picture": "\/api\/canvas\/logo\/706152226-0.5721380089875.jpg",
+    "titleTextEncoded": "olivia-philip",
+    "title": "Olivia Philip",
+    "videos_count": "1"
+}

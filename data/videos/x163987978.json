@@ -1,0 +1,95 @@
+{
+    "title": "Hotel Collection Linen Bedding Collection, Created for Macy's",
+    "description": "Season changes means bed changes.  Check out our linen & quilted look from the new #Linen Collection from #HotelCollection  #MacysStyleCrew #BeOurGuest @macysvisual41",
+    "referenceId": "183b3b2c0c324e8c862e503bb3d3c283",
+    "date_created": "1527013786",
+    "date_modified": "1527217340",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "21",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213334",
+    "product_category": "bed_bath",
+    "id": "163987978",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "20180522-125101",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "39",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "39",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "39",
+        "prettyDuration": "00:00:39",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163987978\/7d263\/thumb-183b3b2c0c324e8c862e503bb3d3c283-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/163987978\/7d263\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/163987978\/7d263\/media.m3u8",
+        "assetId": "163987978",
+        "assetTitle": "Hotel Collection Linen Bedding Collection, Created for Macy's",
+        "assetTitleTextEncoded": "20180522-125101",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163987978",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163987978\/7d263\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163987978\/7d263\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163987978\/7d263\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163987978\/7d263\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163987978\/7d263\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

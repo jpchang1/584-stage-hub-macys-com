@@ -1,0 +1,21 @@
+{
+    "id": "213298",
+    "first_name": "Javon",
+    "last_name": "Jackson",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/939741402-0.1371824916917.jpg",
+        "job_title": "visual Manager"
+    },
+    "last_login_timestamp": "1525882721",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-07 11:45:14",
+    "login_id": "1759121",
+    "user_id": "213298",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Javon Jackson",
+    "profile_picture": "\/api\/canvas\/logo\/939741402-0.1371824916917.jpg",
+    "titleTextEncoded": "javon-jackson",
+    "title": "Javon Jackson",
+    "videos_count": "0"
+}

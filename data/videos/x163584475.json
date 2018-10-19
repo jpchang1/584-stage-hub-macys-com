@@ -1,0 +1,95 @@
+{
+    "title": "The new fanny pack",
+    "description": "Check out these great little fanny packs perfect for warm weather shopping! \n#macysstylecrew #macysmystylist #handbags #fashion #style #trend #dkny #incstyle #michealkors #calvinklien",
+    "referenceId": "ebcda8c410d4db549c1e51a9bc47071e",
+    "date_created": "1525779603",
+    "date_modified": "1528304244",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "48",
+    "engagement_score": "10",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": null,
+    "id": "163584475",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "the-new-fanny-pack",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "143",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "143",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "143",
+        "prettyDuration": "00:02:23",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163584475\/b5c2f\/thumb-ebcda8c410d4db549c1e51a9bc47071e-00002.jpg",
+        "type": "mp4",
+        "assetId": "163584475",
+        "assetTitle": "3147F8F1 3218-4A30-901F-EED67F82926C",
+        "assetTitleTextEncoded": "3147f8f1-3218-4a30-901f-eed67f82926c",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163584475",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163584475\/b5c2f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163584475\/b5c2f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163584475\/b5c2f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163584475\/b5c2f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163584475\/b5c2f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

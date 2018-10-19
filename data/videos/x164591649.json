@@ -1,0 +1,95 @@
+{
+    "title": "William Rast",
+    "description": "Floral dress\nJessica Simpson Shoe\nDooney and Burke Handbag",
+    "referenceId": "3e234eb44f884898107036aff8a2bc8e",
+    "date_created": "1527389838",
+    "date_modified": "1527391645",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "14",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213303",
+    "product_category": "handbags",
+    "id": "164591649",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "9d1fc06e-5496-48a2-a1e9-c82fde8ab7d1",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "31",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "31",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "31",
+        "prettyDuration": "00:00:31",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164591649\/c2e02\/thumb-3e234eb44f884898107036aff8a2bc8e-00002.jpg",
+        "type": "mp4",
+        "assetId": 164591649,
+        "assetTitle": "William Rast",
+        "assetTitleTextEncoded": "9d1fc06e-5496-48a2-a1e9-c82fde8ab7d1",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 164591649,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164591649\/c2e02\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164591649\/c2e02\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164591649\/c2e02\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164591649\/c2e02\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164591649\/c2e02\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164591649\/c2e02\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164591649\/c2e02\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

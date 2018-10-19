@@ -1,0 +1,86 @@
+{
+    "title": "Must Haves",
+    "description": "Must Have outfits",
+    "referenceId": "664f2dbf1a81c19ec2bf575f3fafaab8",
+    "date_created": "1529268067",
+    "date_modified": "1529344002",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "0",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213132",
+    "product_category": null,
+    "id": "164932295",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "kizoa-movie-maker-7az7bdak",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "82",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "82",
+            "width": 900,
+            "height": 600
+        },
+        "mediaDuration": "82",
+        "prettyDuration": "00:01:22",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164932295\/04c39\/thumb-664f2dbf1a81c19ec2bf575f3fafaab8-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164932295\/04c39\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 900,
+                "height": 600
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164932295\/04c39\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 900,
+                "height": 600
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164932295\/04c39\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164932295\/04c39\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 540,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164932295\/04c39\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 214
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Black Macy's Audrey",
+    "tvp_enhanced_transcript": null
+}

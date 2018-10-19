@@ -1,0 +1,95 @@
+{
+    "title": "Jacqueline Palmer\/Trina Turk",
+    "description": "Events are even more fun when your wearing fashions from INC and Trina Turk",
+    "referenceId": "f33687d82a749340ea04b7120bae27ea",
+    "date_created": "1529191606",
+    "date_modified": "1529345193",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "0",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": "women",
+    "id": "164927093",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "23f77696-66b5-4d8b-a36a-fdde3d5095dc",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "70",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "70",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "70",
+        "prettyDuration": "00:01:10",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164927093\/3677c\/thumb-f33687d82a749340ea04b7120bae27ea-00002.jpg",
+        "type": "mp4",
+        "assetId": "164927093",
+        "assetTitle": "23F77696-66B5-4D8B-A36A-FDDE3D5095DC",
+        "assetTitleTextEncoded": "23f77696-66b5-4d8b-a36a-fdde3d5095dc",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164927093",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164927093\/3677c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164927093\/3677c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164927093\/3677c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164927093\/3677c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164927093\/3677c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Trina Turk",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,95 @@
+{
+    "title": "#BTS at Macys",
+    "description": "I had such a fun and fabulous day shooting must have plus size items for spring for The Edit on Macys.com from shirt dresses to gingham tops and statement earrings to fabulous  strappy sandals for summer!",
+    "referenceId": "d50c05ee6508a38e47240846b772920e",
+    "date_created": "1526919648",
+    "date_modified": "1527104259",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "75",
+    "engagement_score": "10",
+    "conversion_score": "25",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213300",
+    "product_category": "women",
+    "id": "163984157",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "img-0843",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "61",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "61",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "61",
+        "prettyDuration": "00:01:01",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163984157\/b17a0\/thumb-d50c05ee6508a38e47240846b772920e-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/163984157\/b17a0\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/163984157\/b17a0\/media.m3u8",
+        "assetId": 163984157,
+        "assetTitle": "#BTS at Macys",
+        "assetTitleTextEncoded": "img-0843",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 163984157,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163984157\/b17a0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163984157\/b17a0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163984157\/b17a0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163984157\/b17a0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163984157\/b17a0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

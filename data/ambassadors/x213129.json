@@ -1,0 +1,21 @@
+{
+    "id": "213129",
+    "first_name": "Jacob",
+    "last_name": "Blankenship",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/474031059-0.9099958659615.jpg",
+        "job_title": "ASTS"
+    },
+    "last_login_timestamp": "1525702395",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 21:20:09",
+    "login_id": "1759121",
+    "user_id": "213129",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Jacob Blankenship",
+    "profile_picture": "\/api\/canvas\/logo\/474031059-0.9099958659615.jpg",
+    "titleTextEncoded": "jacob-blankenship",
+    "title": "Jacob Blankenship",
+    "videos_count": "0"
+}

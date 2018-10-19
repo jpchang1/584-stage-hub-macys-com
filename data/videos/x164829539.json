@@ -1,0 +1,97 @@
+{
+    "title": "HOW TO: squeaky clean makeup tools",
+    "description": "Join Melissa Bauth as she teaches you the best way to clean your makeup tools using some essential products!",
+    "referenceId": "fbd7525a833e1ed7311d68502b87dc0c",
+    "date_created": "1528817443",
+    "date_modified": "1528818819",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "71",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213108",
+    "product_category": "beauty",
+    "id": "164829539",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "melissa",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "160",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "160",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "160",
+        "prettyDuration": "00:02:40",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164829539\/589e2\/thumb-fbd7525a833e1ed7311d68502b87dc0c-00002.jpg",
+        "type": "mp4",
+        "assetId": "164829539",
+        "assetTitle": "HOW TO: squeaky clean makeup tools",
+        "assetTitleTextEncoded": "melissa",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164829539",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164829539\/589e2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164829539\/589e2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164829539\/589e2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164829539\/589e2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164829539\/589e2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

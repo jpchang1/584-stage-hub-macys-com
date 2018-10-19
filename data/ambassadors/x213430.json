@@ -1,0 +1,21 @@
+{
+    "id": "213430",
+    "first_name": "Taylor",
+    "last_name": "Bjerk",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Sales Manager"
+    },
+    "last_login_timestamp": "1529188021",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-06-03 18:29:35",
+    "login_id": "1759121",
+    "user_id": "213430",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Taylor Bjerk",
+    "profile_picture": null,
+    "titleTextEncoded": "taylor-bjerk",
+    "title": "Taylor Bjerk",
+    "videos_count": "0"
+}

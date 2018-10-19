@@ -1,0 +1,21 @@
+{
+    "id": "213388",
+    "first_name": "Raquel",
+    "last_name": "Burger",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/804999532-0.9932991947978.jpg",
+        "job_title": "Product Assistant"
+    },
+    "last_login_timestamp": "1526586324",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-15 18:40:07",
+    "login_id": "1759121",
+    "user_id": "213388",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Raquel Burger",
+    "profile_picture": "\/api\/canvas\/logo\/804999532-0.9932991947978.jpg",
+    "titleTextEncoded": "raquel-burger",
+    "title": "Raquel Burger",
+    "videos_count": "0"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "213282",
+    "first_name": "Bree",
+    "last_name": "Jones",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/654289724-0.1943718876224.jpg",
+        "job_title": "AST"
+    },
+    "last_login_timestamp": "1525920657",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-05 23:19:23",
+    "login_id": "1759121",
+    "user_id": "213282",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Bree Jones",
+    "profile_picture": "\/api\/canvas\/logo\/654289724-0.1943718876224.jpg",
+    "titleTextEncoded": "bree-jones",
+    "title": "Bree Jones",
+    "videos_count": "0"
+}

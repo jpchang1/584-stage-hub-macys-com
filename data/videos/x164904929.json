@@ -1,0 +1,99 @@
+{
+    "title": "32 degrees puffer and Adidas hoodie",
+    "description": "",
+    "referenceId": "4674ebb355d3c12e4e556c006e27efde",
+    "date_created": "1529002816",
+    "date_modified": "1529003517",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "21",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213341",
+    "product_category": null,
+    "id": "164904929",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "56443d67-82bc-4666-a692-412913552948",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "5",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "5",
+            "width": 272,
+            "height": 480
+        },
+        "mediaDuration": "5",
+        "prettyDuration": "00:00:05",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164904929\/dab79\/thumb-4674ebb355d3c12e4e556c006e27efde-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164904929\/dab79\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164904929\/dab79\/media.m3u8",
+        "assetId": "164904929",
+        "assetTitle": "56443D67-82BC-4666-A692-412913552948",
+        "assetTitleTextEncoded": "56443d67-82bc-4666-a692-412913552948",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164904929",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164904929\/dab79\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164904929\/dab79\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164904929\/dab79\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164904929\/dab79\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 204,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164904929\/dab79\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

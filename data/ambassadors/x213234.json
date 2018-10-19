@@ -1,0 +1,21 @@
+{
+    "id": "213234",
+    "first_name": "Micah",
+    "last_name": "Martel",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/187909724-0.6979898095130.jpg",
+        "job_title": "Omnichannel Buyer, Daytime Dresses "
+    },
+    "last_login_timestamp": "1528390980",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 17:20:23",
+    "login_id": "1759121",
+    "user_id": "213234",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Micah Martel",
+    "profile_picture": "\/api\/canvas\/logo\/187909724-0.6979898095130.jpg",
+    "titleTextEncoded": "micah-martel",
+    "title": "Micah Martel",
+    "videos_count": "1"
+}

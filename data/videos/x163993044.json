@@ -1,0 +1,97 @@
+{
+    "title": "Sundress season has arrived!",
+    "description": "Different ways to Flaunt your dress.",
+    "referenceId": "f8bf2aaaa1d3522c200303834bdafd5e",
+    "date_created": "1527126602",
+    "date_modified": "1528332223",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "13",
+    "engagement_score": "1",
+    "conversion_score": "25",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213308",
+    "product_category": "women",
+    "id": "163993044",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "5c2e8356-5a5b-4f20-bb12-b0d8fe6ef76c",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "15",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "15",
+            "width": 1080,
+            "height": 1080
+        },
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163993044\/74dea\/thumb-f8bf2aaaa1d3522c200303834bdafd5e-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/163993044\/74dea\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/163993044\/74dea\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "assetId": "163993044",
+        "assetTitle": "Sundress season has arrived!",
+        "assetTitleTextEncoded": "5c2e8356-5a5b-4f20-bb12-b0d8fe6ef76c",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163993044",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163993044\/74dea\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163993044\/74dea\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163993044\/74dea\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163993044\/74dea\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163993044\/74dea\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

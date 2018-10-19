@@ -1,0 +1,21 @@
+{
+    "id": "213176",
+    "first_name": "Eric",
+    "last_name": "Curiel",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/686340723-0.5192430308554.jpg",
+        "job_title": "Visual Stylist \/ Brand Ambassador MSC"
+    },
+    "last_login_timestamp": "1527604279",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 02:05:24",
+    "login_id": "1759121",
+    "user_id": "213176",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Eric Curiel",
+    "profile_picture": "\/api\/canvas\/logo\/686340723-0.5192430308554.jpg",
+    "titleTextEncoded": "eric-curiel",
+    "title": "Eric Curiel",
+    "videos_count": "0"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "213235",
+    "first_name": "DENNIS",
+    "last_name": "GUSTITUS",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/781265805-0.9088712354190.jpg",
+        "job_title": "visual manager"
+    },
+    "last_login_timestamp": "1525914679",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 17:29:42",
+    "login_id": "1759121",
+    "user_id": "213235",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "DENNIS GUSTITUS",
+    "profile_picture": "\/api\/canvas\/logo\/781265805-0.9088712354190.jpg",
+    "titleTextEncoded": "dennis-gustitus",
+    "title": "DENNIS GUSTITUS",
+    "videos_count": "0"
+}

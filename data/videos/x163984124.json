@@ -1,0 +1,95 @@
+{
+    "title": "Mixed Print Dress + Vintage Denim Top",
+    "description": "Perfect dress for the warmer months! Comfy and chic!",
+    "referenceId": "3bd222897e353d40b5d685a50871f958",
+    "date_created": "1526908739",
+    "date_modified": "1526909102",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "62",
+    "engagement_score": "8",
+    "conversion_score": "50",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213203",
+    "product_category": "women",
+    "id": "163984124",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "98a97e9e-059f-4425-9b2f-db9bd99248f7",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "26",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "26",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "26",
+        "prettyDuration": "00:00:26",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163984124\/4583e\/thumb-3bd222897e353d40b5d685a50871f958-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/163984124\/4583e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/163984124\/4583e\/media.m3u8",
+        "assetId": "163984124",
+        "assetTitle": "98A97E9E-059F-4425-9B2F-DB9BD99248F7",
+        "assetTitleTextEncoded": "98a97e9e-059f-4425-9b2f-db9bd99248f7",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163984124",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163984124\/4583e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163984124\/4583e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163984124\/4583e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163984124\/4583e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163984124\/4583e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

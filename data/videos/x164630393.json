@@ -1,0 +1,97 @@
+{
+    "title": "Night Time Skincare Essential",
+    "description": "While we all want to look glammed and all dolled up, it is equally important to maintain the state of your skin. This video contains some of the best skincare products that I swear by! Give it a shot and let me know how it works for you!\n\nFollow me on Instagram for more: @janie.hong",
+    "referenceId": "71b0636cd4f10499ab1ab1b41b856a4f",
+    "date_created": "1528143778",
+    "date_modified": "1528158692",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "11",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213220",
+    "product_category": "beauty",
+    "id": "164630393",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "1cb6a679-01a4-45d3-a5c6-443457fac8ac",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "43",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "43",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "43",
+        "prettyDuration": "00:00:43",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164630393\/60ae0\/thumb-71b0636cd4f10499ab1ab1b41b856a4f-00002.jpg",
+        "type": "mp4",
+        "assetId": "164630393",
+        "assetTitle": "Night Time Skincare Essential",
+        "assetTitleTextEncoded": "1cb6a679-01a4-45d3-a5c6-443457fac8ac",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164630393",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164630393\/60ae0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164630393\/60ae0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164630393\/60ae0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164630393\/60ae0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164630393\/60ae0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Est\u00e9e Lauder Companies Estee Lauder",
+    "tvp_enhanced_transcript": null
+}

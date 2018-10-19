@@ -1,0 +1,95 @@
+{
+    "title": "Fit life: Be Chic!",
+    "description": "Staying fit doesn't mean wearing an old t-shirt and short, check out Michael's pics for staying chic while being fit!",
+    "referenceId": "ea83489aefcf24d4523ab97d64caeddb",
+    "date_created": "1527816728",
+    "date_modified": "1527827170",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "34",
+    "engagement_score": "2",
+    "conversion_score": "25",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213126",
+    "product_category": "women",
+    "id": "164612327",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "mic06-activewear",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "60",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "60",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164612327\/fa5e3\/thumb-ea83489aefcf24d4523ab97d64caeddb-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164612327\/fa5e3\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164612327\/fa5e3\/media.m3u8",
+        "assetId": "164612327",
+        "assetTitle": "MIC06_activewear",
+        "assetTitleTextEncoded": "mic06-activewear",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164612327",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164612327\/fa5e3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164612327\/fa5e3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164612327\/fa5e3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164612327\/fa5e3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164612327\/fa5e3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2018-06-18\"},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "I Run 4 Gopuram",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,95 @@
+{
+    "title": "Sale! Levi\u2019s white denim and Vince Camuto halter",
+    "description": "",
+    "referenceId": "50d52f7c923852064d50e3cb64b5c51c",
+    "date_created": "1528161267",
+    "date_modified": "1528162795",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "11",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213341",
+    "product_category": null,
+    "id": "164631022",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "a0eb535b-fc9b-47b7-a9f6-a9555f916040",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "4",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "4",
+            "width": 272,
+            "height": 480
+        },
+        "mediaDuration": "4",
+        "prettyDuration": "00:00:04",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164631022\/75bfa\/thumb-50d52f7c923852064d50e3cb64b5c51c-00002.jpg",
+        "type": "mp4",
+        "assetId": "164631022",
+        "assetTitle": "Sale! Vince Camuto halter and Levi\u2019s white denim",
+        "assetTitleTextEncoded": "a0eb535b-fc9b-47b7-a9f6-a9555f916040",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164631022",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164631022\/75bfa\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164631022\/75bfa\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164631022\/75bfa\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164631022\/75bfa\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 204,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164631022\/75bfa\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164631022\/75bfa\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164631022\/75bfa\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

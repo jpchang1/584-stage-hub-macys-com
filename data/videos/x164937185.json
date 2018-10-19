@@ -1,0 +1,95 @@
+{
+    "title": "Macy\u2019s style Crew Andrea Warner makeup Tutorials done by the famous Ricardo Costales",
+    "description": "Check out this amazing video with Ricardo Costales makeup tutorial @ Macy\u2019s Perimeter Mall.  Click on the link below to shop for these  Lanc\u00f4me products.",
+    "referenceId": "7d034af89af536b52dec06f4a8f4f5d5",
+    "date_created": "1529345006",
+    "date_modified": "1529363123",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213345",
+    "product_category": "beauty",
+    "id": "164937185",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "a3088d09-d3a2-4fe2-a8c1-2feaaba17740",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "71",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "71",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "71",
+        "prettyDuration": "00:01:11",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/952710456-1529363122.jpg",
+        "type": "mp4",
+        "assetId": "164937185",
+        "assetTitle": "A3088D09-D3A2-4FE2-A8C1-2FEAABA17740",
+        "assetTitleTextEncoded": "a3088d09-d3a2-4fe2-a8c1-2feaaba17740",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164937185",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164937185\/71f76\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164937185\/71f76\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164937185\/71f76\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164937185\/71f76\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164937185\/71f76\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Black",
+    "tvp_enhanced_transcript": null
+}

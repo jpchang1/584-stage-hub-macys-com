@@ -1,0 +1,21 @@
+{
+    "id": "213117",
+    "first_name": "Casey",
+    "last_name": "Garus",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/488866789-0.4711607717908.jpg",
+        "job_title": "My Shop Captain "
+    },
+    "last_login_timestamp": "1529170710",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 20:52:07",
+    "login_id": "1759121",
+    "user_id": "213117",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Casey Garus",
+    "profile_picture": "\/api\/canvas\/logo\/488866789-0.4711607717908.jpg",
+    "titleTextEncoded": "casey-garus",
+    "title": "Casey Garus",
+    "videos_count": "0"
+}

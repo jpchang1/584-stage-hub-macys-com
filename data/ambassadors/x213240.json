@@ -1,0 +1,21 @@
+{
+    "id": "213240",
+    "first_name": "Jenni",
+    "last_name": "Gieseler",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/107431717-0.7957227099686.jpg",
+        "job_title": "Sales Manager"
+    },
+    "last_login_timestamp": "1526224624",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 18:17:46",
+    "login_id": "1759121",
+    "user_id": "213240",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Jenni Gieseler",
+    "profile_picture": "\/api\/canvas\/logo\/107431717-0.7957227099686.jpg",
+    "titleTextEncoded": "jenni-gieseler",
+    "title": "Jenni Gieseler",
+    "videos_count": "0"
+}

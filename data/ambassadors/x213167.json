@@ -1,0 +1,21 @@
+{
+    "id": "213167",
+    "first_name": "Rachel",
+    "last_name": "Gallegos",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/990535317-0.4042380471248.jpg",
+        "job_title": "My Stylist"
+    },
+    "last_login_timestamp": "1526067411",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 00:51:33",
+    "login_id": "1759121",
+    "user_id": "213167",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Rachel Gallegos",
+    "profile_picture": "\/api\/canvas\/logo\/990535317-0.4042380471248.jpg",
+    "titleTextEncoded": "rachel-gallegos",
+    "title": "Rachel Gallegos",
+    "videos_count": "0"
+}

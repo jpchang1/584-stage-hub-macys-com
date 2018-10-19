@@ -1,0 +1,93 @@
+{
+    "title": "swipe right for fashion.",
+    "description": "#firstdate #fashion #date #datenihjt #ootd #dateideas #datenightoutfit #macysstylecrew #macysmystylist #style #confidence",
+    "referenceId": "eeb697bb127c41c73c564a09a18e9801",
+    "date_created": "1525698641",
+    "date_modified": "1525965845",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "60",
+    "engagement_score": "9",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213111",
+    "product_category": "men",
+    "id": "163565661",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "lyd11-swiperightforfashion",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "102",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "102",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "102",
+        "prettyDuration": "00:01:42",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163565661\/d29c1\/thumb-eeb697bb127c41c73c564a09a18e9801-00002.jpg",
+        "type": "mp4",
+        "assetId": "163565661",
+        "assetTitle": "swipe right for fashion.",
+        "assetTitleTextEncoded": "lyd11-swiperightforfashion",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163565661",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163565661\/d29c1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163565661\/d29c1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163565661\/d29c1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163565661\/d29c1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163565661\/d29c1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

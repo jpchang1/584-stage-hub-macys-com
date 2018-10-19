@@ -1,0 +1,93 @@
+{
+    "title": "Charter Club Cold-Shoulder Gingham Shirt",
+    "description": "The Gingham Print and Cold-Shoulder Cut-Outs make this shirty tunic great to dress up or down. It has a button up closure and generous sizing for the perfect fit. Come is regular and plus sizes. I paired it with some Levi's Mid-Rise Skinny Jeans in Soulful Dark.",
+    "referenceId": "9773821f7658402438f5590fea26c358",
+    "date_created": "1528426656",
+    "date_modified": "1528435546",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "5",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213194",
+    "product_category": "women",
+    "id": "164694266",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "c9ea1e15-7cbc-4223-9830-563c55acf6ba",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "46",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "46",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "46",
+        "prettyDuration": "00:00:46",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164694266\/3766e\/thumb-9773821f7658402438f5590fea26c358-00002.jpg",
+        "type": "mp4",
+        "assetId": "164694266",
+        "assetTitle": "Charter Club Cold-Shoulder Gingham Shirt",
+        "assetTitleTextEncoded": "c9ea1e15-7cbc-4223-9830-563c55acf6ba",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164694266",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164694266\/3766e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164694266\/3766e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164694266\/3766e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164694266\/3766e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164694266\/3766e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

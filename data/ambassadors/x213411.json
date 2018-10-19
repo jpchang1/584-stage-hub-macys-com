@@ -1,0 +1,21 @@
+{
+    "id": "213411",
+    "first_name": "Shelly",
+    "last_name": "Giron",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Jewelry Sales Associate"
+    },
+    "last_login_timestamp": "1529182259",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-23 00:42:07",
+    "login_id": "1759121",
+    "user_id": "213411",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Shelly Giron",
+    "profile_picture": null,
+    "titleTextEncoded": "shelly-giron",
+    "title": "Shelly Giron",
+    "videos_count": "0"
+}

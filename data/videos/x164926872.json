@@ -1,0 +1,99 @@
+{
+    "title": "Spring days, good vibes... with Rachel Roy outfit",
+    "description": "Enjoy the last days of spring with this outfit...\n\nRachel Roy striped side-cutout jumpsuit - Web ID 6120236\n\nRachel Roy cotton wide-leg trousers - Web ID 6120221\n\nLucky Brand jewelry\n\nSteve Madden espadrilles\n\nSub Urban Riot Good Vibes t-shirt - Web ID 3059762",
+    "referenceId": "ce6bc9321017e2b256360cf08e6a3b54",
+    "date_created": "1529165553",
+    "date_modified": "1529345200",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "7",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213252",
+    "product_category": "women",
+    "id": "164926872",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "msc-final-mejorada",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "59",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "59",
+            "width": 1080,
+            "height": 1080
+        },
+        "mediaDuration": "59",
+        "prettyDuration": "00:00:59",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164926872\/66104\/thumb-ce6bc9321017e2b256360cf08e6a3b54-00002.jpg",
+        "type": "mp4",
+        "assetId": "164926872",
+        "assetTitle": "Spring days, good vibes... with Rachel Roy outfit",
+        "assetTitleTextEncoded": "msc-final-mejorada",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164926872",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164926872\/66104\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164926872\/66104\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164926872\/66104\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164926872\/66104\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164926872\/66104\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

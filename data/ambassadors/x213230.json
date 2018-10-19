@@ -1,0 +1,21 @@
+{
+    "id": "213230",
+    "first_name": "Maude",
+    "last_name": "Leclerc",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/148989038-0.9675753062125.jpg",
+        "job_title": "Visual Merchandiser"
+    },
+    "last_login_timestamp": "1525979550",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 15:51:13",
+    "login_id": "1759121",
+    "user_id": "213230",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Maude Leclerc",
+    "profile_picture": "\/api\/canvas\/logo\/148989038-0.9675753062125.jpg",
+    "titleTextEncoded": "maude-leclerc",
+    "title": "Maude Leclerc",
+    "videos_count": "0"
+}

@@ -1,0 +1,97 @@
+{
+    "title": "The Perfect Gift for Bridal Showers",
+    "description": "Bridal season is approaching, or perhaps, it\u2019s already here! Isn\u2019t it always a hassle buying gifts for others? Like what\u2019s on trend, what do they like, etc.? Well, this video will be the Tylenol to your pain!\n\nb.tempt\u2019d bra WEB ID: 6197730\n\nFollow me on Instagram for more: @janie.hong",
+    "referenceId": "d1f051a0951b5d4b40f21894f13debe2",
+    "date_created": "1529084899",
+    "date_modified": "1529085927",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213220",
+    "product_category": "women",
+    "id": "164915108",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "8572c299-afa8-40d0-a98c-7f0a733a21cc",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "33",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "33",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "33",
+        "prettyDuration": "00:00:33",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164915108\/55520\/thumb-d1f051a0951b5d4b40f21894f13debe2-00002.jpg",
+        "type": "mp4",
+        "assetId": "164915108",
+        "assetTitle": "The Perfect Gift for Bridal Showers",
+        "assetTitleTextEncoded": "8572c299-afa8-40d0-a98c-7f0a733a21cc",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164915108",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164915108\/55520\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164915108\/55520\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164915108\/55520\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164915108\/55520\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164915108\/55520\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

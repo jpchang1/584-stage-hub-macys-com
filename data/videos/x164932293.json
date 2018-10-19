@@ -1,0 +1,93 @@
+{
+    "title": "Macy\u2019s Style Crew  Andrea Warner  explains Macy\u2019s customize it furniture department.",
+    "description": "Macy\u2019s new customize it in the furniture department.",
+    "referenceId": "c687c9bfe86bee1f2328774e9f4745ae",
+    "date_created": "1529259102",
+    "date_modified": "1529278948",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213345",
+    "product_category": "women",
+    "id": "164932293",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "53760a3e-df17-40fd-9f7f-1974de07582c",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "10",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "10",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "10",
+        "prettyDuration": "00:00:10",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164932293\/e3ff9\/thumb-c687c9bfe86bee1f2328774e9f4745ae-00002.jpg",
+        "type": "mp4",
+        "assetId": "164932293",
+        "assetTitle": "Macy\u2019s Style Crew  Andrea Warner  explains Macy\u2019s customize it furniture department.",
+        "assetTitleTextEncoded": "53760a3e-df17-40fd-9f7f-1974de07582c",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164932293",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164932293\/e3ff9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164932293\/e3ff9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164932293\/e3ff9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164932293\/e3ff9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164932293\/e3ff9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

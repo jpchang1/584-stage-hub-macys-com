@@ -1,0 +1,97 @@
+{
+    "title": "Men\u2019s Summer Athletic Apparel",
+    "description": "Men\u2019s summer shots and shirts for athletic activities.",
+    "referenceId": "7e5c9aa990e67976ec8bff1f7c53fac4",
+    "date_created": "1528317513",
+    "date_modified": "1528317621",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "61",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": "men",
+    "id": "164639143",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "cb0e71b6-487e-4008-a679-b8561c7e1559",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "63",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "63",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "63",
+        "prettyDuration": "00:01:03",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164639143\/6f1d4\/thumb-7e5c9aa990e67976ec8bff1f7c53fac4-00002.jpg",
+        "type": "mp4",
+        "assetId": 164639143,
+        "assetTitle": "Men\u2019s Summer Athletic Apparel",
+        "assetTitleTextEncoded": "cb0e71b6-487e-4008-a679-b8561c7e1559",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 164639143,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164639143\/6f1d4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164639143\/6f1d4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164639143\/6f1d4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164639143\/6f1d4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164639143\/6f1d4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Adidas CSC BRASIL Mexican Football Federation Champion",
+    "tvp_enhanced_transcript": null
+}

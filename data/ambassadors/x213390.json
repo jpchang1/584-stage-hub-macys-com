@@ -1,0 +1,21 @@
+{
+    "id": "213390",
+    "first_name": "Melissa",
+    "last_name": "Bandstra",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/976044692-0.1704891674686.jpg",
+        "job_title": "Associate Manager"
+    },
+    "last_login_timestamp": "1527017056",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-16 11:37:32",
+    "login_id": "1759121",
+    "user_id": "213390",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Melissa Bandstra",
+    "profile_picture": "\/api\/canvas\/logo\/976044692-0.1704891674686.jpg",
+    "titleTextEncoded": "melissa-bandstra",
+    "title": "Melissa Bandstra",
+    "videos_count": "1"
+}

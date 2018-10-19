@@ -1,0 +1,97 @@
+{
+    "title": "Don't take it too serious!",
+    "description": "When I asked my friends what they would classify my style as it was overwhelming response of \"FUN!!\". I love to poke fun at myself and blur the lines in fashion. A statement tee goes a long way with a chunky necklace and I am OBSESSED with these white pumps!",
+    "referenceId": "0bcb1173db2da8667f56763c1d6ad210",
+    "date_created": "1526521676",
+    "date_modified": "1526602453",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "142",
+    "engagement_score": "17",
+    "conversion_score": "25",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213177",
+    "product_category": "women",
+    "id": "163938900",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "macysvid",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "14",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "14",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "14",
+        "prettyDuration": "00:00:14",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/595267073-1526602452.png",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/163938900\/4bf4e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/163938900\/4bf4e\/media.m3u8",
+        "assetId": "163938900",
+        "assetTitle": "macysvid",
+        "assetTitleTextEncoded": "macysvid",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163938900",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163938900\/4bf4e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163938900\/4bf4e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163938900\/4bf4e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163938900\/4bf4e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163938900\/4bf4e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,21 @@
+{
+    "id": "213403",
+    "first_name": "Vlora",
+    "last_name": "Bekteshi",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/522766336-0.1975677472073.jpg",
+        "job_title": "Coordinator; Recruitment Operations"
+    },
+    "last_login_timestamp": "1528815805",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-19 19:38:23",
+    "login_id": "1759121",
+    "user_id": "213403",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Vlora Bekteshi",
+    "profile_picture": "\/api\/canvas\/logo\/522766336-0.1975677472073.jpg",
+    "titleTextEncoded": "vlora-bekteshi",
+    "title": "Vlora Bekteshi",
+    "videos_count": "1"
+}

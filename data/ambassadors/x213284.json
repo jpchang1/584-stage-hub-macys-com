@@ -1,0 +1,21 @@
+{
+    "id": "213284",
+    "first_name": "Phillip",
+    "last_name": "Harris",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/219998581-0.4361398484557.jpg",
+        "job_title": "Fine Jewelry Consultant"
+    },
+    "last_login_timestamp": "1526408149",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-05 23:52:17",
+    "login_id": "1759121",
+    "user_id": "213284",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Phillip Harris",
+    "profile_picture": "\/api\/canvas\/logo\/219998581-0.4361398484557.jpg",
+    "titleTextEncoded": "phillip-harris",
+    "title": "Phillip Harris",
+    "videos_count": "0"
+}

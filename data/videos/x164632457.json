@@ -1,0 +1,93 @@
+{
+    "title": "A day at the beach in Plus Size Swimsuits",
+    "description": "A day at the beach should be and occasion filled with fun and fabulousness, not anxiety and shame! You should be enjoying the sun and the sand and the waves without worry of how you look on the beach! Check out some of my favorite plus size swim suits from Macys like the off the shoulder trend, the jungle prints and lace and crochet!",
+    "referenceId": "1e730ab2f447b3e7d1f6aeb6ef1d9003",
+    "date_created": "1528232088",
+    "date_modified": "1528232759",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "47",
+    "engagement_score": "6",
+    "conversion_score": "100",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213300",
+    "product_category": "women",
+    "id": "164632457",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "1080p",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "19",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "19",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "19",
+        "prettyDuration": "00:00:19",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164632457\/da35d\/thumb-1e730ab2f447b3e7d1f6aeb6ef1d9003-00002.jpg",
+        "type": "mp4",
+        "assetId": "164632457",
+        "assetTitle": "A day at the beach in Plus Size Swimsuits",
+        "assetTitleTextEncoded": "1080p",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164632457",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164632457\/da35d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164632457\/da35d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164632457\/da35d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164632457\/da35d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164632457\/da35d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

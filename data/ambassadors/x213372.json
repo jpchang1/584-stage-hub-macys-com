@@ -1,0 +1,21 @@
+{
+    "id": "213372",
+    "first_name": "Walene",
+    "last_name": "Buckage",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/846242921-0.2888342889025.jpg",
+        "job_title": "Lancome Counter Manager"
+    },
+    "last_login_timestamp": "1526499724",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-12 03:25:46",
+    "login_id": "1759121",
+    "user_id": "213372",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Walene Buckage",
+    "profile_picture": "\/api\/canvas\/logo\/846242921-0.2888342889025.jpg",
+    "titleTextEncoded": "walene-buckage",
+    "title": "Walene Buckage",
+    "videos_count": "0"
+}

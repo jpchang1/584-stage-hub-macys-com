@@ -1,0 +1,21 @@
+{
+    "id": "213139",
+    "first_name": "Mia",
+    "last_name": "Kamenelis",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/985927488-0.9426559805870.jpg",
+        "job_title": "Visual Merchandiser"
+    },
+    "last_login_timestamp": "1528946093",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 21:35:41",
+    "login_id": "1759121",
+    "user_id": "213139",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Mia Kamenelis",
+    "profile_picture": "\/api\/canvas\/logo\/985927488-0.9426559805870.jpg",
+    "titleTextEncoded": "mia-kamenelis",
+    "title": "Mia Kamenelis",
+    "videos_count": "0"
+}

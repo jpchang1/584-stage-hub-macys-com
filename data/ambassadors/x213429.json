@@ -1,0 +1,21 @@
+{
+    "id": "213429",
+    "first_name": "Genevieve",
+    "last_name": "Medina",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/679488895-0.2931323603726.jpg",
+        "job_title": "Visual Manager"
+    },
+    "last_login_timestamp": "1528209561",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-06-03 16:29:03",
+    "login_id": "1759121",
+    "user_id": "213429",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Genevieve Medina",
+    "profile_picture": "\/api\/canvas\/logo\/679488895-0.2931323603726.jpg",
+    "titleTextEncoded": "genevieve-medina",
+    "title": "Genevieve Medina",
+    "videos_count": "0"
+}

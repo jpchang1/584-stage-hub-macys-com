@@ -1,0 +1,93 @@
+{
+    "title": "New Lucky Brand Home Tabletop, Linens & more",
+    "description": "Looking for that quality casual dining for your home...Lucky we have it here! #LuckyBrandHome #ExclusivelyOurs #Denby #MacysStyleCrew @macysvisual41\n\n#BeOurGuest and shop through this link or bio... https:\/\/www.macys.com\/style-crew\/v\/20180605-094211\/164632419\/",
+    "referenceId": "bc5ae65047140d0f8354513e224e58da",
+    "date_created": "1528241037",
+    "date_modified": "1528241196",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213334",
+    "product_category": null,
+    "id": "164632670",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "photogrid-1528240723056",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "26",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "26",
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": "26",
+        "prettyDuration": "00:00:26",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164632670\/d918e\/thumb-bc5ae65047140d0f8354513e224e58da-00002.jpg",
+        "type": "mp4",
+        "assetId": "164632670",
+        "assetTitle": "PhotoGrid_1528240723056",
+        "assetTitleTextEncoded": "photogrid-1528240723056",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164632670",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164632670\/d918e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164632670\/d918e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164632670\/d918e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164632670\/d918e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164632670\/d918e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

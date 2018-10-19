@@ -1,0 +1,21 @@
+{
+    "id": "213112",
+    "first_name": "Delia",
+    "last_name": "Torres Escabi",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/680820803-0.9478223023936.jpg",
+        "job_title": "Sales Colleague"
+    },
+    "last_login_timestamp": "1528213233",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 20:45:12",
+    "login_id": "1759121",
+    "user_id": "213112",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Delia Torres Escabi",
+    "profile_picture": "\/api\/canvas\/logo\/680820803-0.9478223023936.jpg",
+    "titleTextEncoded": "delia-torres-escabi",
+    "title": "Delia Torres Escabi",
+    "videos_count": "0"
+}

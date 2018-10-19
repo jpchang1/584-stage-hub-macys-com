@@ -1,0 +1,21 @@
+{
+    "id": "213369",
+    "first_name": "Amanda",
+    "last_name": "Kirkbride",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/534384646-0.6476544039323.jpg",
+        "job_title": "Sales Associate"
+    },
+    "last_login_timestamp": "1528683104",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-11 20:19:40",
+    "login_id": "1759121",
+    "user_id": "213369",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Amanda Kirkbride",
+    "profile_picture": "\/api\/canvas\/logo\/534384646-0.6476544039323.jpg",
+    "titleTextEncoded": "amanda-kirkbride",
+    "title": "Amanda Kirkbride",
+    "videos_count": "0"
+}

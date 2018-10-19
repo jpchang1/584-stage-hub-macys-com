@@ -1,0 +1,95 @@
+{
+    "title": "Life's a Beach",
+    "description": "Life's a Beach! Check out the latest & greatest beach picks to keep you hot all summer long. ;)",
+    "referenceId": "193862672dd07cb08590b5a3dd97cd84",
+    "date_created": "1528246118",
+    "date_modified": "1528292118",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "97",
+    "engagement_score": "13",
+    "conversion_score": "50",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213135",
+    "product_category": "women",
+    "id": "164632924",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "life-s-a-beach",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "72",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "72",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "72",
+        "prettyDuration": "00:01:12",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164632924\/46e4e\/thumb-193862672dd07cb08590b5a3dd97cd84-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164632924\/46e4e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164632924\/46e4e\/media.m3u8",
+        "assetId": "164632924",
+        "assetTitle": "Life's a Beach",
+        "assetTitleTextEncoded": "life-s-a-beach",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164632924",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164632924\/46e4e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164632924\/46e4e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164632924\/46e4e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164632924\/46e4e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164632924\/46e4e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Sun Bum",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,21 @@
+{
+    "id": "372",
+    "first_name": "Jose Ricardo",
+    "last_name": "Fornes",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Test"
+    },
+    "last_login_timestamp": "1539391783",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-01 04:14:55",
+    "login_id": "1759121",
+    "user_id": "372",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Jose Ricardo Fornes",
+    "profile_picture": null,
+    "titleTextEncoded": "jose-ricardo-fornes",
+    "title": "Jose Ricardo Fornes",
+    "videos_count": "2"
+}

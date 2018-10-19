@@ -1,0 +1,21 @@
+{
+    "id": "213233",
+    "first_name": "Kendall",
+    "last_name": "Harper",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "My Shop Captain"
+    },
+    "last_login_timestamp": "1527541027",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 16:55:55",
+    "login_id": "1759121",
+    "user_id": "213233",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Kendall Harper",
+    "profile_picture": null,
+    "titleTextEncoded": "kendall-harper",
+    "title": "Kendall Harper",
+    "videos_count": "0"
+}

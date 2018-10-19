@@ -1,0 +1,21 @@
+{
+    "id": "213450",
+    "first_name": "Tammy",
+    "last_name": "Kaspar",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/587478718-0.2111203823238.jpg",
+        "job_title": "Sales Consultant-Mattresses"
+    },
+    "last_login_timestamp": "1528752018",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-06-05 20:17:22",
+    "login_id": "1759121",
+    "user_id": "213450",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Tammy Kaspar",
+    "profile_picture": "\/api\/canvas\/logo\/587478718-0.2111203823238.jpg",
+    "titleTextEncoded": "tammy-kaspar",
+    "title": "Tammy Kaspar",
+    "videos_count": "1"
+}

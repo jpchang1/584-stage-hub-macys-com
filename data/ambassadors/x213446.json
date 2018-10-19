@@ -1,0 +1,21 @@
+{
+    "id": "213446",
+    "first_name": "Jorge",
+    "last_name": "Bravo",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/924260195-0.4261673458851.jpg",
+        "job_title": "Team Floor lead"
+    },
+    "last_login_timestamp": "1529224765",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-06-05 07:42:26",
+    "login_id": "1759121",
+    "user_id": "213446",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Jorge Bravo",
+    "profile_picture": "\/api\/canvas\/logo\/924260195-0.4261673458851.jpg",
+    "titleTextEncoded": "jorge-bravo",
+    "title": "Jorge Bravo",
+    "videos_count": "0"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "213136",
+    "first_name": "Anqi",
+    "last_name": "Tang",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Lead data scientist"
+    },
+    "last_login_timestamp": "1528504744",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 21:28:12",
+    "login_id": "1759121",
+    "user_id": "213136",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Anqi Tang",
+    "profile_picture": null,
+    "titleTextEncoded": "anqi-tang",
+    "title": "Anqi Tang",
+    "videos_count": "2"
+}

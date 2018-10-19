@@ -1,0 +1,21 @@
+{
+    "id": "213285",
+    "first_name": "Elise",
+    "last_name": "Saetta",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/973790233-0.9222990162204.jpg",
+        "job_title": "Fashion Director, Beauty"
+    },
+    "last_login_timestamp": "1525629867",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-06 01:42:29",
+    "login_id": "1759121",
+    "user_id": "213285",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Elise Saetta",
+    "profile_picture": "\/api\/canvas\/logo\/973790233-0.9222990162204.jpg",
+    "titleTextEncoded": "elise-saetta",
+    "title": "Elise Saetta",
+    "videos_count": "0"
+}

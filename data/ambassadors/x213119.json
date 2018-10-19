@@ -1,0 +1,21 @@
+{
+    "id": "213119",
+    "first_name": "Cat",
+    "last_name": "Keane",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/346353555-0.2166961835697.jpg",
+        "job_title": "Digital Merchandise Assistant"
+    },
+    "last_login_timestamp": "1528672007",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 21:04:43",
+    "login_id": "1759121",
+    "user_id": "213119",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Cat Keane",
+    "profile_picture": "\/api\/canvas\/logo\/346353555-0.2166961835697.jpg",
+    "titleTextEncoded": "cat-keane",
+    "title": "Cat Keane",
+    "videos_count": "0"
+}

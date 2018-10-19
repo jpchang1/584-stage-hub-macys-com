@@ -1,0 +1,90 @@
+{
+    "title": "Freelance Styling ITList",
+    "description": "How to freelance style with Macy's ITList",
+    "referenceId": "6d9c2e74b675366d22ede6c41cad1022",
+    "date_created": "1525899737",
+    "date_modified": "1526403426",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "64",
+    "engagement_score": "6",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213294",
+    "product_category": null,
+    "id": "163856958",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "eae9a5f4-58a0-4f9a-88bc-94bcf46ecefe",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "51",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "51",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "51",
+        "prettyDuration": "00:00:51",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163856958\/5c3f3\/thumb-6d9c2e74b675366d22ede6c41cad1022-00001.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163856958\/5c3f3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163856958\/5c3f3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163856958\/5c3f3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163856958\/5c3f3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163856958\/5c3f3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

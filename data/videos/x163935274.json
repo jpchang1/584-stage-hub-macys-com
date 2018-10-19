@@ -1,0 +1,93 @@
+{
+    "title": "Loving My Macy Beauty Products!",
+    "description": "Aye Yo! WATCH ME TRY A CAT EYE FOR THE FIRST TIME......And also mess up my eye shadow! #Practicemakesperfect Clinique Just came out with a new summer 3 piece must have and I Must say.. I AM IN LOVE, the kit comes with your very own eye liner, a chubby stick, and mascara for only $18.50, the eyeliner alone is $18.00, Hurry and pick your up today, or click on my link to purchase these amazing products only at #Macys",
+    "referenceId": "6e399873a575ddd900f9d20139512d60",
+    "date_created": "1526509854",
+    "date_modified": "1526510134",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "70",
+    "engagement_score": "9",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213175",
+    "product_category": "beauty",
+    "id": "163935274",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "6c87772b-84ac-4611-8449-35bba4f07629",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "59",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "59",
+            "width": 1080,
+            "height": 1080
+        },
+        "mediaDuration": "59",
+        "prettyDuration": "00:00:59",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163935274\/6e113\/thumb-6e399873a575ddd900f9d20139512d60-00001.jpg",
+        "type": "mp4",
+        "assetId": "163935274",
+        "assetTitle": "6C87772B 84AC-4611-8449-35BBA4F07629",
+        "assetTitleTextEncoded": "6c87772b-84ac-4611-8449-35bba4f07629",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163935274",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163935274\/6e113\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163935274\/6e113\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163935274\/6e113\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163935274\/6e113\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163935274\/6e113\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

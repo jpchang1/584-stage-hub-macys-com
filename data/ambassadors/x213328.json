@@ -1,0 +1,21 @@
+{
+    "id": "213328",
+    "first_name": "lauren",
+    "last_name": "wilner",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/361557845-0.3409661190584.jpg",
+        "job_title": "VP fashion director "
+    },
+    "last_login_timestamp": "1528395254",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-08 17:23:25",
+    "login_id": "1759121",
+    "user_id": "213328",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "lauren wilner",
+    "profile_picture": "\/api\/canvas\/logo\/361557845-0.3409661190584.jpg",
+    "titleTextEncoded": "lauren-wilner",
+    "title": "lauren wilner",
+    "videos_count": "5"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "213110",
+    "first_name": "Stacey",
+    "last_name": "Besterman",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/281759701-0.2507816207129.jpg",
+        "job_title": "Benefits Service Specialist"
+    },
+    "last_login_timestamp": "1529353723",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 20:42:35",
+    "login_id": "1759121",
+    "user_id": "213110",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Stacey Besterman",
+    "profile_picture": "\/api\/canvas\/logo\/281759701-0.2507816207129.jpg",
+    "titleTextEncoded": "stacey-besterman",
+    "title": "Stacey Besterman",
+    "videos_count": "0"
+}

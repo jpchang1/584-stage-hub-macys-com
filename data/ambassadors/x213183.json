@@ -1,0 +1,21 @@
+{
+    "id": "213183",
+    "first_name": "Lidia",
+    "last_name": "Luna",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/527829115-0.5900714638177.jpg",
+        "job_title": "Sales Manager"
+    },
+    "last_login_timestamp": "1528368553",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 03:13:34",
+    "login_id": "1759121",
+    "user_id": "213183",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Lidia Luna",
+    "profile_picture": "\/api\/canvas\/logo\/527829115-0.5900714638177.jpg",
+    "titleTextEncoded": "lidia-luna",
+    "title": "Lidia Luna",
+    "videos_count": "2"
+}

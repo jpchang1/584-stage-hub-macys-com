@@ -1,0 +1,21 @@
+{
+    "id": "213180",
+    "first_name": "Melissa",
+    "last_name": "Rodgers",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/946315774-0.5675274685490.jpg",
+        "job_title": "sales associate"
+    },
+    "last_login_timestamp": "1529376202",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 02:47:21",
+    "login_id": "1759121",
+    "user_id": "213180",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Melissa Rodgers",
+    "profile_picture": "\/api\/canvas\/logo\/946315774-0.5675274685490.jpg",
+    "titleTextEncoded": "melissa-rodgers",
+    "title": "Melissa Rodgers",
+    "videos_count": "13"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "213101",
+    "first_name": "Nicole",
+    "last_name": "Giambagno",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/233764366-0.1976060491520.jpg",
+        "job_title": "Digital Assistant Merchant"
+    },
+    "last_login_timestamp": "1529334651",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 20:29:20",
+    "login_id": "1759121",
+    "user_id": "213101",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Nicole Giambagno",
+    "profile_picture": "\/api\/canvas\/logo\/233764366-0.1976060491520.jpg",
+    "titleTextEncoded": "nicole-giambagno",
+    "title": "Nicole Giambagno",
+    "videos_count": "7"
+}

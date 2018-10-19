@@ -1,0 +1,21 @@
+{
+    "id": "213278",
+    "first_name": "Jason",
+    "last_name": "Williams",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/160040798-0.7646691794507.jpg",
+        "job_title": "Furniture and Bedding"
+    },
+    "last_login_timestamp": "1526577715",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-05 18:12:12",
+    "login_id": "1759121",
+    "user_id": "213278",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Jason Williams",
+    "profile_picture": "\/api\/canvas\/logo\/160040798-0.7646691794507.jpg",
+    "titleTextEncoded": "jason-williams",
+    "title": "Jason Williams",
+    "videos_count": "0"
+}

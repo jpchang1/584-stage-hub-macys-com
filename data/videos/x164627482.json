@@ -1,0 +1,93 @@
+{
+    "title": "Estee Lauder Summer \u201818 GWP",
+    "description": "Now thru 06\/09\/2018, stop by a Macy\u2019s near you to grab a free gift w\/$35 Estee Lauder purchase!\nHere are some of my personal favorites I\u2019d recommending you give it a go!\n\nFollow me on Instagram for more: @janie.hong",
+    "referenceId": "04fa0f779c587fffa59987ad4bf246cc",
+    "date_created": "1528060560",
+    "date_modified": "1528158661",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "38",
+    "engagement_score": "4",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213220",
+    "product_category": "beauty",
+    "id": "164627482",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "9fbe201c-1078-49b7-a420-d4fa30e16663",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "10",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "10",
+            "width": 320,
+            "height": 568
+        },
+        "mediaDuration": "10",
+        "prettyDuration": "00:00:10",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164627482\/eca5d\/thumb-04fa0f779c587fffa59987ad4bf246cc-00002.jpg",
+        "type": "mp4",
+        "assetId": "164627482",
+        "assetTitle": "Estee Lauder Summer \u201818 GWP",
+        "assetTitleTextEncoded": "9fbe201c-1078-49b7-a420-d4fa30e16663",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164627482",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164627482\/eca5d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 568
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164627482\/eca5d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 568
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164627482\/eca5d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164627482\/eca5d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164627482\/eca5d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

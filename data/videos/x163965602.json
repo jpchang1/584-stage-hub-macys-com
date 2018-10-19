@@ -1,0 +1,88 @@
+{
+    "title": "So Much to Choose From",
+    "description": "Different styles, all in one place Macy's",
+    "referenceId": "036d043c2ff103eda3193f8fa436a801",
+    "date_created": "1526694744",
+    "date_modified": "1526943956",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "23",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213286",
+    "product_category": null,
+    "id": "163965602",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "54838751448-c9d4b5d8-7828-4e02-8d1b-e3150f32d4a2",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "14",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "14",
+            "width": 360,
+            "height": 480
+        },
+        "mediaDuration": "14",
+        "prettyDuration": "00:00:14",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163965602\/98773\/thumb-036d043c2ff103eda3193f8fa436a801-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/163965602\/98773\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/163965602\/98773\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163965602\/98773\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163965602\/98773\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163965602\/98773\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163965602\/98773\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163965602\/98773\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 180,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

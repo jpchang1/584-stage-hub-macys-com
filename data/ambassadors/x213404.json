@@ -1,0 +1,21 @@
+{
+    "id": "213404",
+    "first_name": "Shyam",
+    "last_name": "Ramani",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Furniture Sales Consultant"
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-19 21:40:49",
+    "login_id": "1759121",
+    "user_id": "213404",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Shyam Ramani",
+    "profile_picture": null,
+    "titleTextEncoded": "shyam-ramani",
+    "title": "Shyam Ramani",
+    "videos_count": "0"
+}

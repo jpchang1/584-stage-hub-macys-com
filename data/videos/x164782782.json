@@ -1,0 +1,99 @@
+{
+    "title": "Lucky-Brand-on-the-water",
+    "description": "A button up shirt and graphic tee from Lucky Brand paired with a black Cole Haan sneaker.",
+    "referenceId": "80a90f697309886c40972a763c78cb01",
+    "date_created": "1528666107",
+    "date_modified": "1528809723",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "23",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213381",
+    "product_category": "men",
+    "id": "164782782",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "ce926394-06d5-4b82-8bbd-dde55cd2ac2b",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "58",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "58",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "58",
+        "prettyDuration": "00:00:58",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/450104688-1528732379.png",
+        "type": "mp4",
+        "assetId": "164782782",
+        "assetTitle": "Lucky-Brand-on-the-water",
+        "assetTitleTextEncoded": "ce926394-06d5-4b82-8bbd-dde55cd2ac2b",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164782782",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164782782\/cc0a7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164782782\/cc0a7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164782782\/cc0a7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164782782\/cc0a7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164782782\/cc0a7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's",
+    "tvp_enhanced_transcript": null
+}

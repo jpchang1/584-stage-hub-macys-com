@@ -1,0 +1,21 @@
+{
+    "id": "213203",
+    "first_name": "Natasha",
+    "last_name": "Betty",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/350379441-0.1208762769121.jpg",
+        "job_title": "Dir Merch Mktg - Fragrance"
+    },
+    "last_login_timestamp": "1529343485",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 11:13:17",
+    "login_id": "1759121",
+    "user_id": "213203",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Natasha Betty",
+    "profile_picture": "\/api\/canvas\/logo\/350379441-0.1208762769121.jpg",
+    "titleTextEncoded": "natasha-betty",
+    "title": "Natasha Betty",
+    "videos_count": "8"
+}

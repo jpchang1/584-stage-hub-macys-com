@@ -1,0 +1,99 @@
+{
+    "title": "Mixed Print Kimono by Bar III",
+    "description": "Designed by Bar III\nCollarless,  self-tie belt at waist, vent at sides, and hits at the knee.",
+    "referenceId": "9172e3a2753784ce1e5d516b976210cc",
+    "date_created": "1529129179",
+    "date_modified": "1529130871",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "5",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213287",
+    "product_category": "women",
+    "id": "164924957",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "a9aa0d76-bb04-4275-a1f4-cd4370903c67",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "6",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "6",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "6",
+        "prettyDuration": "00:00:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164924957\/4e0b4\/thumb-9172e3a2753784ce1e5d516b976210cc-00002.jpg",
+        "type": "mp4",
+        "assetId": 164924957,
+        "assetTitle": "Mixed Print Kimono by Bar III",
+        "assetTitleTextEncoded": "a9aa0d76-bb04-4275-a1f4-cd4370903c67",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 164924957,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164924957\/4e0b4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164924957\/4e0b4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164924957\/4e0b4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164924957\/4e0b4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164924957\/4e0b4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164924957\/4e0b4\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164924957\/4e0b4\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

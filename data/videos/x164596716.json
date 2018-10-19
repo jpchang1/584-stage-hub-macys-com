@@ -1,0 +1,95 @@
+{
+    "title": "Don - Work Style",
+    "description": "\u2764 Absolutely loving all the blush pinks and floral patterns that are out right now! Even my Ray-Bans have a nude-blush pink on them!! I went for the pink moto jacket, but for a more reserved look go with a one-button blazer. Shop this look and similar items with the links below. \u2764",
+    "referenceId": "82acb44e97dadc9ed53c358e9009657f",
+    "date_created": "1527478931",
+    "date_modified": "1527481472",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "26",
+    "engagement_score": "3",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213280",
+    "product_category": "women",
+    "id": "164596716",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "donna1",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "22",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "22",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "22",
+        "prettyDuration": "00:00:22",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164596716\/8920d\/thumb-82acb44e97dadc9ed53c358e9009657f-00002.jpg",
+        "type": "mp4",
+        "assetId": "164596716",
+        "assetTitle": "Donna1",
+        "assetTitleTextEncoded": "donna1",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164596716",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164596716\/8920d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164596716\/8920d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164596716\/8920d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164596716\/8920d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164596716\/8920d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164596716\/8920d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164596716\/8920d\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "4Freestyle East Berkshire College",
+    "tvp_enhanced_transcript": null
+}

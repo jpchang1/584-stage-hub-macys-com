@@ -1,0 +1,95 @@
+{
+    "title": "Lets go to the Beach",
+    "description": "It's swimsuit season, time to go to the beach",
+    "referenceId": "5029417b827fdd70c0486ff3e5f54e71",
+    "date_created": "1527630539",
+    "date_modified": "1527797587",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "42",
+    "engagement_score": "7",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213356",
+    "product_category": "juniors",
+    "id": "164599293",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "vid-40650528-094621-582",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "6",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "6",
+            "width": 526,
+            "height": 1080
+        },
+        "mediaDuration": "6",
+        "prettyDuration": "00:00:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164599293\/b41dd\/thumb-5029417b827fdd70c0486ff3e5f54e71-00002.jpg",
+        "type": "mp4",
+        "assetId": "164599293",
+        "assetTitle": "VID_40650528_094621_582",
+        "assetTitleTextEncoded": "vid-40650528-094621-582",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164599293",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164599293\/b41dd\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 526,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164599293\/b41dd\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 350,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164599293\/b41dd\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 234,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164599293\/b41dd\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 176,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164599293\/b41dd\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 116,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

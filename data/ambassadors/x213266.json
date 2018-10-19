@@ -1,0 +1,21 @@
+{
+    "id": "213266",
+    "first_name": "Judith",
+    "last_name": "Barrett",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/277844030-0.4049700601026.jpg",
+        "job_title": "Counter Manager"
+    },
+    "last_login_timestamp": "1525752856",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-05 00:32:27",
+    "login_id": "1759121",
+    "user_id": "213266",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Judith Barrett",
+    "profile_picture": "\/api\/canvas\/logo\/277844030-0.4049700601026.jpg",
+    "titleTextEncoded": "judith-barrett",
+    "title": "Judith Barrett",
+    "videos_count": "0"
+}

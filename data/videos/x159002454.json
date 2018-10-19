@@ -1,0 +1,93 @@
+{
+    "title": "Macy s Fall Inspiration Color Fur",
+    "description": "Ivanka Dekoning fall inspiration",
+    "referenceId": "e611ecca76cb7bb4d775ae58bd0ea30a",
+    "date_created": "1523651835",
+    "date_modified": "1524510340",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "0",
+    "product_category": null,
+    "id": "159002454",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "Macy-s-Fall-Inspiration-Color-Fur",
+    "category": "",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "51",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "51",
+            "width": 854,
+            "height": 426
+        },
+        "mediaDuration": "51",
+        "prettyDuration": "00:00:51",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/749568276-1524510340.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/159002454\/b39ef\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/159002454\/b39ef\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159002454\/b39ef\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 426
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159002454\/b39ef\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 426
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159002454\/b39ef\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 426
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159002454\/b39ef\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159002454\/b39ef\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 160
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

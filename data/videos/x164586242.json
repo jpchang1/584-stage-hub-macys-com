@@ -1,0 +1,95 @@
+{
+    "title": "Coffee with Nespresso & Villeroy & Boch",
+    "description": "Making a cappuccino with my Nespresso Citiz served in my new Villeroy & Boch New Wave Coffee mug",
+    "referenceId": "b0a7436083aa3460901d67efe25cd26e",
+    "date_created": "1527339083",
+    "date_modified": "1527339428",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "9",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213228",
+    "product_category": "bed_bath",
+    "id": "164586242",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "5d3eb6f1-c2d2-4daf-8665-6b100741752b",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "17",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "17",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "17",
+        "prettyDuration": "00:00:17",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164586242\/4d349\/thumb-b0a7436083aa3460901d67efe25cd26e-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164586242\/4d349\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164586242\/4d349\/media.m3u8",
+        "assetId": "164586242",
+        "assetTitle": "5D3EB6F1-C2D2-4DAF-8665-6B100741752B",
+        "assetTitleTextEncoded": "5d3eb6f1-c2d2-4daf-8665-6b100741752b",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164586242",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164586242\/4d349\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164586242\/4d349\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164586242\/4d349\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164586242\/4d349\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164586242\/4d349\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

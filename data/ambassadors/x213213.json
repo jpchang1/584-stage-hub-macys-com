@@ -1,0 +1,21 @@
+{
+    "id": "213213",
+    "first_name": "Amy",
+    "last_name": "Galbraith",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/501495479-0.6733759476803.jpg",
+        "job_title": "District Director of Visual"
+    },
+    "last_login_timestamp": "1529076655",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 13:01:55",
+    "login_id": "1759121",
+    "user_id": "213213",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Amy Galbraith",
+    "profile_picture": "\/api\/canvas\/logo\/501495479-0.6733759476803.jpg",
+    "titleTextEncoded": "amy-galbraith",
+    "title": "Amy Galbraith",
+    "videos_count": "13"
+}

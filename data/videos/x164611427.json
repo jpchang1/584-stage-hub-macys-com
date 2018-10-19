@@ -1,0 +1,95 @@
+{
+    "title": "Life Is Short, Buy The Makeup",
+    "description": "50% Smashbox Spotlight Highlighting Palette",
+    "referenceId": "29b10e7aadb24281233ffb6673d4da5c",
+    "date_created": "1527783119",
+    "date_modified": "1527784688",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "17",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213130",
+    "product_category": "beauty",
+    "id": "164611427",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fe3984b1-f1af-45a6-9d4c-79091249cb97",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "8",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "8",
+            "width": 1080,
+            "height": 1080
+        },
+        "mediaDuration": "8",
+        "prettyDuration": "00:00:08",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164611427\/bbcd6\/thumb-29b10e7aadb24281233ffb6673d4da5c-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "assetId": "164611427",
+        "assetTitle": "Life Is Short, Buy The Makeup",
+        "assetTitleTextEncoded": "fe3984b1-f1af-45a6-9d4c-79091249cb97",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164611427",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164611427\/bbcd6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164611427\/bbcd6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164611427\/bbcd6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164611427\/bbcd6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164611427\/bbcd6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

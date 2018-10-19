@@ -1,0 +1,97 @@
+{
+    "title": "Adidas Adi-COLOR",
+    "description": "This Adidas AdiColor rust red track suit is perfect for a spring time day in the city. Rather it is running to Macy's for a quick pick up or going for a walk in the park. This look will get you through it. Be sure to like and follow @Mr_TJay! Thanks!\n\n\n***I DO NOT OWN ANY RIGHTS TO THIS MUSIC. NO COPY RIGHT INFRINGEMENT INTENDED***",
+    "referenceId": "824bd3b2d2f637f20b0b86d227d10ad6",
+    "date_created": "1526959463",
+    "date_modified": "1529093324",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "136",
+    "engagement_score": "13",
+    "conversion_score": "50",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213335",
+    "product_category": "men",
+    "id": "163985530",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "msc-adidas-d4",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "33",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "33",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "33",
+        "prettyDuration": "00:00:33",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/157207206-1527203292.jpg",
+        "type": "mp4",
+        "assetId": 163985530,
+        "assetTitle": "Adidas Adi-COLOR",
+        "assetTitleTextEncoded": "msc-adidas-d4",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 163985530,
+            "li": "1759121"
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/163985530\/abed2\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/163985530\/abed2\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163985530\/abed2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163985530\/abed2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163985530\/abed2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163985530\/abed2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163985530\/abed2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2018-06-18\"},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "100 Torri Macy's Hibiscus Adidas Si\u00f3",
+    "tvp_enhanced_transcript": null
+}

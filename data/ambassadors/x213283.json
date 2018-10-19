@@ -1,0 +1,21 @@
+{
+    "id": "213283",
+    "first_name": "Marla",
+    "last_name": "Jenkins",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/961114439-0.2101538969203.jpg",
+        "job_title": "At your service "
+    },
+    "last_login_timestamp": "1526101756",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-05 23:29:18",
+    "login_id": "1759121",
+    "user_id": "213283",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Marla Jenkins",
+    "profile_picture": "\/api\/canvas\/logo\/961114439-0.2101538969203.jpg",
+    "titleTextEncoded": "marla-jenkins",
+    "title": "Marla Jenkins",
+    "videos_count": "0"
+}

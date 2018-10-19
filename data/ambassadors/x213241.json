@@ -1,0 +1,21 @@
+{
+    "id": "213241",
+    "first_name": "Meg",
+    "last_name": "Brock",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/434060253-0.1182219616137.jpg",
+        "job_title": "Beauty Advisor"
+    },
+    "last_login_timestamp": "1527939222",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 18:19:08",
+    "login_id": "1759121",
+    "user_id": "213241",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Meg Brock",
+    "profile_picture": "\/api\/canvas\/logo\/434060253-0.1182219616137.jpg",
+    "titleTextEncoded": "meg-brock",
+    "title": "Meg Brock",
+    "videos_count": "4"
+}

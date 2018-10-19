@@ -1,0 +1,21 @@
+{
+    "id": "213108",
+    "first_name": "Melissa",
+    "last_name": "Bauth",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/867771242-0.9385037911124.jpg",
+        "job_title": "Impulse Beauty Counter Manager"
+    },
+    "last_login_timestamp": "1529071919",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 20:42:23",
+    "login_id": "1759121",
+    "user_id": "213108",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Melissa Bauth",
+    "profile_picture": "\/api\/canvas\/logo\/867771242-0.9385037911124.jpg",
+    "titleTextEncoded": "melissa-bauth",
+    "title": "Melissa Bauth",
+    "videos_count": "4"
+}

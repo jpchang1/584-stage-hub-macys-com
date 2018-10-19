@@ -1,0 +1,21 @@
+{
+    "id": "213440",
+    "first_name": "Kelley",
+    "last_name": "Beauty",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/874627335-0.3722314518876.jpg",
+        "job_title": "Beauty Advisor"
+    },
+    "last_login_timestamp": "1529393434",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-06-04 15:00:43",
+    "login_id": "1759121",
+    "user_id": "213440",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Kelley Beauty",
+    "profile_picture": "\/api\/canvas\/logo\/874627335-0.3722314518876.jpg",
+    "titleTextEncoded": "kelley-beauty",
+    "title": "Kelley Beauty",
+    "videos_count": "5"
+}

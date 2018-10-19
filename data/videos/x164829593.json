@@ -1,0 +1,93 @@
+{
+    "title": "Rooftop Bar Essentials",
+    "description": "It\u2019s summer in the city and that only means one thing - escape to the rooftops! I\u2019m staying cool in an Avec Les Filles breezy dress, Steve Madden espadrilles (so comfy), INC drop earrings, and Ray-Ban mirrored aviators. PS. it was windy up there!!",
+    "referenceId": "0fefbd80b3c1ec7d81ea53fcf480aef2",
+    "date_created": "1528819972",
+    "date_modified": "1528904870",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "366",
+    "engagement_score": "36",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213243",
+    "product_category": "women",
+    "id": "164829593",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "afedaee4-ec6b-4a03-8e6c-54f894ce0c9b",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "22",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "22",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "22",
+        "prettyDuration": "00:00:22",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164829593\/8c642\/thumb-0fefbd80b3c1ec7d81ea53fcf480aef2-00002.jpg",
+        "type": "mp4",
+        "assetId": 164829593,
+        "assetTitle": "Rooftop Bar Essentials",
+        "assetTitleTextEncoded": "afedaee4-ec6b-4a03-8e6c-54f894ce0c9b",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 164829593,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164829593\/8c642\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164829593\/8c642\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164829593\/8c642\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164829593\/8c642\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164829593\/8c642\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

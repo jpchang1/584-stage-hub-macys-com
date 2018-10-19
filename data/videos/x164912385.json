@@ -1,0 +1,99 @@
+{
+    "title": "Work & Weekend ~ Style & Co top ~  I.N.C. Wide Leg Soft Pants",
+    "description": "This Outfit of the Day is a great look for work and weekend during this summer season. The top is by Style & Co and features the cold shoulders and a loose tunic fit. I paired it over a pair of I.N.C. Palazzo (wide-leg) Soft Pants that are perfect for summer. Nice enough to wear to work and right into the weekend!",
+    "referenceId": "db20c6a1ba63bee72a95834a525231e1",
+    "date_created": "1529046132",
+    "date_modified": "1529048532",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "17",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213194",
+    "product_category": "women",
+    "id": "164912385",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "aileeootd6-11-2018-0",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "42",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "42",
+            "width": 1080,
+            "height": 1080
+        },
+        "mediaDuration": "42",
+        "prettyDuration": "00:00:42",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164912385\/e5918\/thumb-db20c6a1ba63bee72a95834a525231e1-00002.jpg",
+        "type": "mp4",
+        "assetId": "164912385",
+        "assetTitle": "Work & Weekend ~ Outfit of the Day (OOTD)",
+        "assetTitleTextEncoded": "aileeootd6-11-2018-0",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164912385",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164912385\/e5918\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164912385\/e5918\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164912385\/e5918\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164912385\/e5918\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164912385\/e5918\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164912385\/e5918\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164912385\/e5918\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,99 @@
+{
+    "title": "Macy's Style Crew Handbag Gift Ideas",
+    "description": "Mac's Style Crew Handbag Gift Ideas. Macy's also has Vera Bradley Products specific to some universities. Examples include Fighting Illini and Butler Bulldogs.",
+    "referenceId": "0c544083d75c5dfaaa14902cae426e46",
+    "date_created": "1526221942",
+    "date_modified": "1526341223",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "3",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": "handbags",
+    "id": "163916128",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "f7b10a41-e7de-4d3b-8697-497c16ada570",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "26",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "26",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "26",
+        "prettyDuration": "00:00:26",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/710866310-1526341215.png",
+        "type": "mp4",
+        "assetId": 163916128,
+        "assetTitle": "Macy's Style Crew Handbag Gift Ideas",
+        "assetTitleTextEncoded": "f7b10a41-e7de-4d3b-8697-497c16ada570",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 163916128,
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163916128\/c3af6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163916128\/c3af6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163916128\/c3af6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163916128\/c3af6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163916128\/c3af6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

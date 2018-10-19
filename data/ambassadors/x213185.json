@@ -1,0 +1,21 @@
+{
+    "id": "213185",
+    "first_name": "Tiffany",
+    "last_name": "Sha",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/784007569-0.9170077143702.jpg",
+        "job_title": "assistant marketing manager, SEM"
+    },
+    "last_login_timestamp": "1529255221",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 03:22:32",
+    "login_id": "1759121",
+    "user_id": "213185",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Tiffany Sha",
+    "profile_picture": "\/api\/canvas\/logo\/784007569-0.9170077143702.jpg",
+    "titleTextEncoded": "tiffany-sha",
+    "title": "Tiffany Sha",
+    "videos_count": "3"
+}

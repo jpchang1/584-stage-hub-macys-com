@@ -1,0 +1,88 @@
+{
+    "title": "Tommy Hilfiger Flats",
+    "description": "",
+    "referenceId": "7ffeac921ee1a458f70ed512ad5f3752",
+    "date_created": "1527475596",
+    "date_modified": "1527611049",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "6",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213143",
+    "product_category": null,
+    "id": "164595670",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "40468ec0-806c-4886-a92b-7a47986f0c9f",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "23",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "23",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "23",
+        "prettyDuration": "00:00:23",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164595670\/eb5b5\/thumb-7ffeac921ee1a458f70ed512ad5f3752-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164595670\/eb5b5\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164595670\/eb5b5\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164595670\/eb5b5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164595670\/eb5b5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164595670\/eb5b5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164595670\/eb5b5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164595670\/eb5b5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

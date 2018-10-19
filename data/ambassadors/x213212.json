@@ -1,0 +1,21 @@
+{
+    "id": "213212",
+    "first_name": "Alexandra",
+    "last_name": "Schwaber",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/923233124-0.6422452860511.jpg",
+        "job_title": "Direct Marketing Analyst"
+    },
+    "last_login_timestamp": "1529021669",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 12:40:34",
+    "login_id": "1759121",
+    "user_id": "213212",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Alexandra Schwaber",
+    "profile_picture": "\/api\/canvas\/logo\/923233124-0.6422452860511.jpg",
+    "titleTextEncoded": "alexandra-schwaber",
+    "title": "Alexandra Schwaber",
+    "videos_count": "4"
+}

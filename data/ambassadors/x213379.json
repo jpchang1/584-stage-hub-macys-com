@@ -1,0 +1,21 @@
+{
+    "id": "213379",
+    "first_name": "Heidi",
+    "last_name": "Clary",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Sales"
+    },
+    "last_login_timestamp": "1529103409",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-14 11:28:47",
+    "login_id": "1759121",
+    "user_id": "213379",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Heidi Clary",
+    "profile_picture": null,
+    "titleTextEncoded": "heidi-clary",
+    "title": "Heidi Clary",
+    "videos_count": "0"
+}

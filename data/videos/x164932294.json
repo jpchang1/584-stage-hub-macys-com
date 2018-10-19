@@ -1,0 +1,95 @@
+{
+    "title": "Walking on the Boardwalk on a Sunny Day",
+    "description": "BOARDWALK OUTING",
+    "referenceId": "2c669052cd4c32eb45339858ac7fa9c5",
+    "date_created": "1529266078",
+    "date_modified": "1529345171",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "0",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213132",
+    "product_category": "women",
+    "id": "164932294",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "kizoa-movie-maker-59rxkw8r-1",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "58",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "58",
+            "width": 1068,
+            "height": 600
+        },
+        "mediaDuration": "58",
+        "prettyDuration": "00:00:58",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/944122876-1529339392.jpg",
+        "type": "mp4",
+        "assetId": "164932294",
+        "assetTitle": "KIZOA-Movie-Maker-59rxkw8r (1)",
+        "assetTitleTextEncoded": "kizoa-movie-maker-59rxkw8r-1",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164932294",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164932294\/ebe77\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1068,
+                "height": 600
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164932294\/ebe77\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1068,
+                "height": 600
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164932294\/ebe77\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164932294\/ebe77\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164932294\/ebe77\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's Audrey",
+    "tvp_enhanced_transcript": null
+}

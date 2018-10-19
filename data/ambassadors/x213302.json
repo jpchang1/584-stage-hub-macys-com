@@ -1,0 +1,21 @@
+{
+    "id": "213302",
+    "first_name": "Sandra",
+    "last_name": "Okerulu",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/936819499-0.2683025685604.jpg",
+        "job_title": "Macys Mystyle Style Expert"
+    },
+    "last_login_timestamp": "1527190720",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-07 13:39:17",
+    "login_id": "1759121",
+    "user_id": "213302",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Sandra Okerulu",
+    "profile_picture": "\/api\/canvas\/logo\/936819499-0.2683025685604.jpg",
+    "titleTextEncoded": "sandra-okerulu",
+    "title": "Sandra Okerulu",
+    "videos_count": "0"
+}

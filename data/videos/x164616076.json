@@ -1,0 +1,97 @@
+{
+    "title": "Clinique Liquid Soap and Urban Decay Naked Ultimate Basics",
+    "description": "",
+    "referenceId": "864e7be0f42dc2b071273975c1f7ebbe",
+    "date_created": "1527894989",
+    "date_modified": "1527896289",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "18",
+    "engagement_score": "9",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213341",
+    "product_category": null,
+    "id": "164616076",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "a0e7c07a-dd11-4f45-9684-803dc0489aa3",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "39",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "39",
+            "width": 320,
+            "height": 568
+        },
+        "mediaDuration": "39",
+        "prettyDuration": "00:00:39",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164616076\/761ae\/thumb-864e7be0f42dc2b071273975c1f7ebbe-00002.jpg",
+        "type": "mp4",
+        "assetId": "164616076",
+        "assetTitle": "Clinique liquid soap and Urban Decay Ultimate basics",
+        "assetTitleTextEncoded": "a0e7c07a-dd11-4f45-9684-803dc0489aa3",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164616076",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164616076\/761ae\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 568
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164616076\/761ae\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 568
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164616076\/761ae\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164616076\/761ae\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164616076\/761ae\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}
