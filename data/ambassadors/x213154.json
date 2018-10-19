@@ -1,0 +1,21 @@
+{
+    "id": "213154",
+    "first_name": "Dion",
+    "last_name": "Nance",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/814132393-0.2498551354277.jpg",
+        "job_title": "Fashion Stylist"
+    },
+    "last_login_timestamp": "1526316553",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 23:23:55",
+    "login_id": "1759121",
+    "user_id": "213154",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Dion Nance",
+    "profile_picture": "\/api\/canvas\/logo\/814132393-0.2498551354277.jpg",
+    "titleTextEncoded": "dion-nance",
+    "title": "Dion Nance",
+    "videos_count": "0"
+}

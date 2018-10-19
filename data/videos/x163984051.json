@@ -1,0 +1,86 @@
+{
+    "title": "Get my good side",
+    "description": "How to take a picture but remember to get your good side.",
+    "referenceId": "176c4cb3b29c78a79acbc116a18b19ef",
+    "date_created": "1526903753",
+    "date_modified": "1526943410",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "29",
+    "engagement_score": "6",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213297",
+    "product_category": null,
+    "id": "163984051",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "trim-2e450473-c22f-4523-9573-de106b3d4a85",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "4",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "4",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "4",
+        "prettyDuration": "00:00:04",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163984051\/16086\/thumb-176c4cb3b29c78a79acbc116a18b19ef-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163984051\/16086\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163984051\/16086\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163984051\/16086\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163984051\/16086\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163984051\/16086\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

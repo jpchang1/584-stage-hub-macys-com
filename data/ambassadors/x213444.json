@@ -1,0 +1,21 @@
+{
+    "id": "213444",
+    "first_name": "Nicole",
+    "last_name": "McInnis",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/407010459-0.7666143664624.jpg",
+        "job_title": "Sales Associate"
+    },
+    "last_login_timestamp": "1528325917",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-06-05 03:33:02",
+    "login_id": "1759121",
+    "user_id": "213444",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Nicole McInnis",
+    "profile_picture": "\/api\/canvas\/logo\/407010459-0.7666143664624.jpg",
+    "titleTextEncoded": "nicole-mcinnis",
+    "title": "Nicole McInnis",
+    "videos_count": "0"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "213156",
+    "first_name": "Melissa",
+    "last_name": "Sheehan",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/406365368-0.6756932191085.jpg",
+        "job_title": "Marketing Strategy Manager"
+    },
+    "last_login_timestamp": "1529237349",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 23:29:47",
+    "login_id": "1759121",
+    "user_id": "213156",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Melissa Sheehan",
+    "profile_picture": "\/api\/canvas\/logo\/406365368-0.6756932191085.jpg",
+    "titleTextEncoded": "melissa-sheehan",
+    "title": "Melissa Sheehan",
+    "videos_count": "3"
+}

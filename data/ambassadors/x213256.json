@@ -1,0 +1,21 @@
+{
+    "id": "213256",
+    "first_name": "Richard",
+    "last_name": "Hairston",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/744805908-0.2645554224029.jpg",
+        "job_title": " Administrative Support Team Member "
+    },
+    "last_login_timestamp": "1528301197",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 21:50:55",
+    "login_id": "1759121",
+    "user_id": "213256",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Richard Hairston",
+    "profile_picture": "\/api\/canvas\/logo\/744805908-0.2645554224029.jpg",
+    "titleTextEncoded": "richard-hairston",
+    "title": "Richard Hairston",
+    "videos_count": "0"
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Jacqueline Palmer\/The Trunk Show",
+    "description": "Macy\u2019s Rockingham Park Mall will be hosting its first ever certified pre-owned watch show June 9th and 10th!\n#watches #event #macysstylecrew #macysstylecrewjacqueline #fashion #trend #sale",
+    "referenceId": "41c6e32f2944e1bcebc4c443ff4233c9",
+    "date_created": "1527070288",
+    "date_modified": "1527070717",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "68",
+    "engagement_score": "8",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": "jewelry",
+    "id": "163992086",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "aa5d2684-7290-4967-9720-9593e566c3c1",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "75",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "75",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "75",
+        "prettyDuration": "00:01:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163992086\/980c6\/thumb-41c6e32f2944e1bcebc4c443ff4233c9-00002.jpg",
+        "type": "mp4",
+        "assetId": "163992086",
+        "assetTitle": "AA5D2684-7290-4967-9720-9593E566C3C1",
+        "assetTitleTextEncoded": "aa5d2684-7290-4967-9720-9593e566c3c1",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163992086",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163992086\/980c6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163992086\/980c6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163992086\/980c6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163992086\/980c6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163992086\/980c6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

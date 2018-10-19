@@ -1,0 +1,92 @@
+{
+    "title": "Mirror Selfie",
+    "description": "Mirror selfie best way to see your outfit.",
+    "referenceId": "90b2b1cf255f9901760d5ead7b63c887",
+    "date_created": "1529129052",
+    "date_modified": "1529340671",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213287",
+    "product_category": null,
+    "id": "164924956",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "9e1f8488-4b3a-469f-ad60-764ad8859484",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "6",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "6",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "6",
+        "prettyDuration": "00:00:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164924956\/1ffcd\/thumb-90b2b1cf255f9901760d5ead7b63c887-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164924956\/1ffcd\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164924956\/1ffcd\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164924956\/1ffcd\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164924956\/1ffcd\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164924956\/1ffcd\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164924956\/1ffcd\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164924956\/1ffcd\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

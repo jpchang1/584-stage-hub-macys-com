@@ -1,0 +1,93 @@
+{
+    "title": "Galaxy Halloween Makeup Look",
+    "description": "How to create Galaxy look for Halloween.",
+    "referenceId": "924b3751271e633ce1d3bc41b76bcb31",
+    "date_created": "1523637031",
+    "date_modified": "1524284850",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "4",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "0",
+    "product_category": null,
+    "id": "159001406",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "Galaxy-Halloween-Makeup-Look",
+    "category": "",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "595",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "595",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "595",
+        "prettyDuration": "00:09:55",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/159001406\/0996f\/thumb-924b3751271e633ce1d3bc41b76bcb31-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/159001406\/0996f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/159001406\/0996f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159001406\/0996f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159001406\/0996f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159001406\/0996f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159001406\/0996f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159001406\/0996f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

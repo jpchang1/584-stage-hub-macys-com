@@ -1,0 +1,90 @@
+{
+    "title": "IT Cosmetics",
+    "description": "Find the right shade for you",
+    "referenceId": "186f7b953ba66874a517a7c685b1d5d4",
+    "date_created": "1528811290",
+    "date_modified": "1528819513",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "8",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213319",
+    "product_category": null,
+    "id": "164829467",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "ed3bd49e-731b-4904-86a9-0962c2e36ab7",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "9",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "9",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "9",
+        "prettyDuration": "00:00:09",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164829467\/8e308\/thumb-186f7b953ba66874a517a7c685b1d5d4-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164829467\/8e308\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164829467\/8e308\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164829467\/8e308\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164829467\/8e308\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164829467\/8e308\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "IT Cosmetics",
+    "tvp_enhanced_transcript": null
+}

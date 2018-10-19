@@ -1,0 +1,21 @@
+{
+    "id": "213312",
+    "first_name": "Bianca",
+    "last_name": "Torres",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/322030681-0.7639271517749.jpg",
+        "job_title": "Omni Merchant Assistant"
+    },
+    "last_login_timestamp": "1526051598",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-07 17:30:20",
+    "login_id": "1759121",
+    "user_id": "213312",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Bianca Torres",
+    "profile_picture": "\/api\/canvas\/logo\/322030681-0.7639271517749.jpg",
+    "titleTextEncoded": "bianca-torres",
+    "title": "Bianca Torres",
+    "videos_count": "0"
+}

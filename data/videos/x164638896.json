@@ -1,0 +1,93 @@
+{
+    "title": "Simple Summer Makeup Look- AdrianneViz",
+    "description": "Hey Guys! This is my go to summer look whether I'm rushing to work or I just feel like wearing light makeup. The IT Cosmetics leaves a dewy finish so some days I want that look and some days I want to look more matte so that is where the Laura Mercier Translucent Loose Setting Powder comes in! The bye-bye under eye by IT Cosmetics is truly amazing ! I am so happy I found it! It brightens up your face with very little. Lets not forget about the brows. I mean how amazing is the ABH Brow Wiz!\nThank you for watching!\nxoxo\nAdri",
+    "referenceId": "6039a93cce8e701c92be5b3c8dc652b3",
+    "date_created": "1528302182",
+    "date_modified": "1528309601",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "19",
+    "engagement_score": "2",
+    "conversion_score": "50",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213329",
+    "product_category": "beauty",
+    "id": "164638896",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "5products",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "236",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "236",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "236",
+        "prettyDuration": "00:03:56",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164638896\/39805\/thumb-6039a93cce8e701c92be5b3c8dc652b3-00002.jpg",
+        "type": "mp4",
+        "assetId": "164638896",
+        "assetTitle": "5products",
+        "assetTitleTextEncoded": "5products",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164638896",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164638896\/39805\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164638896\/39805\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164638896\/39805\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164638896\/39805\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164638896\/39805\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2018-06-18\"},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's Black Audrey",
+    "tvp_enhanced_transcript": null
+}

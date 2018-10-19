@@ -1,0 +1,95 @@
+{
+    "title": "White bathing suit !",
+    "description": "Beautiful  two piece white bathing suit for the summer. Includes laces on the side of the bikini top to tighten.",
+    "referenceId": "c8e2070037b89b0d9d24ecca17be6f65",
+    "date_created": "1528377666",
+    "date_modified": "1528388387",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "24",
+    "engagement_score": "8",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213149",
+    "product_category": "juniors",
+    "id": "164680328",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "172bc3f7-ee58-44e8-9f94-8100647f8fb9",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "11",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "11",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "11",
+        "prettyDuration": "00:00:11",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/471226372-1528388387.png",
+        "type": "mp4",
+        "assetId": 164680328,
+        "assetTitle": "White bathing suit !",
+        "assetTitleTextEncoded": "172bc3f7-ee58-44e8-9f94-8100647f8fb9",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 164680328,
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164680328\/b2d12\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164680328\/b2d12\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164680328\/b2d12\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164680328\/b2d12\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164680328\/b2d12\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "CBS Studio Center Macy's ClearEdge Partners",
+    "tvp_enhanced_transcript": null
+}

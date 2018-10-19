@@ -1,0 +1,21 @@
+{
+    "id": "213143",
+    "first_name": "Paula",
+    "last_name": "Grady",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/697596679-0.3266653697472.jpg",
+        "job_title": "Sales Associate"
+    },
+    "last_login_timestamp": "1527475289",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 21:56:28",
+    "login_id": "1759121",
+    "user_id": "213143",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Paula Grady",
+    "profile_picture": "\/api\/canvas\/logo\/697596679-0.3266653697472.jpg",
+    "titleTextEncoded": "paula-grady",
+    "title": "Paula Grady",
+    "videos_count": "2"
+}

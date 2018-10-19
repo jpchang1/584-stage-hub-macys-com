@@ -1,0 +1,21 @@
+{
+    "id": "213361",
+    "first_name": "Garth",
+    "last_name": "Steever",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/907310351-0.6457695804536.jpg",
+        "job_title": "MyStylist Executive"
+    },
+    "last_login_timestamp": "1527096443",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-10 21:21:55",
+    "login_id": "1759121",
+    "user_id": "213361",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Garth Steever",
+    "profile_picture": "\/api\/canvas\/logo\/907310351-0.6457695804536.jpg",
+    "titleTextEncoded": "garth-steever",
+    "title": "Garth Steever",
+    "videos_count": "0"
+}

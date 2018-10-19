@@ -1,0 +1,21 @@
+{
+    "id": "213175",
+    "first_name": "Kevin",
+    "last_name": "Borelli-Cruz",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/357430485-0.9443392138462.jpg",
+        "job_title": "Sales Supervisor "
+    },
+    "last_login_timestamp": "1528905413",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 01:57:13",
+    "login_id": "1759121",
+    "user_id": "213175",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Kevin Borelli-Cruz",
+    "profile_picture": "\/api\/canvas\/logo\/357430485-0.9443392138462.jpg",
+    "titleTextEncoded": "kevin-borelli-cruz",
+    "title": "Kevin Borelli-Cruz",
+    "videos_count": "2"
+}

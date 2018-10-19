@@ -1,0 +1,21 @@
+{
+    "id": "213263",
+    "first_name": "Eugina",
+    "last_name": "Krakovsky",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/166728299-0.1480223443824.jpg",
+        "job_title": "Sales Supervisor RTW"
+    },
+    "last_login_timestamp": "1527629240",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 23:26:24",
+    "login_id": "1759121",
+    "user_id": "213263",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Eugina Krakovsky",
+    "profile_picture": "\/api\/canvas\/logo\/166728299-0.1480223443824.jpg",
+    "titleTextEncoded": "eugina-krakovsky",
+    "title": "Eugina Krakovsky",
+    "videos_count": "0"
+}

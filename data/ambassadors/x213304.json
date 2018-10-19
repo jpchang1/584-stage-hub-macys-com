@@ -1,0 +1,21 @@
+{
+    "id": "213304",
+    "first_name": "Josh",
+    "last_name": "Habig",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/944981945-0.4864134286995.jpg",
+        "job_title": "Sr. Manager Omnichannel Agent Experience"
+    },
+    "last_login_timestamp": "1529366987",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-07 13:51:36",
+    "login_id": "1759121",
+    "user_id": "213304",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Josh Habig",
+    "profile_picture": "\/api\/canvas\/logo\/944981945-0.4864134286995.jpg",
+    "titleTextEncoded": "josh-habig",
+    "title": "Josh Habig",
+    "videos_count": "1"
+}

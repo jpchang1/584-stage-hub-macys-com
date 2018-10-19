@@ -1,0 +1,95 @@
+{
+    "title": "Oily to combination skin care routine",
+    "description": "Clinique for men 3 step daily facial cleanse, with Clinique for men maximum hydrator! This stuff is amazing if you have oily to combination skin! The charcoal wash does its job by getting deep under the surface and cleaning all the accumulated dirt. The toner will scrub and collect dead skin, going outside the skins surface to collect anything the wash didnt pick up. After that apply your maximum hydrator (optional) this will keep your face feeling hydrated and bright! The mattifying moisture is the last step to seal in your clean face! Once applied, your face will feel smooth, and bright all day long!",
+    "referenceId": "94b9eceaf2213ec2cc967bb9be6e844d",
+    "date_created": "1525657099",
+    "date_modified": "1526357951",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "19",
+    "engagement_score": "3",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213175",
+    "product_category": "beauty",
+    "id": "163478437",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "e8e7c88a-5139-47b6-b82f-0263068058d7",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "46",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "46",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "46",
+        "prettyDuration": "00:00:46",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163478437\/b44c0\/thumb-94b9eceaf2213ec2cc967bb9be6e844d-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/163478437\/b44c0\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/163478437\/b44c0\/media.m3u8",
+        "assetId": 163478437,
+        "assetTitle": "Oily to combination skin care routine",
+        "assetTitleTextEncoded": "e8e7c88a-5139-47b6-b82f-0263068058d7",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 163478437,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163478437\/b44c0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163478437\/b44c0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163478437\/b44c0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163478437\/b44c0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163478437\/b44c0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

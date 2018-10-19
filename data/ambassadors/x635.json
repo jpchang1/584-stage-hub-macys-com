@@ -1,0 +1,21 @@
+{
+    "id": "635",
+    "first_name": "Jose",
+    "last_name": "Tester",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/229828486-0.3614941136445.jpg",
+        "job_title": "Tester"
+    },
+    "last_login_timestamp": "1525985276",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-02 01:14:08",
+    "login_id": "1759121",
+    "user_id": "635",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Jose Tester",
+    "profile_picture": "\/api\/canvas\/logo\/229828486-0.3614941136445.jpg",
+    "titleTextEncoded": "jose-tester",
+    "title": "Jose Tester",
+    "videos_count": "0"
+}

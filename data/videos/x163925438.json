@@ -1,0 +1,95 @@
+{
+    "title": "Don't Let it Rain on your Parade",
+    "description": "Celebrating the phenomenal women in my life this Mother's Day 2018. Shopped at Macy's at Bridgewater Commons Mall in New Jersey. Dress by INC, Moto Jacket by Calvin Klein, Handbag by Lauren Ralph Lauren, Hot Pink Pom Pom by Michael Kors and Shoes by Aldo. Click the link to get yours today! #macysstylecrew #macysstylecrewsade #fashionforward #stylist",
+    "referenceId": "e6b28cd1506e03efed3e7a1c248a8cbc",
+    "date_created": "1526407922",
+    "date_modified": "1526431273",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "24",
+    "engagement_score": "5",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213221",
+    "product_category": "women",
+    "id": "163925438",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "mscsade-5",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "34",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "34",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "34",
+        "prettyDuration": "00:00:34",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/925522206-1526431273.jpg",
+        "type": "mp4",
+        "assetId": 163925438,
+        "assetTitle": "Don't Let it Rain on your Parade",
+        "assetTitleTextEncoded": "mscsade-5",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 163925438,
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163925438\/98511\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163925438\/98511\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163925438\/98511\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163925438\/98511\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163925438\/98511\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

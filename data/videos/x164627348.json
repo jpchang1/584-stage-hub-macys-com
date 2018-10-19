@@ -1,0 +1,93 @@
+{
+    "title": "Just A Taste of Fashion - Governors Ball",
+    "description": "Had a ball at Governors Ball this Saturday! I knew it was going to be a hot and humid day so I went with a flowy Free People dress and added a Thalia gold layered necklace for extra detail. Shop products on the right --> \n*Having trouble with dress link. Here is web id 5764675",
+    "referenceId": "98781d5b3dc2a29aff3d8a2600c8d285",
+    "date_created": "1528048284",
+    "date_modified": "1528050933",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "16",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213245",
+    "product_category": "women",
+    "id": "164627348",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "gov-ball-msc",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "9",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "9",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "9",
+        "prettyDuration": "00:00:09",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164627348\/7cebf\/thumb-98781d5b3dc2a29aff3d8a2600c8d285-00002.jpg",
+        "type": "mp4",
+        "assetId": 164627348,
+        "assetTitle": "Just A Taste of Fashion - Governors Ball",
+        "assetTitleTextEncoded": "gov-ball-msc",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 164627348,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164627348\/7cebf\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164627348\/7cebf\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164627348\/7cebf\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164627348\/7cebf\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164627348\/7cebf\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

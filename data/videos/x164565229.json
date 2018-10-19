@@ -1,0 +1,95 @@
+{
+    "title": "Colors of the Season",
+    "description": "https:\/\/slimages.macysassets.com\/is\/image\/MCY\/products\/3\/optimized\/8385053_fpx.tif?op_sharpen=1&wid=500&hei=613&fit=fit,1&$filtersm$\nhttps:\/\/slimages.macysassets.com\/is\/image\/MCY\/products\/7\/optimized\/9337637_fpx.tif?op_sharpen=1&wid=500&hei=613&fit=fit,1&$filtersm$\nhttps:\/\/slimages.macysassets.com\/is\/image\/MCY\/products\/3\/optimized\/9547483_fpx.tif?op_sharpen=1&wid=500&hei=613&fit=fit,1&$filtersm$",
+    "referenceId": "f92f0eab6385c8b7164b6994276ebdae",
+    "date_created": "1527332447",
+    "date_modified": "1527337325",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213132",
+    "product_category": "women",
+    "id": "164565229",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "colors-of-the-season",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "20",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "20",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "20",
+        "prettyDuration": "00:00:20",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164565229\/e586b\/thumb-f92f0eab6385c8b7164b6994276ebdae-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164565229\/e586b\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164565229\/e586b\/media.m3u8",
+        "assetId": "164565229",
+        "assetTitle": "Colors of the Season",
+        "assetTitleTextEncoded": "colors-of-the-season",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164565229",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164565229\/e586b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164565229\/e586b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164565229\/e586b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164565229\/e586b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164565229\/e586b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

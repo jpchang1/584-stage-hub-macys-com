@@ -1,0 +1,21 @@
+{
+    "id": "213358",
+    "first_name": "Lourdes",
+    "last_name": "Garcia",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "My Stylist"
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-10 18:36:22",
+    "login_id": "1759121",
+    "user_id": "213358",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Lourdes Garcia",
+    "profile_picture": null,
+    "titleTextEncoded": "lourdes-garcia",
+    "title": "Lourdes Garcia",
+    "videos_count": "0"
+}

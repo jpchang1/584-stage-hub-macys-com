@@ -1,0 +1,21 @@
+{
+    "id": "213194",
+    "first_name": "Ailee",
+    "last_name": "Miller Washington",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/211589048-0.3487504097167.jpg",
+        "job_title": "Sales Associate"
+    },
+    "last_login_timestamp": "1529372957",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 05:32:46",
+    "login_id": "1759121",
+    "user_id": "213194",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Ailee Miller Washington",
+    "profile_picture": "\/api\/canvas\/logo\/211589048-0.3487504097167.jpg",
+    "titleTextEncoded": "ailee-miller-washington",
+    "title": "Ailee Miller Washington",
+    "videos_count": "7"
+}

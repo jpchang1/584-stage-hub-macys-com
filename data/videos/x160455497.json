@@ -1,0 +1,93 @@
+{
+    "title": "LAURA DEADY On Shoes",
+    "description": "Shoe shopping spree with Laura",
+    "referenceId": "7fc3d5da0131be9b4d77efb9803aebb2",
+    "date_created": "1523897853",
+    "date_modified": "1524513134",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "4",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "0",
+    "product_category": null,
+    "id": "160455497",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "LAURA-DEADY",
+    "category": "",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "30",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "30",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/203877702-1524513134.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/160455497\/df4ad\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/160455497\/df4ad\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455497\/df4ad\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455497\/df4ad\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455497\/df4ad\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455497\/df4ad\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455497\/df4ad\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

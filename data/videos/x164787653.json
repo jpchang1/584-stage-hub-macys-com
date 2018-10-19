@@ -1,0 +1,93 @@
+{
+    "title": "Day and Nighttime Skin Care Routine feat. Kiehl's, Clarins and Mario Badescu",
+    "description": "Kiehl's Calendula Deep Cleansing Foaming Face Wash. Kiehl's Cucumber Herbal Alcohol Free Toner. Kiehl's Powerful Strength Line-Reducing Concentrate. Kiehl's Calendula and Aloe Soothing Hydration Masque. Daytime - Clarins Multi-Active Jour SPF 20 Moisturizer. Nighttime - Kiehl's Midnight Recovery Concentrate. Mario Badescu Hyaluronic Eye Cream. For blemishes - Mario Badescu Drying Lotion.",
+    "referenceId": "6f59590501cad192f6724bcbaf875ac0",
+    "date_created": "1528727739",
+    "date_modified": "1528742797",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": "5",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213214",
+    "product_category": "beauty",
+    "id": "164787653",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "img-6377",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "4",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "4",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "4",
+        "prettyDuration": "00:00:04",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164787653\/46751\/thumb-6f59590501cad192f6724bcbaf875ac0-00002.jpg",
+        "type": "mp4",
+        "assetId": "164787653",
+        "assetTitle": "Day and Nighttime Skin Care Routine feat. Kiehl's, Clarins and Mario Badescu",
+        "assetTitleTextEncoded": "img-6377",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164787653",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164787653\/46751\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164787653\/46751\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164787653\/46751\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164787653\/46751\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164787653\/46751\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Kiehl's Mario Badescu",
+    "tvp_enhanced_transcript": null
+}

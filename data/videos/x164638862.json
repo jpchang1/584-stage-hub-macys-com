@@ -1,0 +1,93 @@
+{
+    "title": "My Style Crew: Meet Delia & Laura",
+    "description": "Hi everyone! We are partners from Macy\u2019s 806 and we are here to help you find the pieces that fit your style. Come meet us at the store and follow us on Instagram and Facebook @tropicalvein.",
+    "referenceId": "2e4b260e87ef4a5e64dcc38726ab15cb",
+    "date_created": "1528297171",
+    "date_modified": "1528299339",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "53",
+    "engagement_score": "5",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213109",
+    "product_category": "women",
+    "id": "164638862",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "msc-video",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "17",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "17",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "17",
+        "prettyDuration": "00:00:17",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164638862\/56983\/thumb-2e4b260e87ef4a5e64dcc38726ab15cb-00002.jpg",
+        "type": "mp4",
+        "assetId": "164638862",
+        "assetTitle": "MSC Video",
+        "assetTitleTextEncoded": "msc-video",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164638862",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164638862\/56983\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164638862\/56983\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164638862\/56983\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164638862\/56983\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164638862\/56983\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's",
+    "tvp_enhanced_transcript": null
+}

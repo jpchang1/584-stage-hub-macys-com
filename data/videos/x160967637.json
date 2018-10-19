@@ -1,0 +1,93 @@
+{
+    "title": "Lourdes Likes",
+    "description": "Lourdes shows Prom season attire and accessories.",
+    "referenceId": "db2412e8c6f81403cc19e4ed943a4e48",
+    "date_created": "1523984826",
+    "date_modified": "1524264638",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "12",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "0",
+    "product_category": null,
+    "id": "160967637",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "LOURDES-GARCIA",
+    "category": "",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "82",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "82",
+            "width": 270,
+            "height": 480
+        },
+        "mediaDuration": "82",
+        "prettyDuration": "00:01:22",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/160967637\/1f159\/thumb-db2412e8c6f81403cc19e4ed943a4e48-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/160967637\/1f159\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/160967637\/1f159\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160967637\/1f159\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160967637\/1f159\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160967637\/1f159\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160967637\/1f159\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160967637\/1f159\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

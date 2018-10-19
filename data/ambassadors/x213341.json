@@ -1,0 +1,21 @@
+{
+    "id": "213341",
+    "first_name": "Katelyn",
+    "last_name": "Hoyle",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/268253012-0.8350286101456.jpg",
+        "job_title": "Merchandise Team Manager"
+    },
+    "last_login_timestamp": "1529002021",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-08 23:10:27",
+    "login_id": "1759121",
+    "user_id": "213341",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Katelyn Hoyle",
+    "profile_picture": "\/api\/canvas\/logo\/268253012-0.8350286101456.jpg",
+    "titleTextEncoded": "katelyn-hoyle",
+    "title": "Katelyn Hoyle",
+    "videos_count": "6"
+}

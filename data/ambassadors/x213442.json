@@ -1,0 +1,21 @@
+{
+    "id": "213442",
+    "first_name": "Fiona",
+    "last_name": "Byfield",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/166688522-0.2062545504886.jpg",
+        "job_title": "Estee Lauder Counter Manager"
+    },
+    "last_login_timestamp": "1529074954",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-06-04 17:11:06",
+    "login_id": "1759121",
+    "user_id": "213442",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Fiona Byfield",
+    "profile_picture": "\/api\/canvas\/logo\/166688522-0.2062545504886.jpg",
+    "titleTextEncoded": "fiona-byfield",
+    "title": "Fiona Byfield",
+    "videos_count": "2"
+}

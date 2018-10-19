@@ -1,0 +1,21 @@
+{
+    "id": "213217",
+    "first_name": "Maria",
+    "last_name": "Orellana Vides",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/467834174-0.8973174834623.jpg",
+        "job_title": "My Stylist"
+    },
+    "last_login_timestamp": "1528922151",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 13:44:12",
+    "login_id": "1759121",
+    "user_id": "213217",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Maria Orellana Vides",
+    "profile_picture": "\/api\/canvas\/logo\/467834174-0.8973174834623.jpg",
+    "titleTextEncoded": "maria-orellana-vides",
+    "title": "Maria Orellana Vides",
+    "videos_count": "0"
+}

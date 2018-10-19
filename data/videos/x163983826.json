@@ -1,0 +1,93 @@
+{
+    "title": "Style & Co Petite Bell-Sleeve Trapeze Dress",
+    "description": "Another Sunday Funday in this casual Style & Co dress. Perfect with sneakers or sandals and crossbody bag. Sneakers by BeBe and Crossbody by Steve Madden available at Macy's!",
+    "referenceId": "8de91aa26edd6a8733872ca9746fb4aa",
+    "date_created": "1526877298",
+    "date_modified": "1526881786",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "30",
+    "engagement_score": "6",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213194",
+    "product_category": "women",
+    "id": "163983826",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "84031ab9-c512-44ad-a505-cfdaa0ca1ec1",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "41",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "41",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "41",
+        "prettyDuration": "00:00:41",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163983826\/ca39b\/thumb-8de91aa26edd6a8733872ca9746fb4aa-00002.jpg",
+        "type": "mp4",
+        "assetId": "163983826",
+        "assetTitle": "Style & Co Petite Bell-Sleeve Trapese Dress",
+        "assetTitleTextEncoded": "84031ab9-c512-44ad-a505-cfdaa0ca1ec1",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163983826",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163983826\/ca39b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163983826\/ca39b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163983826\/ca39b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163983826\/ca39b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163983826\/ca39b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

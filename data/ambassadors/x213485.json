@@ -1,0 +1,21 @@
+{
+    "id": "213485",
+    "first_name": "Joshua",
+    "last_name": "Wheeler",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Software Engineer"
+    },
+    "last_login_timestamp": "1539300684",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-10-11 23:19:06",
+    "login_id": "1759121",
+    "user_id": "213485",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Joshua Wheeler",
+    "profile_picture": null,
+    "titleTextEncoded": "joshua-wheeler",
+    "title": "Joshua Wheeler",
+    "videos_count": "0"
+}

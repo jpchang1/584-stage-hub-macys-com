@@ -1,0 +1,93 @@
+{
+    "title": "Night on the town!",
+    "description": "Fun 1920's fashion with Jacqueline.",
+    "referenceId": "33296f958f459235c9fca8fcf87a4b14",
+    "date_created": "1523916351",
+    "date_modified": "1524336121",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "5",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "0",
+    "product_category": null,
+    "id": "160455808",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "Night-on-the-town",
+    "category": "",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "68",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "68",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "68",
+        "prettyDuration": "00:01:08",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/160455808\/89a40\/thumb-33296f958f459235c9fca8fcf87a4b14-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/160455808\/89a40\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/160455808\/89a40\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455808\/89a40\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455808\/89a40\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455808\/89a40\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455808\/89a40\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/160455808\/89a40\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

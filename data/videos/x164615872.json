@@ -1,0 +1,93 @@
+{
+    "title": "Brenda Martinez Spring Look",
+    "description": "Doesn't this look give you all the Spring vibes? Not only am I obsessed, but excited to share its all on sale! Can't wait to see you recreate this look. Use hashtag #macysstylecrewBrenda \nQu\u00e9 no este look les da vibras primaverales? Estoy obsesionada con este look y lo mejor de todo es que est\u00e1 en descuento. Estoy ansiosa por ver sus looks! Usen el hashtag #macysstylecrewBrenda",
+    "referenceId": "8a1dd100782e49b2fb10ef9dd5e2a3af",
+    "date_created": "1527880663",
+    "date_modified": "1527883677",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "372",
+    "engagement_score": "40",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213216",
+    "product_category": "women",
+    "id": "164615872",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "trim-3f4974ee-81e6-4f7f-b5f9-c5f5e3e3d846",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "6",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "6",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "6",
+        "prettyDuration": "00:00:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164615872\/e962c\/thumb-8a1dd100782e49b2fb10ef9dd5e2a3af-00002.jpg",
+        "type": "mp4",
+        "assetId": "164615872",
+        "assetTitle": "trim.3F4974EE-81E6-4F7F-B5F9-C5F5E3E3D846",
+        "assetTitleTextEncoded": "trim-3f4974ee-81e6-4f7f-b5f9-c5f5e3e3d846",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164615872",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164615872\/e962c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164615872\/e962c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164615872\/e962c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164615872\/e962c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164615872\/e962c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

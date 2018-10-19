@@ -1,0 +1,95 @@
+{
+    "title": "search RACHEL RACHEL ROY Ava off the shoulder",
+    "description": "",
+    "referenceId": "45c268b1cf46defdde60db985d4ff9c5",
+    "date_created": "1528340310",
+    "date_modified": "1528341582",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "54",
+    "engagement_score": "6",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213213",
+    "product_category": "women",
+    "id": "164674483",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "7a7f8048-5bba-4720-a4b0-808958775287",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "10",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "10",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "10",
+        "prettyDuration": "00:00:10",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164674483\/d813a\/thumb-45c268b1cf46defdde60db985d4ff9c5-00002.jpg",
+        "type": "mp4",
+        "assetId": 164674483,
+        "assetTitle": "search RACHEL RACHEL ROY Ava off the shoulder",
+        "assetTitleTextEncoded": "7a7f8048-5bba-4720-a4b0-808958775287",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 164674483,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164674483\/d813a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164674483\/d813a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164674483\/d813a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164674483\/d813a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164674483\/d813a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164674483\/d813a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164674483\/d813a\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

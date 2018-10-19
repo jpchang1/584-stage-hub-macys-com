@@ -1,0 +1,21 @@
+{
+    "id": "213260",
+    "first_name": "SALLY",
+    "last_name": "GARCIA",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/800308610-0.1143383995629.jpg",
+        "job_title": "Connect @Macy's "
+    },
+    "last_login_timestamp": "1527277667",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 22:53:39",
+    "login_id": "1759121",
+    "user_id": "213260",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "SALLY GARCIA",
+    "profile_picture": "\/api\/canvas\/logo\/800308610-0.1143383995629.jpg",
+    "titleTextEncoded": "sally-garcia",
+    "title": "SALLY GARCIA",
+    "videos_count": "2"
+}

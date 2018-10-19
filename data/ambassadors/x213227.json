@@ -1,0 +1,21 @@
+{
+    "id": "213227",
+    "first_name": "Judith",
+    "last_name": "Gomez",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/333052012-0.9173311275895.jpg",
+        "job_title": "Bridal Advisor"
+    },
+    "last_login_timestamp": "1529357301",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 15:37:22",
+    "login_id": "1759121",
+    "user_id": "213227",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Judith Gomez",
+    "profile_picture": "\/api\/canvas\/logo\/333052012-0.9173311275895.jpg",
+    "titleTextEncoded": "judith-gomez",
+    "title": "Judith Gomez",
+    "videos_count": "1"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Rock Your Jeans",
+    "description": "You can never go wrong with a stripped shirt and distressed jeans",
+    "referenceId": "22cd89eb835fe730c145098e46f897d8",
+    "date_created": "1527883784",
+    "date_modified": "1528230255",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "269",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213205",
+    "product_category": null,
+    "id": "164615875",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "afa835f4-5a80-43eb-aa0b-70dfb42e1d5a",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "15",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "15",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164615875\/55f2a\/thumb-22cd89eb835fe730c145098e46f897d8-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164615875\/55f2a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164615875\/55f2a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164615875\/55f2a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164615875\/55f2a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164615875\/55f2a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,97 @@
+{
+    "title": "\u201cQuick Clips\u201d - Glam Day 3",
+    "description": "50% off Anastasia Subculture Palette AND 50% Lancome La Base Makeup Primer! Don\u2019t miss out!",
+    "referenceId": "b1def03aa28e933d080496ffdd17831f",
+    "date_created": "1527949201",
+    "date_modified": "1527949461",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "5",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213118",
+    "product_category": "beauty",
+    "id": "164620533",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "d8f64938-6486-4ad9-893c-67a863fd96fa",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "4",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "4",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "4",
+        "prettyDuration": "00:00:04",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164620533\/6ce8e\/thumb-b1def03aa28e933d080496ffdd17831f-00002.jpg",
+        "type": "mp4",
+        "assetId": "164620533",
+        "assetTitle": "D8F64938-6486-4AD9-893C-67A863FD96FA",
+        "assetTitleTextEncoded": "d8f64938-6486-4ad9-893c-67a863fd96fa",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164620533",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164620533\/6ce8e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164620533\/6ce8e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164620533\/6ce8e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164620533\/6ce8e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164620533\/6ce8e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

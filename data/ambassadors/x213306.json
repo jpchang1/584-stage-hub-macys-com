@@ -1,0 +1,21 @@
+{
+    "id": "213306",
+    "first_name": "Emma",
+    "last_name": "Ferguson",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/505055478-0.9217019606847.jpg",
+        "job_title": "Sales Associate-Women's Shoes"
+    },
+    "last_login_timestamp": "1526589606",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-07 14:13:33",
+    "login_id": "1759121",
+    "user_id": "213306",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Emma Ferguson",
+    "profile_picture": "\/api\/canvas\/logo\/505055478-0.9217019606847.jpg",
+    "titleTextEncoded": "emma-ferguson",
+    "title": "Emma Ferguson",
+    "videos_count": "0"
+}

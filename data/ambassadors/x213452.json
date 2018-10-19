@@ -1,0 +1,21 @@
+{
+    "id": "213452",
+    "first_name": "Jenna",
+    "last_name": "Hunter",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/949931498-0.8858872673474.jpg",
+        "job_title": "Fashion Stylist | Corporate Sales Executive"
+    },
+    "last_login_timestamp": "1528428371",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-06-05 22:00:08",
+    "login_id": "1759121",
+    "user_id": "213452",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Jenna Hunter",
+    "profile_picture": "\/api\/canvas\/logo\/949931498-0.8858872673474.jpg",
+    "titleTextEncoded": "jenna-hunter",
+    "title": "Jenna Hunter",
+    "videos_count": "0"
+}

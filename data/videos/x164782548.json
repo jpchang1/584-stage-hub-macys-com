@@ -1,0 +1,93 @@
+{
+    "title": "Boys Active",
+    "description": "#niketwinset #underarmorshorts #nikewristband",
+    "referenceId": "5f3c21fc50c76ca5a84ce179bc78ca05",
+    "date_created": "1528634621",
+    "date_modified": "1528635137",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "12",
+    "engagement_score": "1",
+    "conversion_score": "25",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213213",
+    "product_category": "kids",
+    "id": "164782548",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "936491a2-678d-48b4-95cf-5fbd93012125",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "8",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "8",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "8",
+        "prettyDuration": "00:00:08",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164782548\/04c6a\/thumb-5f3c21fc50c76ca5a84ce179bc78ca05-00002.jpg",
+        "type": "mp4",
+        "assetId": 164782548,
+        "assetTitle": "Boys Active",
+        "assetTitleTextEncoded": "936491a2-678d-48b4-95cf-5fbd93012125",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 164782548,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164782548\/04c6a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164782548\/04c6a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164782548\/04c6a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164782548\/04c6a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164782548\/04c6a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's",
+    "tvp_enhanced_transcript": null
+}

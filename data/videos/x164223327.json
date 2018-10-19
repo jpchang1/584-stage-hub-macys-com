@@ -1,0 +1,99 @@
+{
+    "title": "Malibu day w @cassandrajones",
+    "description": "",
+    "referenceId": "2637f3bdc13608c894a12142b2078775",
+    "date_created": "1527170465",
+    "date_modified": "1527171802",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "4",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213328",
+    "product_category": null,
+    "id": "164223327",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "7f935042-c582-466b-8d69-c0e60cf89fe6",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "4",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "4",
+            "width": 176,
+            "height": 144
+        },
+        "mediaDuration": "4",
+        "prettyDuration": "00:00:04",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164223327\/7cb97\/thumb-2637f3bdc13608c894a12142b2078775-00002.jpg",
+        "type": "mp4",
+        "assetId": "164223327",
+        "assetTitle": "7F935042-C582-466B-8D69-C0E60CF89FE6",
+        "assetTitleTextEncoded": "7f935042-c582-466b-8d69-c0e60cf89fe6",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164223327",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164223327\/7cb97\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 176,
+                "height": 144
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164223327\/7cb97\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 176,
+                "height": 144
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164223327\/7cb97\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 176,
+                "height": 144
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164223327\/7cb97\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 176,
+                "height": 144
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164223327\/7cb97\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 176,
+                "height": 144
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164223327\/7cb97\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164223327\/7cb97\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

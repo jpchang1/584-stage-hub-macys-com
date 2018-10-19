@@ -1,0 +1,101 @@
+{
+    "title": "Looking for a Fragrance",
+    "description": "The New Acqua Di Gio Absolu",
+    "referenceId": "fdcdfdc39b41d8a412f5b57c62b675eb",
+    "date_created": "1528851528",
+    "date_modified": "1528896430",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213168",
+    "product_category": "beauty",
+    "id": "164868172",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "eb67808e-e95e-42c3-a95d-43bdf68e0583",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "17",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "17",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "17",
+        "prettyDuration": "00:00:17",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164868172\/985ce\/thumb-fdcdfdc39b41d8a412f5b57c62b675eb-00002.jpg",
+        "type": "mp4",
+        "assetId": "164868172",
+        "assetTitle": "EB67808E-E95E-42C3-A95D-43BDF68E0583",
+        "assetTitleTextEncoded": "eb67808e-e95e-42c3-a95d-43bdf68e0583",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164868172",
+            "li": "1759121"
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164868172\/985ce\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164868172\/985ce\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164868172\/985ce\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164868172\/985ce\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164868172\/985ce\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164868172\/985ce\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164868172\/985ce\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

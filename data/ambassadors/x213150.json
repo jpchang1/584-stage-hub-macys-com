@@ -1,0 +1,21 @@
+{
+    "id": "213150",
+    "first_name": "Jessica",
+    "last_name": "Katzenmeyer",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Sales associate "
+    },
+    "last_login_timestamp": "1525813373",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 22:40:24",
+    "login_id": "1759121",
+    "user_id": "213150",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Jessica Katzenmeyer",
+    "profile_picture": null,
+    "titleTextEncoded": "jessica-katzenmeyer",
+    "title": "Jessica Katzenmeyer",
+    "videos_count": "0"
+}

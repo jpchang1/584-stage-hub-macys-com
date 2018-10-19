@@ -1,0 +1,21 @@
+{
+    "id": "213368",
+    "first_name": "Lisa",
+    "last_name": "Daronatsy",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/784603927-0.5142355364747.jpg",
+        "job_title": "Associate Designer"
+    },
+    "last_login_timestamp": "1526304415",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-11 19:55:59",
+    "login_id": "1759121",
+    "user_id": "213368",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Lisa Daronatsy",
+    "profile_picture": "\/api\/canvas\/logo\/784603927-0.5142355364747.jpg",
+    "titleTextEncoded": "lisa-daronatsy",
+    "title": "Lisa Daronatsy",
+    "videos_count": "0"
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Lazy Day with Friends",
+    "description": "Inc and Style&Co\n\nhttps:\/\/slimages.macysassets.com\/is\/image\/MCY\/products\/6\/optimized\/9504316_fpx.tif?op_sharpen=1&wid=500&hei=613&fit=fit,1&$filtersm$\n\nhttps:\/\/slimages.macysassets.com\/is\/image\/MCY\/products\/1\/optimized\/9551901_fpx.tif?op_sharpen=1&wid=500&hei=613&fit=fit,1&$filtersm$\n\nhttps:\/\/slimages.macysassets.com\/is\/image\/MCY\/products\/8\/optimized\/9508518_fpx.tif?op_sharpen=1&wid=500&hei=613&fit=fit,1&$filtersm$",
+    "referenceId": "961a6f5fbe3ace32b1371fe0a2ab133f",
+    "date_created": "1526739508",
+    "date_modified": "1526745377",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "41",
+    "engagement_score": "8",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213132",
+    "product_category": "women",
+    "id": "163970288",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "lazy-day-with-friends",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "37",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "37",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "37",
+        "prettyDuration": "00:00:37",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163970288\/e7ed7\/thumb-961a6f5fbe3ace32b1371fe0a2ab133f-00002.jpg",
+        "type": "mp4",
+        "assetId": 163970288,
+        "assetTitle": "Lazy Day with Friends",
+        "assetTitleTextEncoded": "lazy-day-with-friends",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 163970288,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163970288\/e7ed7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163970288\/e7ed7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163970288\/e7ed7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163970288\/e7ed7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163970288\/e7ed7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

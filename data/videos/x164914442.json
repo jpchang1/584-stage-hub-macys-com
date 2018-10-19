@@ -1,0 +1,97 @@
+{
+    "title": "Best Summer Sleepwear",
+    "description": "Oooo it\u2019s just getting warmer day by day huh? It\u2019s getting so hot that sleeping is becoming a hassle and oh boy, I\u2019m a sleeper! Now wouldn\u2019t it be nice to be send off to bed cooling and comfortable? Here are some of my personal favorites at Macy\u2019s that are so cooling and trendy during bedtime!\n\nAlfani WEB ID: 5799024\nLayla WEBID: 6045749\n\nFollow me on Instagram for more: @janie.hong",
+    "referenceId": "c102a1c19c277eeca9373380822ecc93",
+    "date_created": "1529080721",
+    "date_modified": "1529082325",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213220",
+    "product_category": "women",
+    "id": "164914442",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "d8f842e6-19b7-49b8-b2ae-b13e445f814d",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "34",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "34",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "34",
+        "prettyDuration": "00:00:34",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164914442\/8012b\/thumb-c102a1c19c277eeca9373380822ecc93-00002.jpg",
+        "type": "mp4",
+        "assetId": "164914442",
+        "assetTitle": "Best Summer Sleepwear",
+        "assetTitleTextEncoded": "d8f842e6-19b7-49b8-b2ae-b13e445f814d",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164914442",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164914442\/8012b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164914442\/8012b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164914442\/8012b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164914442\/8012b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164914442\/8012b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

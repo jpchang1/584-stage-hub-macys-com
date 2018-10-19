@@ -1,0 +1,95 @@
+{
+    "title": "EMILY CURRAN | MACY'S STYLE CREW | EP. 3 - SUMMER FRAGRANCE WARDROBING",
+    "description": "Emily walks us through some summer fragrances that you NEED in your wardrobe!",
+    "referenceId": "80b35d3693d3fad2a3d06e27dbd9592b",
+    "date_created": "1528076403",
+    "date_modified": "1528843896",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "58",
+    "engagement_score": "6",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213118",
+    "product_category": "beauty",
+    "id": "164627752",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "ep-3-summer-fragrance-wardrobing",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": "868",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "868",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "868",
+        "prettyDuration": "00:14:28",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164627752\/29250\/thumb-80b35d3693d3fad2a3d06e27dbd9592b-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164627752\/29250\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164627752\/29250\/media.m3u8",
+        "assetId": 164627752,
+        "assetTitle": "EMILY CURRAN | MACY'S STYLE CREW | EP. 3 - SUMMER FRAGRANCE WARDROBING",
+        "assetTitleTextEncoded": "ep-3-summer-fragrance-wardrobing",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 164627752,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164627752\/29250\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164627752\/29250\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164627752\/29250\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164627752\/29250\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164627752\/29250\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Exterran 13th Letter, Linda Darnell, 1951",
+    "tvp_enhanced_transcript": null
+}

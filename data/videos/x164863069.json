@@ -1,0 +1,99 @@
+{
+    "title": "QUICK TUTORIAL ON HOW TO FILL IN EYEBROWS",
+    "description": "Learn how to fill in your eyebrows using some quick techniques",
+    "referenceId": "4965e21d9367216ec009660a6864bb19",
+    "date_created": "1528842074",
+    "date_modified": "1529345198",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "30",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213366",
+    "product_category": "beauty",
+    "id": "164863069",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fey-howtoeyebrows-ig-0",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "60",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "60",
+            "width": 1080,
+            "height": 1080
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164863069\/aabdd\/thumb-4965e21d9367216ec009660a6864bb19-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "assetId": "164863069",
+        "assetTitle": "QUICK TUTORIAL ON HOW TO FILL IN EYEBROWS",
+        "assetTitleTextEncoded": "fey-howtoeyebrows-ig-0",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164863069",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164863069\/aabdd\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164863069\/aabdd\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164863069\/aabdd\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164863069\/aabdd\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164863069\/aabdd\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

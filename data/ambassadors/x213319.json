@@ -1,0 +1,21 @@
+{
+    "id": "213319",
+    "first_name": "Joy",
+    "last_name": "Seusing",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/415527806-0.8565795971546.jpg",
+        "job_title": "VP Corporate Communications"
+    },
+    "last_login_timestamp": "1528811241",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-07 19:10:04",
+    "login_id": "1759121",
+    "user_id": "213319",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Joy Seusing",
+    "profile_picture": "\/api\/canvas\/logo\/415527806-0.8565795971546.jpg",
+    "titleTextEncoded": "joy-seusing",
+    "title": "Joy Seusing",
+    "videos_count": "8"
+}

@@ -1,0 +1,97 @@
+{
+    "title": "Macy\u2019s Shoe Sale until June 19, 2018",
+    "description": "This shows some shoes part of buy more save more shoe sale.",
+    "referenceId": "5ee216711e7c2026ac90be1204dadd4d",
+    "date_created": "1529002749",
+    "date_modified": "1529005492",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "5",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": "shoes",
+    "id": "164904928",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "00e05ea9-9802-4cd1-b575-e3be2d1463c7",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "60",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "60",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164904928\/c1a56\/thumb-5ee216711e7c2026ac90be1204dadd4d-00002.jpg",
+        "type": "mp4",
+        "assetId": "164904928",
+        "assetTitle": "Macy\u2019s Shoe Sale until June 19, 2018",
+        "assetTitleTextEncoded": "00e05ea9-9802-4cd1-b575-e3be2d1463c7",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164904928",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164904928\/c1a56\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164904928\/c1a56\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164904928\/c1a56\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164904928\/c1a56\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164904928\/c1a56\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

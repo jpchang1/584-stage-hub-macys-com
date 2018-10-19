@@ -1,0 +1,93 @@
+{
+    "title": "No Mirror Makeup Challenge",
+    "description": "Haley shows her no mirror makeup challenge.",
+    "referenceId": "41d69b8f56b86b47bfd9946ad6410d76",
+    "date_created": "1523642640",
+    "date_modified": "1524337521",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "5",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "0",
+    "product_category": null,
+    "id": "159001487",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "No-Mirror-Makeup-Challenge",
+    "category": "",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "515",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "515",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "515",
+        "prettyDuration": "00:08:35",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/159001487\/c93fc\/thumb-41d69b8f56b86b47bfd9946ad6410d76-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/159001487\/c93fc\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/159001487\/c93fc\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159001487\/c93fc\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159001487\/c93fc\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159001487\/c93fc\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159001487\/c93fc\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159001487\/c93fc\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

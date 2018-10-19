@@ -1,0 +1,21 @@
+{
+    "id": "213195",
+    "first_name": "Deborah",
+    "last_name": "Benton",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/324233004-0.9391734946984.jpg",
+        "job_title": "Beauty advisor Chanel"
+    },
+    "last_login_timestamp": "1527285276",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 05:42:00",
+    "login_id": "1759121",
+    "user_id": "213195",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Deborah Benton",
+    "profile_picture": "\/api\/canvas\/logo\/324233004-0.9391734946984.jpg",
+    "titleTextEncoded": "deborah-benton",
+    "title": "Deborah Benton",
+    "videos_count": "0"
+}

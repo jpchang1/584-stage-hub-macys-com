@@ -1,0 +1,21 @@
+{
+    "id": "213121",
+    "first_name": "Andrew",
+    "last_name": "Percher",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/487627158-0.3095862621907.jpg",
+        "job_title": "eCommerce Technical Webmaster"
+    },
+    "last_login_timestamp": "1529365655",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 21:06:34",
+    "login_id": "1759121",
+    "user_id": "213121",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Andrew Percher",
+    "profile_picture": "\/api\/canvas\/logo\/487627158-0.3095862621907.jpg",
+    "titleTextEncoded": "andrew-percher",
+    "title": "Andrew Percher",
+    "videos_count": "6"
+}

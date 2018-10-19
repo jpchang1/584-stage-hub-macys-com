@@ -1,0 +1,97 @@
+{
+    "title": "LYDIA KIRSCH- RED",
+    "description": "Every women must have the color red in her wardrobe",
+    "referenceId": "9bc43d5474ab85b75f59732136057827",
+    "date_created": "1523645233",
+    "date_modified": "1524270294",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "23",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "0",
+    "product_category": null,
+    "id": "159001509",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "LYDIA-KIRSCH",
+    "category": "",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "83",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "83",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "83",
+        "prettyDuration": "00:01:23",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/159001509\/cc7a4\/thumb-9bc43d5474ab85b75f59732136057827-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/159001509\/cc7a4\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/159001509\/cc7a4\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159001509\/cc7a4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159001509\/cc7a4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159001509\/cc7a4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159001509\/cc7a4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159001509\/cc7a4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

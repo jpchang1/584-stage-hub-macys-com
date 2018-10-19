@@ -1,0 +1,97 @@
+{
+    "title": "CeCe Denim Jumpsuit",
+    "description": "Summer calls for easy, breezy attire. This light weight, denim jumpsuit is perfect for those 80 degree days! It\u2019s comfy, stylish and chic!",
+    "referenceId": "812e8296d5ec6e3c0f1a2bfb47e33e0e",
+    "date_created": "1528805391",
+    "date_modified": "1528838308",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "22",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213203",
+    "product_category": "women",
+    "id": "164829374",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "72309f85-96c7-458b-9c31-2c70f1c27b24",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "21",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "21",
+            "width": 320,
+            "height": 568
+        },
+        "mediaDuration": "21",
+        "prettyDuration": "00:00:21",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164829374\/6ade1\/thumb-812e8296d5ec6e3c0f1a2bfb47e33e0e-00002.jpg",
+        "type": "mp4",
+        "assetId": "164829374",
+        "assetTitle": "CeCe Denim Jumpsuit",
+        "assetTitleTextEncoded": "72309f85-96c7-458b-9c31-2c70f1c27b24",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164829374",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164829374\/6ade1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 568
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164829374\/6ade1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 568
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164829374\/6ade1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164829374\/6ade1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164829374\/6ade1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

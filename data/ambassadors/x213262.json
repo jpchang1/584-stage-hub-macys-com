@@ -1,0 +1,21 @@
+{
+    "id": "213262",
+    "first_name": "Edwin",
+    "last_name": "Camacho",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/146931267-0.4611032109241.jpg",
+        "job_title": "Vendor Paid Stock Support"
+    },
+    "last_login_timestamp": "1528702099",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 23:21:52",
+    "login_id": "1759121",
+    "user_id": "213262",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Edwin Camacho",
+    "profile_picture": "\/api\/canvas\/logo\/146931267-0.4611032109241.jpg",
+    "titleTextEncoded": "edwin-camacho",
+    "title": "Edwin Camacho",
+    "videos_count": "0"
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Super Trend: Slides!",
+    "description": "EVERYONE is sporting them around town, Here are Michael's top picks for this current trend!",
+    "referenceId": "784c44d02aed904cf1b4ab8b53fdeefd",
+    "date_created": "1525742719",
+    "date_modified": "1525744268",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "42",
+    "engagement_score": "8",
+    "conversion_score": "25",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213126",
+    "product_category": null,
+    "id": "163572877",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "mic10-musthaveslides",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "77",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "77",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "77",
+        "prettyDuration": "00:01:17",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163572877\/e4c8f\/thumb-784c44d02aed904cf1b4ab8b53fdeefd-00002.jpg",
+        "type": "mp4",
+        "assetId": "163572877",
+        "assetTitle": "MIC10 MustHaveSlides",
+        "assetTitleTextEncoded": "mic10-musthaveslides",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163572877",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163572877\/e4c8f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163572877\/e4c8f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163572877\/e4c8f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163572877\/e4c8f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163572877\/e4c8f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

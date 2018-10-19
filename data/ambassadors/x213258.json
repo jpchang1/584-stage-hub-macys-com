@@ -1,0 +1,21 @@
+{
+    "id": "213258",
+    "first_name": "Oksana",
+    "last_name": "Puzzello",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/140557289-0.9741302834823.jpg",
+        "job_title": "Visual Merchandiser"
+    },
+    "last_login_timestamp": "1529361668",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 22:21:42",
+    "login_id": "1759121",
+    "user_id": "213258",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Oksana Puzzello",
+    "profile_picture": "\/api\/canvas\/logo\/140557289-0.9741302834823.jpg",
+    "titleTextEncoded": "oksana-puzzello",
+    "title": "Oksana Puzzello",
+    "videos_count": "1"
+}

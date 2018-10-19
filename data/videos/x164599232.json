@@ -1,0 +1,95 @@
+{
+    "title": "Macys West County Summer Event",
+    "description": "This video has information about a specific event. There are beauty products and two shoes.",
+    "referenceId": "3f354e1c5553d3407bfba31f3f42a9a5",
+    "date_created": "1527622166",
+    "date_modified": "1527783422",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "29",
+    "engagement_score": "4",
+    "conversion_score": "75",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": "beauty",
+    "id": "164599232",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "efbabc26-b9ff-4380-8eec-5bd9adb40f8e",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "53",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "53",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "53",
+        "prettyDuration": "00:00:53",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164599232\/0c73f\/thumb-3f354e1c5553d3407bfba31f3f42a9a5-00002.jpg",
+        "type": "mp4",
+        "assetId": "164599232",
+        "assetTitle": "Macys West County Summer Event",
+        "assetTitleTextEncoded": "efbabc26-b9ff-4380-8eec-5bd9adb40f8e",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164599232",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164599232\/0c73f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164599232\/0c73f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164599232\/0c73f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164599232\/0c73f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164599232\/0c73f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "HyperSpin Foreman for Real Clinique",
+    "tvp_enhanced_transcript": null
+}

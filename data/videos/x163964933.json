@@ -1,0 +1,86 @@
+{
+    "title": "Mascara",
+    "description": "Mascara at a low price.",
+    "referenceId": "777b687890bc987e361c5867864afe3e",
+    "date_created": "1526683765",
+    "date_modified": "1526945484",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "20",
+    "engagement_score": "3",
+    "conversion_score": "25",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213241",
+    "product_category": null,
+    "id": "163964933",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fa302523-9152-4055-8211-166ee3386802",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "15",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "15",
+            "width": 320,
+            "height": 568
+        },
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163964933\/9b630\/thumb-777b687890bc987e361c5867864afe3e-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163964933\/9b630\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 568
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163964933\/9b630\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 568
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163964933\/9b630\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163964933\/9b630\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163964933\/9b630\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

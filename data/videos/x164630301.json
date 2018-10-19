@@ -1,0 +1,93 @@
+{
+    "title": "Macy\u2019s The Edit Macy\u2019s Style Crew",
+    "description": "Macy\u2019s The Edit. New summer trends! Click link to shop dresses and swimwear. Macy\u2019s Style Crew.",
+    "referenceId": "ae66a024cafc0c99d310b11d07ec283d",
+    "date_created": "1528127747",
+    "date_modified": "1529347078",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "12",
+    "engagement_score": "1",
+    "conversion_score": "50",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213403",
+    "product_category": "women",
+    "id": "164630301",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "e6fb7afe-3198-4881-b56f-7676acbf8f12",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "10",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "10",
+            "width": 360,
+            "height": 480
+        },
+        "mediaDuration": "10",
+        "prettyDuration": "00:00:10",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164630301\/2e595\/thumb-ae66a024cafc0c99d310b11d07ec283d-00002.jpg",
+        "type": "mp4",
+        "assetId": "164630301",
+        "assetTitle": "Macy\u2019s The Edit Macy\u2019s Style Crew",
+        "assetTitleTextEncoded": "e6fb7afe-3198-4881-b56f-7676acbf8f12",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164630301",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164630301\/2e595\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164630301\/2e595\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164630301\/2e595\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164630301\/2e595\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164630301\/2e595\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 180,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

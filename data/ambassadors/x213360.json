@@ -1,0 +1,21 @@
+{
+    "id": "213360",
+    "first_name": "mariana",
+    "last_name": "arballo",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/966352027-0.3798934417776.jpg",
+        "job_title": "Visual Manager"
+    },
+    "last_login_timestamp": "1529091748",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-10 19:38:18",
+    "login_id": "1759121",
+    "user_id": "213360",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "mariana arballo",
+    "profile_picture": "\/api\/canvas\/logo\/966352027-0.3798934417776.jpg",
+    "titleTextEncoded": "mariana-arballo",
+    "title": "mariana arballo",
+    "videos_count": "4"
+}

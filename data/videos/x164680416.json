@@ -1,0 +1,86 @@
+{
+    "title": "Face Masks",
+    "description": "Get the glowing skin you want this summer and try our wide selection of face masks #GlowingSkin #FaceMasks",
+    "referenceId": "51e3b2ce0530acb4ab9598badf244e1f",
+    "date_created": "1528391266",
+    "date_modified": "1528401009",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "6",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213328",
+    "product_category": null,
+    "id": "164680416",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "55008404511-dda62bda-2906-4ea9-bc66-f815c8e08e80",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "11",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "11",
+            "width": 360,
+            "height": 480
+        },
+        "mediaDuration": "11",
+        "prettyDuration": "00:00:11",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164680416\/77337\/thumb-51e3b2ce0530acb4ab9598badf244e1f-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164680416\/77337\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164680416\/77337\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164680416\/77337\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164680416\/77337\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164680416\/77337\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 180,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

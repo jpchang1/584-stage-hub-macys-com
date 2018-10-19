@@ -1,0 +1,93 @@
+{
+    "title": "How to Wear a Midi Dress",
+    "description": "Ladies forget a maxi dress, wear a chic midi dress",
+    "referenceId": "d53b32d84624ae70b50ce8b3cd512550",
+    "date_created": "1524011561",
+    "date_modified": "1524289905",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "8",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "0",
+    "product_category": null,
+    "id": "161073081",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "How-to-Wear-a-Midi-Dress",
+    "category": "",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "30",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "30",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/161073081\/7c8b5\/thumb-d53b32d84624ae70b50ce8b3cd512550-00001.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/161073081\/7c8b5\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/161073081\/7c8b5\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161073081\/7c8b5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161073081\/7c8b5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161073081\/7c8b5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161073081\/7c8b5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161073081\/7c8b5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

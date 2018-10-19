@@ -1,0 +1,95 @@
+{
+    "title": "The Perfect Gift",
+    "description": "Jewelry Gift Ideas",
+    "referenceId": "8bff984a9a59c730712b0156ad0087ef",
+    "date_created": "1526222033",
+    "date_modified": "1526403422",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "8",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": "jewelry",
+    "id": "163916129",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "e6f807f6-93fb-4922-a366-4e2d5993f21e",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "51",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "51",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "51",
+        "prettyDuration": "00:00:51",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/178052530-1526341462.png",
+        "type": "mp4",
+        "assetId": "163916129",
+        "assetTitle": "E6F807F6 93FB-4922-A366-4E2D5993F21E",
+        "assetTitleTextEncoded": "e6f807f6-93fb-4922-a366-4e2d5993f21e",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163916129",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163916129\/e97b9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163916129\/e97b9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163916129\/e97b9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163916129\/e97b9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163916129\/e97b9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

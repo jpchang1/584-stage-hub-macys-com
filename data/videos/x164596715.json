@@ -1,0 +1,97 @@
+{
+    "title": "Diana modeling in the fashion show",
+    "description": "swimwear \nAdventure mall fashion shown",
+    "referenceId": "ad593cdad98c0bd3e88be6060ec3e0ca",
+    "date_created": "1527478886",
+    "date_modified": "1527611225",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "25",
+    "engagement_score": "2",
+    "conversion_score": "75",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213193",
+    "product_category": null,
+    "id": "164596715",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "7417ed0f-8054-49a8-bb4f-a35e0d6ead8b",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "10",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "10",
+            "width": 276,
+            "height": 480
+        },
+        "mediaDuration": "10",
+        "prettyDuration": "00:00:10",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164596715\/fffb7\/thumb-ad593cdad98c0bd3e88be6060ec3e0ca-00002.jpg",
+        "type": "mp4",
+        "assetId": "164596715",
+        "assetTitle": "7417ED0F-8054-49A8-BB4F-A35E0D6EAD8B",
+        "assetTitleTextEncoded": "7417ed0f-8054-49a8-bb4f-a35e0d6ead8b",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164596715",
+            "li": "1759121"
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164596715\/fffb7\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164596715\/fffb7\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164596715\/fffb7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 276,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164596715\/fffb7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 276,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164596715\/fffb7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 276,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164596715\/fffb7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 206,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164596715\/fffb7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 138,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

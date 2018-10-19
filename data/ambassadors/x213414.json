@@ -1,0 +1,21 @@
+{
+    "id": "213414",
+    "first_name": "Luis",
+    "last_name": "Velazquez",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Makeup Expert"
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-23 17:36:12",
+    "login_id": "1759121",
+    "user_id": "213414",
+    "role_id": "2",
+    "status": "1",
+    "fullName": "Luis Velazquez",
+    "profile_picture": null,
+    "titleTextEncoded": "luis-velazquez",
+    "title": "Luis Velazquez",
+    "videos_count": "0"
+}

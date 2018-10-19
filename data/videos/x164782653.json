@@ -1,0 +1,97 @@
+{
+    "title": "Ultimate Shopping Event",
+    "description": "30% off almost everything",
+    "referenceId": "49ce9c17662362a25628f24a92c6c8ef",
+    "date_created": "1528659339",
+    "date_modified": "1528659415",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "16",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213341",
+    "product_category": null,
+    "id": "164782653",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "e63c1260-954f-4768-905e-80b79de4f425",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "6",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "6",
+            "width": 272,
+            "height": 480
+        },
+        "mediaDuration": "6",
+        "prettyDuration": "00:00:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164782653\/bea6a\/thumb-49ce9c17662362a25628f24a92c6c8ef-00002.jpg",
+        "type": "mp4",
+        "assetId": "164782653",
+        "assetTitle": "E63C1260-954F-4768-905E-80B79DE4F425",
+        "assetTitleTextEncoded": "e63c1260-954f-4768-905e-80b79de4f425",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164782653",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164782653\/bea6a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164782653\/bea6a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164782653\/bea6a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164782653\/bea6a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 204,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164782653\/bea6a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

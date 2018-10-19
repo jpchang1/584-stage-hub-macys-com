@@ -1,0 +1,21 @@
+{
+    "id": "213179",
+    "first_name": "Heather",
+    "last_name": "Dangler",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/466817435-0.9872125718742.jpg",
+        "job_title": "Macys Omni Leader"
+    },
+    "last_login_timestamp": "1526663648",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 02:18:49",
+    "login_id": "1759121",
+    "user_id": "213179",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Heather Dangler",
+    "profile_picture": "\/api\/canvas\/logo\/466817435-0.9872125718742.jpg",
+    "titleTextEncoded": "heather-dangler",
+    "title": "Heather Dangler",
+    "videos_count": "0"
+}

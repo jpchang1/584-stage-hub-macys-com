@@ -1,0 +1,93 @@
+{
+    "title": "Hotel bedding",
+    "description": "The Hotel Collection by Macys \nPebble",
+    "referenceId": "99b79abae0ac40218fcea5bf51684e5a",
+    "date_created": "1525688857",
+    "date_modified": "1525691716",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "72",
+    "engagement_score": "10",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": null,
+    "id": "163565607",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "9d9971b5-46dc-44f9-9822-cf38f2ac4c92",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "140",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "140",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "140",
+        "prettyDuration": "00:02:20",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163565607\/05dc5\/thumb-99b79abae0ac40218fcea5bf51684e5a-00002.jpg",
+        "type": "mp4",
+        "assetId": "163565607",
+        "assetTitle": "9D9971B5 46DC-44F9-9822-CF38F2AC4C92",
+        "assetTitleTextEncoded": "9d9971b5-46dc-44f9-9822-cf38f2ac4c92",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163565607",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163565607\/05dc5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163565607\/05dc5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163565607\/05dc5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163565607\/05dc5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163565607\/05dc5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

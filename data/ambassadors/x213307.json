@@ -1,0 +1,21 @@
+{
+    "id": "213307",
+    "first_name": "Megan",
+    "last_name": "Morgan",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/978877934-0.7436329846270.jpg",
+        "job_title": "Visual Manager"
+    },
+    "last_login_timestamp": "1525953788",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-07 16:00:30",
+    "login_id": "1759121",
+    "user_id": "213307",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Megan Morgan",
+    "profile_picture": "\/api\/canvas\/logo\/978877934-0.7436329846270.jpg",
+    "titleTextEncoded": "megan-morgan",
+    "title": "Megan Morgan",
+    "videos_count": "0"
+}

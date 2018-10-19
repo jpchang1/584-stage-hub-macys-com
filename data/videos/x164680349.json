@@ -1,0 +1,93 @@
+{
+    "title": "Wedding Details: My Style Crew Delia & Laura",
+    "description": "In this wedding video you will find ideas for what you need for that special day. Need more help? Contact us on Instagram and Facebook @tropicalvein.",
+    "referenceId": "aae4269d8bcdee553e4e66c4a2108ce8",
+    "date_created": "1528383225",
+    "date_modified": "1528410418",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "12",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213109",
+    "product_category": null,
+    "id": "164680349",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "bridal",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "64",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "64",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "64",
+        "prettyDuration": "00:01:04",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164680349\/3e7d9\/thumb-aae4269d8bcdee553e4e66c4a2108ce8-00002.jpg",
+        "type": "mp4",
+        "assetId": "164680349",
+        "assetTitle": "bridal",
+        "assetTitleTextEncoded": "bridal",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164680349",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164680349\/3e7d9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164680349\/3e7d9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164680349\/3e7d9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164680349\/3e7d9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164680349\/3e7d9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's Poppy",
+    "tvp_enhanced_transcript": null
+}

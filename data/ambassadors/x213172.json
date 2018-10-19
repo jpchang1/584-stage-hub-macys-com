@@ -1,0 +1,21 @@
+{
+    "id": "213172",
+    "first_name": "Jenna",
+    "last_name": "Eklund",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/424081225-0.4090647757053.jpg",
+        "job_title": "Visual stylist"
+    },
+    "last_login_timestamp": "1525911854",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 01:30:53",
+    "login_id": "1759121",
+    "user_id": "213172",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Jenna Eklund",
+    "profile_picture": "\/api\/canvas\/logo\/424081225-0.4090647757053.jpg",
+    "titleTextEncoded": "jenna-eklund",
+    "title": "Jenna Eklund",
+    "videos_count": "0"
+}

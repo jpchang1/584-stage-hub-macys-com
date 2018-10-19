@@ -1,0 +1,99 @@
+{
+    "title": "Just A Taste Of Fashion - Black & White",
+    "description": "How cute is this patterned wall? I was walking to grab some lunch and had to take a few shots. Today I am wearing all INC. The polka dot ruffled top is perfect versatile piece. I can wear to work then add a leather jacket for a night out. I am very picky with jeans and these INC Petite Frayed jeans are amazing. They are high-waisted with button details and the frayed ends add a fun touch. Shop the products now!",
+    "referenceId": "76e8f934104dab6a0a44ff63256d4220",
+    "date_created": "1528416208",
+    "date_modified": "1528421312",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "7",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213245",
+    "product_category": "women",
+    "id": "164688478",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "patterned-wall",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "9",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "9",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "9",
+        "prettyDuration": "00:00:09",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164688478\/781d7\/thumb-76e8f934104dab6a0a44ff63256d4220-00002.jpg",
+        "type": "mp4",
+        "assetId": 164688478,
+        "assetTitle": "Just A Taste Of Fashion - Black & White",
+        "assetTitleTextEncoded": "patterned-wall",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 164688478,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164688478\/781d7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164688478\/781d7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164688478\/781d7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164688478\/781d7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164688478\/781d7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164688478\/781d7\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164688478\/781d7\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

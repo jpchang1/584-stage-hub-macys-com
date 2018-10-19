@@ -1,0 +1,21 @@
+{
+    "id": "213252",
+    "first_name": "Patricia",
+    "last_name": "Gon",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/248285890-0.7546223553828.jpg",
+        "job_title": "Visual Merchandiser"
+    },
+    "last_login_timestamp": "1529183421",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 20:58:07",
+    "login_id": "1759121",
+    "user_id": "213252",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Patricia Gon",
+    "profile_picture": "\/api\/canvas\/logo\/248285890-0.7546223553828.jpg",
+    "titleTextEncoded": "patricia-gon",
+    "title": "Patricia Gon",
+    "videos_count": "1"
+}

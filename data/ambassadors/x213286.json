@@ -1,0 +1,21 @@
+{
+    "id": "213286",
+    "first_name": "marilyn",
+    "last_name": "gregorin",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/436171438-0.5520073949825.jpg",
+        "job_title": "MyStylist Executive"
+    },
+    "last_login_timestamp": "1526693731",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-06 03:48:38",
+    "login_id": "1759121",
+    "user_id": "213286",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "marilyn gregorin",
+    "profile_picture": "\/api\/canvas\/logo\/436171438-0.5520073949825.jpg",
+    "titleTextEncoded": "marilyn-gregorin",
+    "title": "marilyn gregorin",
+    "videos_count": "2"
+}

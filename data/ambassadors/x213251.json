@@ -1,0 +1,21 @@
+{
+    "id": "213251",
+    "first_name": "Elena",
+    "last_name": "Yochum",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/755443360-0.7430380773730.jpg",
+        "job_title": "Buyer"
+    },
+    "last_login_timestamp": "1526240923",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 20:17:13",
+    "login_id": "1759121",
+    "user_id": "213251",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Elena Yochum",
+    "profile_picture": "\/api\/canvas\/logo\/755443360-0.7430380773730.jpg",
+    "titleTextEncoded": "elena-yochum",
+    "title": "Elena Yochum",
+    "videos_count": "1"
+}

@@ -1,0 +1,95 @@
+{
+    "title": "summer slide sale",
+    "description": "These slides are only 14 bucks!  Get them while you can!",
+    "referenceId": "f4dca843348a28b57d69bc1c5117591d",
+    "date_created": "1526847524",
+    "date_modified": "1526847686",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "28",
+    "engagement_score": "4",
+    "conversion_score": "50",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213171",
+    "product_category": "shoes",
+    "id": "163979284",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "a88af880-dd1d-4183-8800-1d319f9fb7f8",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "6",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "6",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "6",
+        "prettyDuration": "00:00:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163979284\/d15ed\/thumb-f4dca843348a28b57d69bc1c5117591d-00002.jpg",
+        "type": "mp4",
+        "assetId": "163979284",
+        "assetTitle": "A88AF880-DD1D-4183-8800-1D319F9FB7F8",
+        "assetTitleTextEncoded": "a88af880-dd1d-4183-8800-1d319f9fb7f8",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163979284",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163979284\/d15ed\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163979284\/d15ed\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163979284\/d15ed\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163979284\/d15ed\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163979284\/d15ed\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/163979284\/d15ed\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/163979284\/d15ed\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

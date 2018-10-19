@@ -1,0 +1,95 @@
+{
+    "title": "Trina Turk",
+    "description": "Trina Turk's new collaboration with INC",
+    "referenceId": "30380e4ebd33ed922d4552f58609bbd3",
+    "date_created": "1526649728",
+    "date_modified": "1527103862",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "21",
+    "engagement_score": "3",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213319",
+    "product_category": "women",
+    "id": "163958522",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "d1487ab0-7172-4836-ac74-14a9002a4796",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "35",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "35",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "35",
+        "prettyDuration": "00:00:35",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163958522\/e278d\/thumb-30380e4ebd33ed922d4552f58609bbd3-00001.jpg",
+        "type": "mp4",
+        "assetId": "163958522",
+        "assetTitle": "Trina Turk",
+        "assetTitleTextEncoded": "d1487ab0-7172-4836-ac74-14a9002a4796",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163958522",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163958522\/e278d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163958522\/e278d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163958522\/e278d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163958522\/e278d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163958522\/e278d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

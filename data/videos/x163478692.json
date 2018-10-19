@@ -1,0 +1,95 @@
+{
+    "title": "Day and Night with Boss Mom #macysstylecrew",
+    "description": "Style and Co., Alfani, Rachel Roy, and DKNY",
+    "referenceId": "5986a886d1db5611855e881bc7f2b1e3",
+    "date_created": "1525658618",
+    "date_modified": "1525701249",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "36",
+    "engagement_score": "4",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213132",
+    "product_category": null,
+    "id": "163478692",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "style-crew-1",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "37",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "37",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "37",
+        "prettyDuration": "00:00:37",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163478692\/48e01\/thumb-5986a886d1db5611855e881bc7f2b1e3-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/163478692\/48e01\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/163478692\/48e01\/media.m3u8",
+        "assetId": 163478692,
+        "assetTitle": "Day and Night with Boss Mom #macysstylecrew",
+        "assetTitleTextEncoded": "style-crew-1",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 163478692,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163478692\/48e01\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163478692\/48e01\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163478692\/48e01\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163478692\/48e01\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163478692\/48e01\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

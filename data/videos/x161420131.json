@@ -1,0 +1,93 @@
+{
+    "title": "KENNETH MARSHALL Suit and Tie",
+    "description": "Spring Suits that will leave you suit game strong.",
+    "referenceId": "03224bf51aa7b85813ae9984daaa8e70",
+    "date_created": "1524069775",
+    "date_modified": "1524256598",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "18",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "0",
+    "product_category": null,
+    "id": "161420131",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "KENNETH-MARSHALL",
+    "category": "",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "29",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "29",
+            "width": 360,
+            "height": 480
+        },
+        "mediaDuration": "29",
+        "prettyDuration": "00:00:29",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/161420131\/ad5d9\/thumb-03224bf51aa7b85813ae9984daaa8e70-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/161420131\/ad5d9\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/161420131\/ad5d9\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161420131\/ad5d9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161420131\/ad5d9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161420131\/ad5d9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161420131\/ad5d9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161420131\/ad5d9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 180,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

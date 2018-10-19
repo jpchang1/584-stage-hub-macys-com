@@ -1,0 +1,99 @@
+{
+    "title": "#maskingmonday Your Masks Guide",
+    "description": "It\u2019s #maskingmonday!\nHere is a list of my most highly recommended masks for every concern ranging from dryness and dullness, to dark circles and puffy eyes. Grab yours today for an overall awaken appearance!\n\n*sorry for the inconvenience but two merchandise cannot be linked*\nDior Capture Totale Dreamskin WEB ID: 4076042\nSK-II Eye Mask is no longer available through Macy's\n\nFollow me on Instagram for more: @janie.hong",
+    "referenceId": "188a7cac373c04b9c57faa260715b8fe",
+    "date_created": "1528158789",
+    "date_modified": "1528160602",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "14",
+    "engagement_score": "3",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213220",
+    "product_category": "beauty",
+    "id": "164630739",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "967af439-88c9-4409-8d6d-a5dcaec4ddd8",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "38",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "38",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "38",
+        "prettyDuration": "00:00:38",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164630739\/2cf87\/thumb-188a7cac373c04b9c57faa260715b8fe-00002.jpg",
+        "type": "mp4",
+        "assetId": "164630739",
+        "assetTitle": "#maskingmonday Your Masks Guide",
+        "assetTitleTextEncoded": "967af439-88c9-4409-8d6d-a5dcaec4ddd8",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164630739",
+            "li": "1759121"
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164630739\/2cf87\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164630739\/2cf87\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164630739\/2cf87\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164630739\/2cf87\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164630739\/2cf87\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164630739\/2cf87\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164630739\/2cf87\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "SK II SK-II",
+    "tvp_enhanced_transcript": null
+}

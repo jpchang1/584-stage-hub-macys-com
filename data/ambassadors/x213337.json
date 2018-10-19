@@ -1,0 +1,21 @@
+{
+    "id": "213337",
+    "first_name": "Shannon",
+    "last_name": "Black",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/997244570-0.5622983587440.jpg",
+        "job_title": "Sales associate"
+    },
+    "last_login_timestamp": "1527984391",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-08 20:48:02",
+    "login_id": "1759121",
+    "user_id": "213337",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Shannon Black",
+    "profile_picture": "\/api\/canvas\/logo\/997244570-0.5622983587440.jpg",
+    "titleTextEncoded": "shannon-black",
+    "title": "Shannon Black",
+    "videos_count": "1"
+}

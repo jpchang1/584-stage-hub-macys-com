@@ -1,0 +1,21 @@
+{
+    "id": "213338",
+    "first_name": "Chris",
+    "last_name": "Keaton",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Sales Associate"
+    },
+    "last_login_timestamp": "1525964969",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-08 20:54:33",
+    "login_id": "1759121",
+    "user_id": "213338",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Chris Keaton",
+    "profile_picture": null,
+    "titleTextEncoded": "chris-keaton",
+    "title": "Chris Keaton",
+    "videos_count": "0"
+}

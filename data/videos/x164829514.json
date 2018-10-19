@@ -1,0 +1,97 @@
+{
+    "title": "Ready for summer",
+    "description": "Whether it's to the movies to see the Summer biggest blockbuster or going out for a night with the girls. Get ready for the Summer in some stylish pieces at Macy's",
+    "referenceId": "fe03c5eeae7369e4ca53f4a55a140f70",
+    "date_created": "1528812745",
+    "date_modified": "1528813460",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213226",
+    "product_category": "juniors",
+    "id": "164829514",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "ready-for-summer",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "42",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "42",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "42",
+        "prettyDuration": "00:00:42",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164829514\/51a0c\/thumb-fe03c5eeae7369e4ca53f4a55a140f70-00002.jpg",
+        "type": "mp4",
+        "assetId": "164829514",
+        "assetTitle": "Ready for summer",
+        "assetTitleTextEncoded": "ready-for-summer",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164829514",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164829514\/51a0c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164829514\/51a0c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164829514\/51a0c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164829514\/51a0c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164829514\/51a0c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "OTP Bank",
+    "tvp_enhanced_transcript": null
+}

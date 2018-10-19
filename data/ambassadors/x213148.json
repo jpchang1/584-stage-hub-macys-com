@@ -1,0 +1,21 @@
+{
+    "id": "213148",
+    "first_name": "Michele",
+    "last_name": "Fuller",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/419088749-0.7747323654126.jpg",
+        "job_title": "MyStylist"
+    },
+    "last_login_timestamp": "1528126539",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 22:17:03",
+    "login_id": "1759121",
+    "user_id": "213148",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Michele Fuller",
+    "profile_picture": "\/api\/canvas\/logo\/419088749-0.7747323654126.jpg",
+    "titleTextEncoded": "michele-fuller",
+    "title": "Michele Fuller",
+    "videos_count": "0"
+}

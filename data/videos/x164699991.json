@@ -1,0 +1,97 @@
+{
+    "title": "06\/08 ONLY! Sale on Benefit Powders!",
+    "description": "Day Nine of Ten Days of Glam! 50% off your favorite Benefit Powders like Hoola and Dandelion! Get them before they\u2019re out!!!! WHILE SUPPLIES LAST!",
+    "referenceId": "e1172eda129921c714cecb3fdcdeccda",
+    "date_created": "1528455416",
+    "date_modified": "1528456470",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213440",
+    "product_category": "beauty",
+    "id": "164699991",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "37c8d58d-2906-4691-89c9-897d1eee9602",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "52",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "52",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "52",
+        "prettyDuration": "00:00:52",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164699991\/97a02\/thumb-e1172eda129921c714cecb3fdcdeccda-00002.jpg",
+        "type": "mp4",
+        "assetId": "164699991",
+        "assetTitle": "06\/08 ONLY! Sale on Benefit Powders!",
+        "assetTitleTextEncoded": "37c8d58d-2906-4691-89c9-897d1eee9602",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164699991",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164699991\/97a02\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164699991\/97a02\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164699991\/97a02\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164699991\/97a02\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164699991\/97a02\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Dr Jart",
+    "tvp_enhanced_transcript": null
+}

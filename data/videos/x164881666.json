@@ -1,0 +1,99 @@
+{
+    "title": "My Stylist Jonathan Getting a Brow Makeover",
+    "description": "I finally gave in and I'm getting a brow makeover by a fabulous brow expert \/ estetician, and it aint that bad. Watch and see!",
+    "referenceId": "4e459bb9a574b9be5c215e00878b6c60",
+    "date_created": "1528949456",
+    "date_modified": "1528949945",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "22",
+    "engagement_score": "6",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213247",
+    "product_category": "beauty",
+    "id": "164881666",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "jonathanbrows-fb-newedit-1-0",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "60",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "60",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164881666\/ba55d\/thumb-4e459bb9a574b9be5c215e00878b6c60-00002.jpg",
+        "type": "mp4",
+        "assetId": "164881666",
+        "assetTitle": "JonathanBrows_fb_newEdit_1_0",
+        "assetTitleTextEncoded": "jonathanbrows-fb-newedit-1-0",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164881666",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164881666\/ba55d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164881666\/ba55d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164881666\/ba55d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164881666\/ba55d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164881666\/ba55d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164881666\/ba55d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164881666\/ba55d\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

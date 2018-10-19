@@ -1,0 +1,106 @@
+{
+    "title": "Ralph Lauren Swim!",
+    "description": "Look fabulous at the pool in this Ralph Lauren two piece with fedora hat and colorful towel! You can\u2019t go wrong with these bright and beautiful colors!\nWEBID For Bikini 5970220",
+    "referenceId": "3dd46d5af99b30994351ceeb947bbe4a",
+    "date_created": "1529391921",
+    "date_modified": "1529393937",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213440",
+    "product_category": "women",
+    "id": "164948528",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "0690d00b-2540-49f7-bf2a-ed78ede90b18",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "68",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "68",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "68",
+        "prettyDuration": "00:01:08",
+        "thumbnailUrl": "\/\/v-dev.tvpage.com\/1759121\/164948528\/thumbnail\/image-thumbnail-640-dfdb680b6e4843bd5e174380d5acaafb.jpg",
+        "type": "mp4",
+        "assetId": "164948528",
+        "assetTitle": "Ralph Lauren Swim!",
+        "assetTitleTextEncoded": "0690d00b-2540-49f7-bf2a-ed78ede90b18",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164948528",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164948528\/6088a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164948528\/6088a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164948528\/6088a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164948528\/6088a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164948528\/6088a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164948528\/6088a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164948528\/6088a\/media.m3u8",
+        "automaticThumbnailsPattern": "1759121\/164948528\/6088a\/thumb-3dd46d5af99b30994351ceeb947bbe4a-{count}",
+        "selectableThumbnails": [
+            "\/\/v-dev.tvpage.com\/1759121\/164948528\/user-images\/image-1280-3dd2a063ead05659134d4a476baf49da.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v-dev.tvpage.com\/1759121\/164948528\/user-images\/image-1280-3dd2a063ead05659134d4a476baf49da.jpg",
+        "thumbnails": {
+            "256": "\/\/v-dev.tvpage.com\/1759121\/164948528\/thumbnail\/image-thumbnail-256-92257baeae2f8756078d01a10fb91472.jpg",
+            "480": "\/\/v-dev.tvpage.com\/1759121\/164948528\/thumbnail\/image-thumbnail-480-7548702fb69c8682741354a6bb3389ef.jpg",
+            "640": "\/\/v-dev.tvpage.com\/1759121\/164948528\/thumbnail\/image-thumbnail-640-dfdb680b6e4843bd5e174380d5acaafb.jpg",
+            "1280": "\/\/v-dev.tvpage.com\/1759121\/164948528\/thumbnail\/image-thumbnail-1280-30877e67fc56988ed80f776477298409.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Audrey Macy's",
+    "tvp_enhanced_transcript": null
+}

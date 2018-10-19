@@ -1,0 +1,21 @@
+{
+    "id": "213135",
+    "first_name": "Marissa",
+    "last_name": "Casazza",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/155055846-0.3481057600583.jpg",
+        "job_title": "Marketing Effectiveness Analyst"
+    },
+    "last_login_timestamp": "1529341575",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 21:27:13",
+    "login_id": "1759121",
+    "user_id": "213135",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Marissa Casazza",
+    "profile_picture": "\/api\/canvas\/logo\/155055846-0.3481057600583.jpg",
+    "titleTextEncoded": "marissa-casazza",
+    "title": "Marissa Casazza",
+    "videos_count": "6"
+}

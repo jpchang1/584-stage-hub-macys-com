@@ -1,0 +1,21 @@
+{
+    "id": "213229",
+    "first_name": "Susan",
+    "last_name": "Hirth",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/409729373-0.4908772367984.jpg",
+        "job_title": "GVP Accounting Services"
+    },
+    "last_login_timestamp": "1526672468",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 15:50:07",
+    "login_id": "1759121",
+    "user_id": "213229",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Susan Hirth",
+    "profile_picture": "\/api\/canvas\/logo\/409729373-0.4908772367984.jpg",
+    "titleTextEncoded": "susan-hirth",
+    "title": "Susan Hirth",
+    "videos_count": "0"
+}

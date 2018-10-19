@@ -1,0 +1,21 @@
+{
+    "id": "213141",
+    "first_name": "Kelsea",
+    "last_name": "Merryman",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/468476030-0.8872747334185.jpg",
+        "job_title": "Sales Floor Lead"
+    },
+    "last_login_timestamp": "1526912706",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 21:45:03",
+    "login_id": "1759121",
+    "user_id": "213141",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Kelsea Merryman",
+    "profile_picture": "\/api\/canvas\/logo\/468476030-0.8872747334185.jpg",
+    "titleTextEncoded": "kelsea-merryman",
+    "title": "Kelsea Merryman",
+    "videos_count": "0"
+}

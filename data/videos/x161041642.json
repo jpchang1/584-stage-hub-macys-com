@@ -1,0 +1,93 @@
+{
+    "title": "ANDREA WARNER On Macy's New Spring Trend",
+    "description": "This spring season Andrea Warner tells us what is going on and dominating this spring season.",
+    "referenceId": "d51ef96cf00aff463b63efc8bb591983",
+    "date_created": "1523990457",
+    "date_modified": "1524260554",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "22",
+    "engagement_score": "3",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "0",
+    "product_category": null,
+    "id": "161041642",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "ANDREA-WARNER",
+    "category": "",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "307",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "307",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "307",
+        "prettyDuration": "00:05:07",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/161041642\/08019\/thumb-d51ef96cf00aff463b63efc8bb591983-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/161041642\/08019\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/161041642\/08019\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161041642\/08019\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161041642\/08019\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161041642\/08019\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161041642\/08019\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/161041642\/08019\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,95 @@
+{
+    "title": "Macy\u2019s style Crew Andrea Warner in  step by step makeup Tutorials done by the famous Ricardo Costales",
+    "description": "Check out this amazing video with Ricardo Costales makeup tutorial @ Macy\u2019s Perimeter Mall.  Click on the link below to shop for these  Lanc\u00f4me products.",
+    "referenceId": "353f5dba8c53cb476e2210d2f640217b",
+    "date_created": "1529348753",
+    "date_modified": "1529363345",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213345",
+    "product_category": "beauty",
+    "id": "164938138",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "44713155-5a1f-4c19-a0b4-a822e43e5845",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "154",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "154",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "154",
+        "prettyDuration": "00:02:34",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/448269092-1529363344.jpg",
+        "type": "mp4",
+        "assetId": "164938138",
+        "assetTitle": "Macy\u2019s style Crew Andrea Warner in  step by step makeup Tutorials done by the famous Ricardo Costales",
+        "assetTitleTextEncoded": "44713155-5a1f-4c19-a0b4-a822e43e5845",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164938138",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164938138\/7e586\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164938138\/7e586\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164938138\/7e586\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164938138\/7e586\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164938138\/7e586\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's Lancome",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,21 @@
+{
+    "id": "632",
+    "first_name": "Matt",
+    "last_name": "Babineau",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/220290359-0.4718172202352.jpg",
+        "job_title": "testyo"
+    },
+    "last_login_timestamp": "1529343230",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-01 22:26:44",
+    "login_id": "1759121",
+    "user_id": "632",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Matt Babineau",
+    "profile_picture": "\/api\/canvas\/logo\/220290359-0.4718172202352.jpg",
+    "titleTextEncoded": "matt-babineau",
+    "title": "Matt Babineau",
+    "videos_count": "0"
+}

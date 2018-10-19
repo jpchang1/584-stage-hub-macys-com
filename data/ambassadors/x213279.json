@@ -1,0 +1,21 @@
+{
+    "id": "213279",
+    "first_name": "Flor",
+    "last_name": "Solorio",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/747885432-0.4769032836426.jpg",
+        "job_title": "Active wear shop captain "
+    },
+    "last_login_timestamp": "1529214711",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-05 18:17:38",
+    "login_id": "1759121",
+    "user_id": "213279",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Flor Solorio",
+    "profile_picture": "\/api\/canvas\/logo\/747885432-0.4769032836426.jpg",
+    "titleTextEncoded": "flor-solorio",
+    "title": "Flor Solorio",
+    "videos_count": "4"
+}

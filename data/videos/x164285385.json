@@ -1,0 +1,97 @@
+{
+    "title": "Levi's Menswear",
+    "description": "Time to Tear It Up this #MemorialDayWeekend with #Levis #Denim #Menswear #MacysStyleCrew #BeOurGuest @macysvisual41",
+    "referenceId": "23b1cc3952c1a5c44c40486c8cd33e35",
+    "date_created": "1527180298",
+    "date_modified": "1527213158",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "18",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213334",
+    "product_category": "men",
+    "id": "164285385",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "vid-31091030-232349-292",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "6",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "6",
+            "width": 562,
+            "height": 1080
+        },
+        "mediaDuration": "6",
+        "prettyDuration": "00:00:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164285385\/bdb99\/thumb-23b1cc3952c1a5c44c40486c8cd33e35-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164285385\/bdb99\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164285385\/bdb99\/media.m3u8",
+        "assetId": "164285385",
+        "assetTitle": "Levi's Menswear",
+        "assetTitleTextEncoded": "vid-31091030-232349-292",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164285385",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164285385\/bdb99\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 562,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164285385\/bdb99\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 374,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164285385\/bdb99\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 250,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164285385\/bdb99\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 188,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164285385\/bdb99\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 124,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

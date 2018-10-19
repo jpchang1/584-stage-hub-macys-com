@@ -1,0 +1,21 @@
+{
+    "id": "213147",
+    "first_name": "Benjamin ",
+    "last_name": "Martinez-Flores",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/300158149-0.2517005006782.jpg",
+        "job_title": "Sales Manager "
+    },
+    "last_login_timestamp": "1526611614",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 22:15:57",
+    "login_id": "1759121",
+    "user_id": "213147",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Benjamin  Martinez-Flores",
+    "profile_picture": "\/api\/canvas\/logo\/300158149-0.2517005006782.jpg",
+    "titleTextEncoded": "benjamin-martinez-flores",
+    "title": "Benjamin  Martinez-Flores",
+    "videos_count": "1"
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Maison Jules Gingham Dress",
+    "description": "The perfect dress on a perfect day in San Francisco! The tie-waist cinches just right and how can you go wrong with a gingham print and pockets!!",
+    "referenceId": "1146f8f15151aea0b7cab72a420839a4",
+    "date_created": "1527708323",
+    "date_modified": "1528015371",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "63",
+    "engagement_score": "8",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213194",
+    "product_category": "women",
+    "id": "164606113",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fde41105-b54f-401e-84b7-12d6ef269096",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "29",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "29",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "29",
+        "prettyDuration": "00:00:29",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164606113\/320a1\/thumb-1146f8f15151aea0b7cab72a420839a4-00002.jpg",
+        "type": "mp4",
+        "assetId": "164606113",
+        "assetTitle": "Maison Jules Gingham Dress",
+        "assetTitleTextEncoded": "fde41105-b54f-401e-84b7-12d6ef269096",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164606113",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164606113\/320a1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164606113\/320a1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164606113\/320a1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164606113\/320a1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164606113\/320a1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

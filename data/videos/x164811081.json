@@ -1,0 +1,99 @@
+{
+    "title": "HOW TO CONTOUR IN 4 EASY STEPS",
+    "description": "Learn how to contour with 4 easy steps using some of my favorite products and techniques.",
+    "referenceId": "2a5ae662770272d8518776c50aca6311",
+    "date_created": "1528752736",
+    "date_modified": "1528752979",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "11",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213366",
+    "product_category": "beauty",
+    "id": "164811081",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fey6-11-2018-0-1",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "45",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "45",
+            "width": 1080,
+            "height": 1080
+        },
+        "mediaDuration": "45",
+        "prettyDuration": "00:00:45",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164811081\/b8dbf\/thumb-2a5ae662770272d8518776c50aca6311-00002.jpg",
+        "type": "mp4",
+        "assetId": "164811081",
+        "assetTitle": "HOW TO CONTOUR IN 4 EASY STEPS",
+        "assetTitleTextEncoded": "fey6-11-2018-0-1",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164811081",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164811081\/b8dbf\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164811081\/b8dbf\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164811081\/b8dbf\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164811081\/b8dbf\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164811081\/b8dbf\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164811081\/b8dbf\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164811081\/b8dbf\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Business TV 8X4",
+    "tvp_enhanced_transcript": null
+}

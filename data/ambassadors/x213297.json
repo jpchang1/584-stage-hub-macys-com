@@ -1,0 +1,21 @@
+{
+    "id": "213297",
+    "first_name": "Valerie",
+    "last_name": "Preville",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/255165632-0.1653326009400.jpg",
+        "job_title": "Merchandise Team Manager"
+    },
+    "last_login_timestamp": "1529236889",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-07 01:31:43",
+    "login_id": "1759121",
+    "user_id": "213297",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Valerie Preville",
+    "profile_picture": "\/api\/canvas\/logo\/255165632-0.1653326009400.jpg",
+    "titleTextEncoded": "valerie-preville",
+    "title": "Valerie Preville",
+    "videos_count": "4"
+}

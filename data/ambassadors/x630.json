@@ -1,0 +1,21 @@
+{
+    "id": "630",
+    "first_name": "Damia",
+    "last_name": "Test",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Ndnd"
+    },
+    "last_login_timestamp": "1528846467",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-01 17:53:38",
+    "login_id": "1759121",
+    "user_id": "630",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Damia Test",
+    "profile_picture": null,
+    "titleTextEncoded": "damia-test",
+    "title": "Damia Test",
+    "videos_count": "0"
+}

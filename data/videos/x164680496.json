@@ -1,0 +1,93 @@
+{
+    "title": "Loving this trend! The Great Escape!",
+    "description": "I am a summer baby & a beach girl, so I am all about Macy's summer trend, The Great Escape! Curated by yours truly with a little extra love from the Herald Square visual team. :) Love all of these products, but my absolute fave is the Villeroy & Boch 3-tier stand. Our marketing team has used this in literally EVERYTHING - perfect for entertaining & the stand folds flat for easy storage!",
+    "referenceId": "f40887c7464df4e926bf8654060117fb",
+    "date_created": "1528403826",
+    "date_modified": "1528483616",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "2",
+    "engagement_score": "10",
+    "conversion_score": "100",
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213156",
+    "product_category": "bed_bath",
+    "id": "164680496",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "img-5196",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "21",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "21",
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": "21",
+        "prettyDuration": "00:00:21",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164680496\/1aec9\/thumb-f40887c7464df4e926bf8654060117fb-00002.jpg",
+        "type": "mp4",
+        "assetId": "164680496",
+        "assetTitle": "Loving this trend! The Great Escape!",
+        "assetTitleTextEncoded": "img-5196",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164680496",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164680496\/1aec9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164680496\/1aec9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164680496\/1aec9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164680496\/1aec9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164680496\/1aec9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2018-06-18\"},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

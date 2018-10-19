@@ -1,0 +1,90 @@
+{
+    "title": "Mario Badescu",
+    "description": "New facial routine",
+    "referenceId": "ba24a61a756f44bc1ffbc82f2b9752cb",
+    "date_created": "1526600058",
+    "date_modified": "1526600595",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "276",
+    "engagement_score": "7",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213205",
+    "product_category": null,
+    "id": "163951360",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "aa06f5a7-1571-46b6-b5ea-f70dd3e236ea",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "5",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "5",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "5",
+        "prettyDuration": "00:00:05",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163951360\/2ef02\/thumb-ba24a61a756f44bc1ffbc82f2b9752cb-00001.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163951360\/2ef02\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163951360\/2ef02\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163951360\/2ef02\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163951360\/2ef02\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163951360\/2ef02\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

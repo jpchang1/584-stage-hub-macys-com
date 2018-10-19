@@ -1,0 +1,93 @@
+{
+    "title": "I'm joining the #MacysStyleCrew",
+    "description": "I'm so lucky to be joining a select group of my colleagues to share amazing products that I love from @Macys in the #MacysStyleCrew this year. Look out for my favorites, starting with this amazing Rachel Rachel Roy Plus size jacket that has a matching pant, my new favorite thing",
+    "referenceId": "370cbc2146201e836c3c6fa5a43d3231",
+    "date_created": "1525886542",
+    "date_modified": "1525887187",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "51",
+    "engagement_score": "8",
+    "conversion_score": "50",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213300",
+    "product_category": "women",
+    "id": "163856741",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "2160p",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "11",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "11",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "11",
+        "prettyDuration": "00:00:11",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163856741\/44962\/thumb-370cbc2146201e836c3c6fa5a43d3231-00001.jpg",
+        "type": "mp4",
+        "assetId": "163856741",
+        "assetTitle": "2160p",
+        "assetTitleTextEncoded": "2160p",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163856741",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163856741\/44962\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163856741\/44962\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163856741\/44962\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163856741\/44962\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163856741\/44962\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

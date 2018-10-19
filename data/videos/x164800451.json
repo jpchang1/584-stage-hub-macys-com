@@ -1,0 +1,86 @@
+{
+    "title": "Nike",
+    "description": "",
+    "referenceId": "bc74c440df7d30a6e71165b587b46e58",
+    "date_created": "1528747143",
+    "date_modified": "1528748499",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "11",
+    "engagement_score": "1",
+    "conversion_score": "25",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213135",
+    "product_category": null,
+    "id": "164800451",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "nike",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "68",
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164800451\/c746f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164800451\/c746f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164800451\/c746f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164800451\/c746f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164800451\/c746f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "videoMeta": {
+            "duration": "68",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "68",
+        "prettyDuration": "00:01:08",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164800451\/c746f\/thumb-bc74c440df7d30a6e71165b587b46e58-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164800451\/c746f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164800451\/c746f\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Film2home Federated Media Publishing",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,21 @@
+{
+    "id": "213171",
+    "first_name": "Katie",
+    "last_name": "Dispenziere",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/755701992-0.2991463494952.jpg",
+        "job_title": "Merchandise Team Manager"
+    },
+    "last_login_timestamp": "1526979727",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 01:18:20",
+    "login_id": "1759121",
+    "user_id": "213171",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Katie Dispenziere",
+    "profile_picture": "\/api\/canvas\/logo\/755701992-0.2991463494952.jpg",
+    "titleTextEncoded": "katie-dispenziere",
+    "title": "Katie Dispenziere",
+    "videos_count": "5"
+}

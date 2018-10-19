@@ -1,0 +1,21 @@
+{
+    "id": "213222",
+    "first_name": "Allison",
+    "last_name": "Massie",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/342522261-0.1786941781174.jpg",
+        "job_title": "Visual Merchandiser"
+    },
+    "last_login_timestamp": "1528829772",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 14:53:11",
+    "login_id": "1759121",
+    "user_id": "213222",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Allison Massie",
+    "profile_picture": "\/api\/canvas\/logo\/342522261-0.1786941781174.jpg",
+    "titleTextEncoded": "allison-massie",
+    "title": "Allison Massie",
+    "videos_count": "4"
+}

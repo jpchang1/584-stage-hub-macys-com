@@ -1,0 +1,21 @@
+{
+    "id": "213225",
+    "first_name": "Ally",
+    "last_name": "Steinberg",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/778712289-0.2950485971290.jpg",
+        "job_title": "Visual Stylist"
+    },
+    "last_login_timestamp": "1529338526",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 15:22:45",
+    "login_id": "1759121",
+    "user_id": "213225",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Ally Steinberg",
+    "profile_picture": "\/api\/canvas\/logo\/778712289-0.2950485971290.jpg",
+    "titleTextEncoded": "ally-steinberg",
+    "title": "Ally Steinberg",
+    "videos_count": "3"
+}

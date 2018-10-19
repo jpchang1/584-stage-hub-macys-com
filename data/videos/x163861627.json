@@ -1,0 +1,93 @@
+{
+    "title": "Mother s Day Gift Ideas",
+    "description": "Mother's Day is Sunday the 13th! Have you found a gift for the mothers on your list yet? Check out these items.",
+    "referenceId": "6b3c608a503816933e708b1f0ef00a10",
+    "date_created": "1525926757",
+    "date_modified": "1525928311",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "20",
+    "engagement_score": "4",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213271",
+    "product_category": "handbags",
+    "id": "163861627",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "mother-s-day-gift-ideas-converted-with-clipchamp",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "84",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "84",
+            "width": 852,
+            "height": 480
+        },
+        "mediaDuration": "84",
+        "prettyDuration": "00:01:24",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163861627\/351af\/thumb-6b3c608a503816933e708b1f0ef00a10-00002.jpg",
+        "type": "mp4",
+        "assetId": 163861627,
+        "assetTitle": "Mother s Day Gift Ideas",
+        "assetTitleTextEncoded": "mother-s-day-gift-ideas-converted-with-clipchamp",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 163861627,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163861627\/351af\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 852,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163861627\/351af\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 852,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163861627\/351af\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 852,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163861627\/351af\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163861627\/351af\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

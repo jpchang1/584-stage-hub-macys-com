@@ -1,0 +1,88 @@
+{
+    "title": "Which Outfit?",
+    "description": "Which outfit would you pick.",
+    "referenceId": "cd1e1f18acaae3a615549a551aabcf92",
+    "date_created": "1526704357",
+    "date_modified": "1526943523",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "21",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213286",
+    "product_category": null,
+    "id": "163966218",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "64b45f68-399e-4dc6-9242-8f88d3b9222d",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "5",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "5",
+            "width": 320,
+            "height": 480
+        },
+        "mediaDuration": "5",
+        "prettyDuration": "00:00:05",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163966218\/282d6\/thumb-cd1e1f18acaae3a615549a551aabcf92-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/163966218\/282d6\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/163966218\/282d6\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163966218\/282d6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163966218\/282d6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163966218\/282d6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163966218\/282d6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163966218\/282d6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 160,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

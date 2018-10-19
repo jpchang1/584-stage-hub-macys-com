@@ -1,0 +1,93 @@
+{
+    "title": "Modern Romance",
+    "description": "Ivanka fall Looks showcase.",
+    "referenceId": "3d161bc991a2b30af1cd41893af3ee7f",
+    "date_created": "1523573324",
+    "date_modified": "1524509866",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "4",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "0",
+    "product_category": null,
+    "id": "158950110",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "Modern-Romance",
+    "category": "",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "41",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "41",
+            "width": 618,
+            "height": 480
+        },
+        "mediaDuration": "41",
+        "prettyDuration": "00:00:41",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/443306151-1524509865.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/158950110\/bde9c\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/158950110\/bde9c\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/158950110\/bde9c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 618,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/158950110\/bde9c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 618,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/158950110\/bde9c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 618,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/158950110\/bde9c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 464,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/158950110\/bde9c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 308,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

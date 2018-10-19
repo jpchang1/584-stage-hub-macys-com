@@ -1,0 +1,95 @@
+{
+    "title": "SUPERHERO SHOPPING",
+    "description": "FunnyBread teams up with Patron-Man to shop for his secret identity at Macy's!",
+    "referenceId": "59f0925e5fb26c826d1a4c716420aea6",
+    "date_created": "1526083780",
+    "date_modified": "1526085662",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "70",
+    "engagement_score": "19",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213121",
+    "product_category": "men",
+    "id": "163880755",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "superheroshopping",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "118",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "118",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "118",
+        "prettyDuration": "00:01:58",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163880755\/b6c28\/thumb-59f0925e5fb26c826d1a4c716420aea6-00002.jpg",
+        "type": "mp4",
+        "assetId": 163880755,
+        "assetTitle": "SUPERHERO SHOPPING",
+        "assetTitleTextEncoded": "superheroshopping",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 163880755,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163880755\/b6c28\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163880755\/b6c28\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163880755\/b6c28\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163880755\/b6c28\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163880755\/b6c28\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/163880755\/b6c28\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/163880755\/b6c28\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

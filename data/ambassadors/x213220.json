@@ -1,0 +1,21 @@
+{
+    "id": "213220",
+    "first_name": "Janie",
+    "last_name": "Hong",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/589139638-0.8880962206982.jpg",
+        "job_title": "Intimate Apparel Ambassador"
+    },
+    "last_login_timestamp": "1529369631",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 14:26:14",
+    "login_id": "1759121",
+    "user_id": "213220",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Janie Hong",
+    "profile_picture": "\/api\/canvas\/logo\/589139638-0.8880962206982.jpg",
+    "titleTextEncoded": "janie-hong",
+    "title": "Janie Hong",
+    "videos_count": "10"
+}

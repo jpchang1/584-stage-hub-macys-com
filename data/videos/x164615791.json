@@ -1,0 +1,97 @@
+{
+    "title": "\u201cQuick Clips\u201d - Glam Days Day 2",
+    "description": "Today only! Receive 50% They\u2019re Real Mascara and Clinique Liquid Facial Soap! That\u2019s a great deal!",
+    "referenceId": "43bb02de6e5efae574684fea4146e4a8",
+    "date_created": "1527864648",
+    "date_modified": "1527864864",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "12",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213118",
+    "product_category": "beauty",
+    "id": "164615791",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "8b859103-6129-46f8-8e9d-e6e070c23d9e",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "4",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "4",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "4",
+        "prettyDuration": "00:00:04",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164615791\/5e7d7\/thumb-43bb02de6e5efae574684fea4146e4a8-00002.jpg",
+        "type": "mp4",
+        "assetId": "164615791",
+        "assetTitle": "8B859103-6129-46F8-8E9D-E6E070C23D9E",
+        "assetTitleTextEncoded": "8b859103-6129-46f8-8e9d-e6e070c23d9e",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164615791",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164615791\/5e7d7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164615791\/5e7d7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164615791\/5e7d7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164615791\/5e7d7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164615791\/5e7d7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

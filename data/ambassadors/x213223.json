@@ -1,0 +1,21 @@
+{
+    "id": "213223",
+    "first_name": "Liz",
+    "last_name": "Russell",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/831677617-0.1417286549229.jpg",
+        "job_title": "My Stylist @ Macy's Executive"
+    },
+    "last_login_timestamp": "1529076294",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 15:17:18",
+    "login_id": "1759121",
+    "user_id": "213223",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Liz Russell",
+    "profile_picture": "\/api\/canvas\/logo\/831677617-0.1417286549229.jpg",
+    "titleTextEncoded": "liz-russell",
+    "title": "Liz Russell",
+    "videos_count": "0"
+}

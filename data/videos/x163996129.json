@@ -1,0 +1,95 @@
+{
+    "title": "Girls Athletic Apparel",
+    "description": "This video shows some girls active clothes.",
+    "referenceId": "5fa1d7ab4ae0e754fff9730214c4696e",
+    "date_created": "1527131741",
+    "date_modified": "1527191888",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "5",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": "kids",
+    "id": "163996129",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "62ecd74d-ecaf-41fd-bfc7-39d450c3d132",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "66",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "66",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "66",
+        "prettyDuration": "00:01:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163996129\/65381\/thumb-5fa1d7ab4ae0e754fff9730214c4696e-00002.jpg",
+        "type": "mp4",
+        "assetId": "163996129",
+        "assetTitle": "62ECD74D-ECAF-41FD-BFC7-39D450C3D132",
+        "assetTitleTextEncoded": "62ecd74d-ecaf-41fd-bfc7-39d450c3d132",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163996129",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163996129\/65381\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163996129\/65381\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163996129\/65381\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163996129\/65381\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163996129\/65381\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/163996129\/65381\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/163996129\/65381\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

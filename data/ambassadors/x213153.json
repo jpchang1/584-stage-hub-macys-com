@@ -1,0 +1,21 @@
+{
+    "id": "213153",
+    "first_name": "Aaron",
+    "last_name": "Mestemaker",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/603848007-0.2107021437957.jpg",
+        "job_title": "Executive Trainee"
+    },
+    "last_login_timestamp": "1527089939",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 22:52:46",
+    "login_id": "1759121",
+    "user_id": "213153",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Aaron Mestemaker",
+    "profile_picture": "\/api\/canvas\/logo\/603848007-0.2107021437957.jpg",
+    "titleTextEncoded": "aaron-mestemaker",
+    "title": "Aaron Mestemaker",
+    "videos_count": "0"
+}

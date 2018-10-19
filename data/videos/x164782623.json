@@ -1,0 +1,97 @@
+{
+    "title": "Summer OOTW - Macy's Style Crew || Olivia Philip",
+    "description": "In my Summer Outfit of the Week video I am showcasing 7 different outfits with my favorite pieces for the season! I hope you find some summer fashion inspirations through my look-book! \n\n----\nUntagged Product Web IDs:\nFree People Camo Skirt- 5798024\nSteve Madden Ankle-tie Wedges- 6351097\nRachel Roy Red Top- 6313169\nJ.O.A High-waisted Shorts- 6206295\nFree People Slip Dress- 6107033\nFree People Pearl Denim Jacket- 4875711\nVince Camuto Off the Shoulder Top- 6382499",
+    "referenceId": "9a5106e09121153bf4f001044a369c13",
+    "date_created": "1528652795",
+    "date_modified": "1528660948",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "230",
+    "engagement_score": "4",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213253",
+    "product_category": "women",
+    "id": "164782623",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "summer-ootw-macy-s-style-crew",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "212",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "212",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "212",
+        "prettyDuration": "00:03:32",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164782623\/fbc1c\/thumb-9a5106e09121153bf4f001044a369c13-00002.jpg",
+        "type": "mp4",
+        "assetId": "164782623",
+        "assetTitle": "Summer OOTW - Macy's Style Crew",
+        "assetTitleTextEncoded": "summer-ootw-macy-s-style-crew",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164782623",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164782623\/fbc1c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164782623\/fbc1c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164782623\/fbc1c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164782623\/fbc1c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164782623\/fbc1c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Aspasia variegata JULIE AND JULIA Coliseum Saat Carle Foundation Hospital Seventeen Julie and Julia Arcadia Mediatica Dressing Your Truth Wi-Fi",
+    "tvp_enhanced_transcript": null
+}

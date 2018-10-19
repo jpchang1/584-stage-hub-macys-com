@@ -1,0 +1,21 @@
+{
+    "id": "213269",
+    "first_name": "Victor",
+    "last_name": "Tapia",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/197264975-0.4735556307248.jpg",
+        "job_title": "Impulse RTW Associate"
+    },
+    "last_login_timestamp": "1526444627",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-05 02:20:17",
+    "login_id": "1759121",
+    "user_id": "213269",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Victor Tapia",
+    "profile_picture": "\/api\/canvas\/logo\/197264975-0.4735556307248.jpg",
+    "titleTextEncoded": "victor-tapia",
+    "title": "Victor Tapia",
+    "videos_count": "2"
+}

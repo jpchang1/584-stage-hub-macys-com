@@ -1,0 +1,97 @@
+{
+    "title": "Benefit Brow Tryout kits",
+    "description": "Benefit Brow Tryout kits.  Three deluxe mini brow products for $24.  Kit comes in medium or dark shades.",
+    "referenceId": "12c9d02b1444529308f51f3ef1e6af69",
+    "date_created": "1527087616",
+    "date_modified": "1527201964",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "7",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213241",
+    "product_category": "beauty",
+    "id": "163992209",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "b1239017-598a-4a80-9d84-d1777bd84036",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "9",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "9",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "9",
+        "prettyDuration": "00:00:09",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163992209\/a64d2\/thumb-12c9d02b1444529308f51f3ef1e6af69-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/163992209\/a64d2\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/163992209\/a64d2\/media.m3u8",
+        "assetId": 163992209,
+        "assetTitle": "B1239017-598A-4A80-9D84-D1777BD84036",
+        "assetTitleTextEncoded": "b1239017-598a-4a80-9d84-d1777bd84036",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 163992209,
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163992209\/a64d2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163992209\/a64d2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163992209\/a64d2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163992209\/a64d2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163992209\/a64d2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

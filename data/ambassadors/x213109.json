@@ -1,0 +1,21 @@
+{
+    "id": "213109",
+    "first_name": "Laura",
+    "last_name": "Sanchez",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/162785387-0.8780462844297.jpg",
+        "job_title": "Wedding and Gift Registry Advisor"
+    },
+    "last_login_timestamp": "1528728547",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 20:42:27",
+    "login_id": "1759121",
+    "user_id": "213109",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Laura Sanchez",
+    "profile_picture": "\/api\/canvas\/logo\/162785387-0.8780462844297.jpg",
+    "titleTextEncoded": "laura-sanchez",
+    "title": "Laura Sanchez",
+    "videos_count": "2"
+}

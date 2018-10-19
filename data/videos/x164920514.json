@@ -1,0 +1,95 @@
+{
+    "title": "Love you dad",
+    "description": "Polo Ralph Lauren",
+    "referenceId": "88a7fe0b65ded80307c95f81ac02398b",
+    "date_created": "1529100416",
+    "date_modified": "1529102483",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213364",
+    "product_category": "men",
+    "id": "164920514",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "quik-20180615-150504",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "78",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "78",
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": "78",
+        "prettyDuration": "00:01:18",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/819814155-1529102482.jpg",
+        "type": "mp4",
+        "assetId": "164920514",
+        "assetTitle": "QUIK_20180615_150504",
+        "assetTitleTextEncoded": "quik-20180615-150504",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164920514",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164920514\/59a89\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164920514\/59a89\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164920514\/59a89\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164920514\/59a89\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164920514\/59a89\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Ralph Lauren Corporation Lauren Ralph Lauren Macy's",
+    "tvp_enhanced_transcript": null
+}

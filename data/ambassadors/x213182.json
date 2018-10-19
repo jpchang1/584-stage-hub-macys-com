@@ -1,0 +1,21 @@
+{
+    "id": "213182",
+    "first_name": "Nikky",
+    "last_name": "Julian",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/614242591-0.9373033931944.jpg",
+        "job_title": "Shop Captain"
+    },
+    "last_login_timestamp": "1528924996",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 02:54:45",
+    "login_id": "1759121",
+    "user_id": "213182",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Nikky Julian",
+    "profile_picture": "\/api\/canvas\/logo\/614242591-0.9373033931944.jpg",
+    "titleTextEncoded": "nikky-julian",
+    "title": "Nikky Julian",
+    "videos_count": "1"
+}

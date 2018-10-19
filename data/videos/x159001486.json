@@ -1,0 +1,93 @@
+{
+    "title": "Happy Halloween from Betsey Johnson",
+    "description": "Stop motion a creative way to show jewelry.",
+    "referenceId": "96586a5b9b48b2405fa1c003a075de04",
+    "date_created": "1523642623",
+    "date_modified": "1524502503",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "0",
+    "product_category": null,
+    "id": "159001486",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "Happy-Halloween-from-Betsey-Johnson",
+    "category": "",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "48",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "48",
+            "width": 720,
+            "height": 480
+        },
+        "mediaDuration": "48",
+        "prettyDuration": "00:00:48",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/647425265-1524502503.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/159001486\/d7605\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/159001486\/d7605\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159001486\/d7605\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159001486\/d7605\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159001486\/d7605\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159001486\/d7605\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 540,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/159001486\/d7605\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 214
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

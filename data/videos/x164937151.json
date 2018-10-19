@@ -1,0 +1,95 @@
+{
+    "title": "Jacqueline Palmer\/Social dressing",
+    "description": "looking for the perfect dress for the next summer social event? Check out these fashion ideas from Macy\u2019s! #macysstylecrew #events #summer #fashion #trend #style #michealkors #calvinklien #natica #macysmystylist",
+    "referenceId": "71bdd997613f9d65b5fb02a3274432db",
+    "date_created": "1529331063",
+    "date_modified": "1529355493",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "0",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": "women",
+    "id": "164937151",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "8fc66ac2-e0af-4a87-902f-6f4e08a21194",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "44",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "44",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "44",
+        "prettyDuration": "00:00:44",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/956923030-1529339272.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "assetId": "164937151",
+        "assetTitle": "Social Dressing",
+        "assetTitleTextEncoded": "8fc66ac2-e0af-4a87-902f-6f4e08a21194",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164937151",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164937151\/18c02\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164937151\/18c02\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164937151\/18c02\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164937151\/18c02\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164937151\/18c02\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Perfect Slim Ali Ocakba?? Miles Printing Condition Culture Landscape of a Dream; invitation Macy's Delinero Morning (2010) Solairedirect Hammer Cardinal Group Management",
+    "tvp_enhanced_transcript": null
+}

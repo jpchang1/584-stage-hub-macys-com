@@ -1,0 +1,21 @@
+{
+    "id": "213145",
+    "first_name": "Antoinette",
+    "last_name": "Evans",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/576392009-0.6583544288761.jpg",
+        "job_title": "Macy's MyStylist"
+    },
+    "last_login_timestamp": "1528737164",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 22:06:13",
+    "login_id": "1759121",
+    "user_id": "213145",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Antoinette Evans",
+    "profile_picture": "\/api\/canvas\/logo\/576392009-0.6583544288761.jpg",
+    "titleTextEncoded": "antoinette-evans",
+    "title": "Antoinette Evans",
+    "videos_count": "4"
+}

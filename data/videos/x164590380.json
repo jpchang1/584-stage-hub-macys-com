@@ -1,0 +1,93 @@
+{
+    "title": "Jessica Howard pink lace",
+    "description": "Pink lace dress by Jessica Howard\nMichael Kors Handbag\nAlfani Step Flex Shoe",
+    "referenceId": "2a1d2a8033a1884045419920bff29dca",
+    "date_created": "1527357905",
+    "date_modified": "1527361574",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "33",
+    "engagement_score": "7",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213303",
+    "product_category": "women",
+    "id": "164590380",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "2d1e3def-5c6d-428d-a1d4-59fe4db27c38",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "20",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "20",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "20",
+        "prettyDuration": "00:00:20",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164590380\/84f98\/thumb-2a1d2a8033a1884045419920bff29dca-00002.jpg",
+        "type": "mp4",
+        "assetId": "164590380",
+        "assetTitle": "Jessica Howard pink lace",
+        "assetTitleTextEncoded": "2d1e3def-5c6d-428d-a1d4-59fe4db27c38",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164590380",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164590380\/84f98\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164590380\/84f98\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164590380\/84f98\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164590380\/84f98\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164590380\/84f98\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

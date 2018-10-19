@@ -1,0 +1,21 @@
+{
+    "id": "213305",
+    "first_name": "Darius",
+    "last_name": "Reeves",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Visual Lead"
+    },
+    "last_login_timestamp": "1525722708",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-07 14:02:19",
+    "login_id": "1759121",
+    "user_id": "213305",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Darius Reeves",
+    "profile_picture": null,
+    "titleTextEncoded": "darius-reeves",
+    "title": "Darius Reeves",
+    "videos_count": "0"
+}

@@ -1,0 +1,97 @@
+{
+    "title": "Weekend Warrior!",
+    "description": "Just because it is the weekend doesn't mean we can't be stylish! Check out Michael's top weekend looks currently at Macy's!",
+    "referenceId": "058cf0ebe5de99912187e724613e04e6",
+    "date_created": "1526438417",
+    "date_modified": "1526438743",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "99",
+    "engagement_score": "12",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213126",
+    "product_category": "women",
+    "id": "163929128",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "mic12-weekendwarrior",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "134",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "134",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "134",
+        "prettyDuration": "00:02:14",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163929128\/0e137\/thumb-058cf0ebe5de99912187e724613e04e6-00002.jpg",
+        "type": "mp4",
+        "assetId": "163929128",
+        "assetTitle": "MIC12 WeekendWarrior",
+        "assetTitleTextEncoded": "mic12-weekendwarrior",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163929128",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163929128\/0e137\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163929128\/0e137\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163929128\/0e137\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163929128\/0e137\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163929128\/0e137\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

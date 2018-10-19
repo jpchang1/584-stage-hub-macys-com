@@ -1,0 +1,21 @@
+{
+    "id": "213149",
+    "first_name": "Darious",
+    "last_name": "Zagon",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/298784708-0.3469016711693.jpg",
+        "job_title": "Beauty advisor "
+    },
+    "last_login_timestamp": "1528377548",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 22:18:25",
+    "login_id": "1759121",
+    "user_id": "213149",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Darious Zagon",
+    "profile_picture": "\/api\/canvas\/logo\/298784708-0.3469016711693.jpg",
+    "titleTextEncoded": "darious-zagon",
+    "title": "Darious Zagon",
+    "videos_count": "1"
+}

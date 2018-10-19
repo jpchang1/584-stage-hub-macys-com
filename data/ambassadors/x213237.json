@@ -1,0 +1,21 @@
+{
+    "id": "213237",
+    "first_name": "Coral",
+    "last_name": "Carleton",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/197035590-0.7779427533503.jpg",
+        "job_title": "floor lead "
+    },
+    "last_login_timestamp": "1529364285",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 17:36:35",
+    "login_id": "1759121",
+    "user_id": "213237",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Coral Carleton",
+    "profile_picture": "\/api\/canvas\/logo\/197035590-0.7779427533503.jpg",
+    "titleTextEncoded": "coral-carleton",
+    "title": "Coral Carleton",
+    "videos_count": "1"
+}

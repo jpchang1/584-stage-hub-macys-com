@@ -1,0 +1,97 @@
+{
+    "title": "Carlos wedges",
+    "description": "Wedges for Spring #Dress #Wedges #Spring",
+    "referenceId": "36990c6fcde4d5173995d4d51fb72a72",
+    "date_created": "1528339002",
+    "date_modified": "1528388362",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "19",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213213",
+    "product_category": "shoes",
+    "id": "164674309",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "401f0c90-bc26-4d9f-911f-f08ef9c22123",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "18",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "18",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "18",
+        "prettyDuration": "00:00:18",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/472578906-1528388319.png",
+        "type": "mp4",
+        "assetId": "164674309",
+        "assetTitle": "401F0C90-BC26-4D9F-911F-F08EF9C22123",
+        "assetTitleTextEncoded": "401f0c90-bc26-4d9f-911f-f08ef9c22123",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164674309",
+            "li": "1759121"
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164674309\/03820\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164674309\/03820\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164674309\/03820\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164674309\/03820\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164674309\/03820\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164674309\/03820\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164674309\/03820\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's",
+    "tvp_enhanced_transcript": null
+}

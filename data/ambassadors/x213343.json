@@ -1,0 +1,21 @@
+{
+    "id": "213343",
+    "first_name": "Anat",
+    "last_name": "Ben-Shaul",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "MyStylist"
+    },
+    "last_login_timestamp": "1526005264",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-08 23:52:00",
+    "login_id": "1759121",
+    "user_id": "213343",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Anat Ben-Shaul",
+    "profile_picture": null,
+    "titleTextEncoded": "anat-ben-shaul",
+    "title": "Anat Ben-Shaul",
+    "videos_count": "0"
+}

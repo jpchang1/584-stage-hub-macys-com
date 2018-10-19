@@ -1,0 +1,88 @@
+{
+    "title": "Lot of Jewelry",
+    "description": "Check out Macy's for jewelry.",
+    "referenceId": "1cdcf703fd59111694d35584f4f7f79b",
+    "date_created": "1527059556",
+    "date_modified": "1527202306",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "9",
+    "engagement_score": "28",
+    "conversion_score": "25",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": null,
+    "id": "163992020",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "51452f0a-b334-48ea-ba0d-0588c1669dc5",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "75",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "75",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "75",
+        "prettyDuration": "00:01:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163992020\/4cdc2\/thumb-1cdcf703fd59111694d35584f4f7f79b-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/163992020\/4cdc2\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/163992020\/4cdc2\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163992020\/4cdc2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163992020\/4cdc2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163992020\/4cdc2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163992020\/4cdc2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163992020\/4cdc2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Fun and Flirty Dress!",
+    "description": "I have been loving these dresses from Bardot! They are all so feminine and girly! They are perfect for any bridal shower, baby shower, wedding, or date night!",
+    "referenceId": "563a9f0249e1eb2e971076da830e422a",
+    "date_created": "1528660308",
+    "date_modified": "1528660393",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "15",
+    "engagement_score": "4",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213222",
+    "product_category": "women",
+    "id": "164782654",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "trim-c36cc5e1-408b-4aba-b2c8-e9c4bc650101",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "6",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "6",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "6",
+        "prettyDuration": "00:00:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164782654\/0348a\/thumb-563a9f0249e1eb2e971076da830e422a-00002.jpg",
+        "type": "mp4",
+        "assetId": "164782654",
+        "assetTitle": "trim.C36CC5E1-408B-4ABA-B2C8-E9C4BC650101",
+        "assetTitleTextEncoded": "trim-c36cc5e1-408b-4aba-b2c8-e9c4bc650101",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164782654",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164782654\/0348a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164782654\/0348a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164782654\/0348a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164782654\/0348a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164782654\/0348a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

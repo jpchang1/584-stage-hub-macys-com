@@ -1,0 +1,21 @@
+{
+    "id": "213132",
+    "first_name": "JOYCE",
+    "last_name": "ANDERSON",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/429419310-0.3763678553048.jpg",
+        "job_title": "Sales associate"
+    },
+    "last_login_timestamp": "1529263899",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 21:26:03",
+    "login_id": "1759121",
+    "user_id": "213132",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "JOYCE ANDERSON",
+    "profile_picture": "\/api\/canvas\/logo\/429419310-0.3763678553048.jpg",
+    "titleTextEncoded": "joyce-anderson",
+    "title": "JOYCE ANDERSON",
+    "videos_count": "6"
+}

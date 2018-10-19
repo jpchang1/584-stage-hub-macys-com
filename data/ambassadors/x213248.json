@@ -1,0 +1,21 @@
+{
+    "id": "213248",
+    "first_name": "Christina",
+    "last_name": "Gonzalez",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/301171140-0.1440267950762.jpg",
+        "job_title": "Counter Manager for Impulse Beauty"
+    },
+    "last_login_timestamp": "1526144043",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 19:15:35",
+    "login_id": "1759121",
+    "user_id": "213248",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Christina Gonzalez",
+    "profile_picture": "\/api\/canvas\/logo\/301171140-0.1440267950762.jpg",
+    "titleTextEncoded": "christina-gonzalez",
+    "title": "Christina Gonzalez",
+    "videos_count": "0"
+}

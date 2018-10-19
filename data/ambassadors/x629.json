@@ -1,0 +1,21 @@
+{
+    "id": "629",
+    "first_name": "test",
+    "last_name": "example",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/722378112-0.3394471786450.jpg",
+        "job_title": "test"
+    },
+    "last_login_timestamp": "1527833778",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-01 16:26:05",
+    "login_id": "1759121",
+    "user_id": "629",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "test example",
+    "profile_picture": "\/api\/canvas\/logo\/722378112-0.3394471786450.jpg",
+    "titleTextEncoded": "test-example",
+    "title": "test example",
+    "videos_count": "0"
+}

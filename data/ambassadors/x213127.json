@@ -1,0 +1,21 @@
+{
+    "id": "213127",
+    "first_name": "Jonathan",
+    "last_name": "Koepke",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/855595884-0.9740013383794.jpg",
+        "job_title": "Furniture and mattress specialist"
+    },
+    "last_login_timestamp": "1529275473",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 21:14:38",
+    "login_id": "1759121",
+    "user_id": "213127",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Jonathan Koepke",
+    "profile_picture": "\/api\/canvas\/logo\/855595884-0.9740013383794.jpg",
+    "titleTextEncoded": "jonathan-koepke",
+    "title": "Jonathan Koepke",
+    "videos_count": "0"
+}

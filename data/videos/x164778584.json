@@ -1,0 +1,93 @@
+{
+    "title": "Style Crew Nikky\/One Day Only Sale 06\/09!!! 50% OFF MAC and Naked Palettes",
+    "description": "One Day Only!!! SATURDAY 06\/09 \nMAC Cosmetics In The Flesh Palette (WEB ID 4557011) 50% OFF Now: $32.50 Orig. $64\nUrban Decay Naked Flush Blush Palette (WEB ID 784340) 50% OFF Now: $17.00 Orig. $34",
+    "referenceId": "86968a4b428855b12b3fd0b6e63ba862",
+    "date_created": "1528521258",
+    "date_modified": "1528523689",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213182",
+    "product_category": "beauty",
+    "id": "164778584",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "2f241f0e-4824-4264-8b3d-9e7d4dd9f8b8",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "40",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "40",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "40",
+        "prettyDuration": "00:00:40",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164778584\/289ab\/thumb-86968a4b428855b12b3fd0b6e63ba862-00002.jpg",
+        "type": "mp4",
+        "assetId": 164778584,
+        "assetTitle": "Style Crew Nikky\/One Day Only Sale 06\/09!!! 50% OFF MAC and Naked Palettes",
+        "assetTitleTextEncoded": "2f241f0e-4824-4264-8b3d-9e7d4dd9f8b8",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 164778584,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164778584\/289ab\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164778584\/289ab\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164778584\/289ab\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164778584\/289ab\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164778584\/289ab\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Asbhoel Family Practice Associates Coldwell Banker",
+    "tvp_enhanced_transcript": null
+}

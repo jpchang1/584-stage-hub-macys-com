@@ -1,0 +1,99 @@
+{
+    "title": "Nike Try On Party",
+    "description": "My very first try on party!  I decided to try on my Nike haul for you to provide a better understanding of the fit, feel, fabric, and more of some great Nike outfits!",
+    "referenceId": "a349f3b50b65fa20ec0c796df3d64251",
+    "date_created": "1529060966",
+    "date_modified": "1529061592",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "17",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213171",
+    "product_category": "active",
+    "id": "164912987",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "8999bb52-7631-457f-8ba9-04bf8c426bf7",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": "531",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "531",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "531",
+        "prettyDuration": "00:08:51",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164912987\/d866e\/thumb-a349f3b50b65fa20ec0c796df3d64251-00002.jpg",
+        "type": "mp4",
+        "assetId": "164912987",
+        "assetTitle": "8999BB52-7631-457F-8BA9-04BF8C426BF7",
+        "assetTitleTextEncoded": "8999bb52-7631-457f-8ba9-04bf8c426bf7",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164912987",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164912987\/d866e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164912987\/d866e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164912987\/d866e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164912987\/d866e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164912987\/d866e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164912987\/d866e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164912987\/d866e\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Nike Cancer Shoebox 250X250 Nike SB Nike Air Max Swoosh",
+    "tvp_enhanced_transcript": null
+}

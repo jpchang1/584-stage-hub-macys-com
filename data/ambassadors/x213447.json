@@ -1,0 +1,21 @@
+{
+    "id": "213447",
+    "first_name": "Michael",
+    "last_name": "Brown",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/913731471-0.5548184782732.jpg",
+        "job_title": "Director of Information Security"
+    },
+    "last_login_timestamp": "1528814415",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-06-05 12:47:52",
+    "login_id": "1759121",
+    "user_id": "213447",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Michael Brown",
+    "profile_picture": "\/api\/canvas\/logo\/913731471-0.5548184782732.jpg",
+    "titleTextEncoded": "michael-brown",
+    "title": "Michael Brown",
+    "videos_count": "0"
+}

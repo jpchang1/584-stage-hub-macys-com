@@ -1,0 +1,93 @@
+{
+    "title": "Epic Threads Denim Jacket",
+    "description": "Loving this girls denim jacket from Epic Threads @macys. Perfect transition piece for this crazy weather, with on-trend ruffles...staple!",
+    "referenceId": "bdcc556020b0116c244481af2acabafb",
+    "date_created": "1525884425",
+    "date_modified": "1525885875",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "32",
+    "engagement_score": "6",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213319",
+    "product_category": "kids",
+    "id": "163856731",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "img-1923-1",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "14",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "14",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "14",
+        "prettyDuration": "00:00:14",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163856731\/e5a7f\/thumb-bdcc556020b0116c244481af2acabafb-00001.jpg",
+        "type": "mp4",
+        "assetId": "163856731",
+        "assetTitle": "Epic Threads Denim Jacket",
+        "assetTitleTextEncoded": "img-1923-1",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163856731",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163856731\/e5a7f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163856731\/e5a7f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163856731\/e5a7f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163856731\/e5a7f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163856731\/e5a7f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

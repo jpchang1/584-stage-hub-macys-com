@@ -1,0 +1,97 @@
+{
+    "title": "Smell like Heaven !",
+    "description": "Tiffany and Co. Perfume Set",
+    "referenceId": "98226dacfa91e6cea70a3502ab1818d6",
+    "date_created": "1528452960",
+    "date_modified": "1528453099",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "5",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213259",
+    "product_category": "beauty",
+    "id": "164699990",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "trim-6e266fdb-81c5-4657-8a9f-3bbf9e799a0e",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "10",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "10",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "10",
+        "prettyDuration": "00:00:10",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164699990\/f705c\/thumb-98226dacfa91e6cea70a3502ab1818d6-00002.jpg",
+        "type": "mp4",
+        "assetId": "164699990",
+        "assetTitle": "trim.6E266FDB-81C5-4657-8A9F-3BBF9E799A0E",
+        "assetTitleTextEncoded": "trim-6e266fdb-81c5-4657-8a9f-3bbf9e799a0e",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164699990",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164699990\/f705c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164699990\/f705c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164699990\/f705c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164699990\/f705c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164699990\/f705c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

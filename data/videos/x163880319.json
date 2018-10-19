@@ -1,0 +1,93 @@
+{
+    "title": "Jacqueline Holdredge Palmer\/BCBGengeration",
+    "description": "Check this great new collection! Weekend dresses, little rompers for the warm weather and the all important jumper!\n#macysstylecrew #macysstylecrewjacqueline #bcbg #rompers #jumpsuit #daydress #fashion #style #trend",
+    "referenceId": "ad1eff51688a4ce1953efd5d45e9db2b",
+    "date_created": "1526053447",
+    "date_modified": "1526053976",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "76",
+    "engagement_score": "13",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": "women",
+    "id": "163880319",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "b86898aa-c815-416f-88c1-a5f41ba8f945",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "107",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "107",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "107",
+        "prettyDuration": "00:01:47",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163880319\/0a06a\/thumb-ad1eff51688a4ce1953efd5d45e9db2b-00002.jpg",
+        "type": "mp4",
+        "assetId": "163880319",
+        "assetTitle": "B86898AA C815-416F-88C1-A5F41BA8F945",
+        "assetTitleTextEncoded": "b86898aa-c815-416f-88c1-a5f41ba8f945",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163880319",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163880319\/0a06a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163880319\/0a06a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163880319\/0a06a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163880319\/0a06a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163880319\/0a06a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

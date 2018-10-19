@@ -1,0 +1,93 @@
+{
+    "title": "Boys Athletic Apparel",
+    "description": "This video shows some boys athletic tee shirts and shorts.",
+    "referenceId": "6f9e9c7e692458750aa736843f27e19f",
+    "date_created": "1527866236",
+    "date_modified": "1527866325",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "19",
+    "engagement_score": null,
+    "conversion_score": "25",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": "kids",
+    "id": "164615807",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "1ab48c5b-695e-4149-8efc-b14c07e59ebd",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "60",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "60",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164615807\/f5162\/thumb-6f9e9c7e692458750aa736843f27e19f-00002.jpg",
+        "type": "mp4",
+        "assetId": "164615807",
+        "assetTitle": "1AB48C5B-695E-4149-8EFC-B14C07E59EBD",
+        "assetTitleTextEncoded": "1ab48c5b-695e-4149-8efc-b14c07e59ebd",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164615807",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164615807\/f5162\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164615807\/f5162\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164615807\/f5162\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164615807\/f5162\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164615807\/f5162\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2018-06-18\"},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Adidas",
+    "tvp_enhanced_transcript": null
+}

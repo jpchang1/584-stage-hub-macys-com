@@ -1,0 +1,21 @@
+{
+    "id": "213300",
+    "first_name": "Jill",
+    "last_name": "Ryland",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/148565441-0.5132817685138.jpg",
+        "job_title": "Director of plus size influence, RTW"
+    },
+    "last_login_timestamp": "1528905544",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-07 12:33:32",
+    "login_id": "1759121",
+    "user_id": "213300",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Jill Ryland",
+    "profile_picture": "\/api\/canvas\/logo\/148565441-0.5132817685138.jpg",
+    "titleTextEncoded": "jill-ryland",
+    "title": "Jill Ryland",
+    "videos_count": "6"
+}

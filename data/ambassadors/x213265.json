@@ -1,0 +1,21 @@
+{
+    "id": "213265",
+    "first_name": "Vanessa",
+    "last_name": "Gooden",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/717526650-0.5624843791592.jpg",
+        "job_title": "MyStylist@Macys"
+    },
+    "last_login_timestamp": "1525845749",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 23:51:18",
+    "login_id": "1759121",
+    "user_id": "213265",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Vanessa Gooden",
+    "profile_picture": "\/api\/canvas\/logo\/717526650-0.5624843791592.jpg",
+    "titleTextEncoded": "vanessa-gooden",
+    "title": "Vanessa Gooden",
+    "videos_count": "0"
+}

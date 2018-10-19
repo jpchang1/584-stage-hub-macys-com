@@ -1,0 +1,103 @@
+{
+    "title": "Polo Ralph Lauren Shirt Review",
+    "description": "Polo - I love polo, check out my favorite picks!",
+    "referenceId": "2f462e0c5857bf78bfe6c674ccd12ade",
+    "date_created": "1526230289",
+    "date_modified": "1528230442",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "70",
+    "engagement_score": "8",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "662",
+    "product_category": "men",
+    "id": "164632456",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "michael-libra-sneakers",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "107",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "107",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "107",
+        "prettyDuration": "00:01:47",
+        "thumbnailUrl": "\/\/v-dev.tvpage.com\/1759121\/164632456\/thumbnail\/image-thumbnail-640-61e74a02e02bb6add48a61f9638c6974.jpg",
+        "type": "mp4",
+        "assetId": "164632456",
+        "assetTitle": "Michael Libra Shirt Review",
+        "assetTitleTextEncoded": "michael-libra-sneakers",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164632456",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164632456\/c9c74\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164632456\/c9c74\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164632456\/c9c74\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164632456\/c9c74\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164632456\/c9c74\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/164632456\/c9c74\/thumb-2f462e0c5857bf78bfe6c674ccd12ade-{count}",
+        "selectableThumbnails": [
+            "\/\/v-dev.tvpage.com\/1759121\/164632456\/user-images\/image-853-b1a526fec47afc85c844019a8786082a.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v-dev.tvpage.com\/1759121\/164632456\/user-images\/image-853-b1a526fec47afc85c844019a8786082a.jpg",
+        "thumbnails": {
+            "256": "\/\/v-dev.tvpage.com\/1759121\/164632456\/thumbnail\/image-thumbnail-256-a17a57115e01419f9d47b38b614d5dd1.jpg",
+            "480": "\/\/v-dev.tvpage.com\/1759121\/164632456\/thumbnail\/image-thumbnail-480-2f690d28de575a57e550510ffbd2ebf8.jpg",
+            "640": "\/\/v-dev.tvpage.com\/1759121\/164632456\/thumbnail\/image-thumbnail-640-61e74a02e02bb6add48a61f9638c6974.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

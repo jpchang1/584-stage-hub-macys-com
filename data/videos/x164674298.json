@@ -1,0 +1,95 @@
+{
+    "title": "Summer Sandals",
+    "description": "The Biggest Shoe Sale of the Season\u2014 Buy 1 pair 30% off, Buy 2 or more pairs 40% off",
+    "referenceId": "7d7baece61de87e11277f1077486123d",
+    "date_created": "1528336206",
+    "date_modified": "1528338107",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "30",
+    "engagement_score": "4",
+    "conversion_score": "25",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213341",
+    "product_category": "shoes",
+    "id": "164674298",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "5f479f38-c9aa-4044-9398-8683cdcaba72",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "5",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "5",
+            "width": 272,
+            "height": 480
+        },
+        "mediaDuration": "5",
+        "prettyDuration": "00:00:05",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164674298\/32772\/thumb-7d7baece61de87e11277f1077486123d-00002.jpg",
+        "type": "mp4",
+        "assetId": "164674298",
+        "assetTitle": "Summer Sandals",
+        "assetTitleTextEncoded": "5f479f38-c9aa-4044-9398-8683cdcaba72",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164674298",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164674298\/32772\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164674298\/32772\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164674298\/32772\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164674298\/32772\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 204,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164674298\/32772\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164674298\/32772\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164674298\/32772\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

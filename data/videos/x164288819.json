@@ -1,0 +1,97 @@
+{
+    "title": "Just A Taste of Fashion - Madison Square Park",
+    "description": "Check it out! My first Macy's Style Crew video is finally up! Went for a quick stroll to enjoy the beautiful day.",
+    "referenceId": "7a9666faedfc54d7c1311cbebe860a96",
+    "date_created": "1527208066",
+    "date_modified": "1527622314",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "90",
+    "engagement_score": "14",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213245",
+    "product_category": "women",
+    "id": "164288819",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "alfani-5-24",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "18",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "18",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "18",
+        "prettyDuration": "00:00:18",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164288819\/37bb2\/thumb-7a9666faedfc54d7c1311cbebe860a96-00002.jpg",
+        "type": "mp4",
+        "assetId": "164288819",
+        "assetTitle": "Just A Taste of Fashion - Madison Square Park",
+        "assetTitleTextEncoded": "alfani-5-24",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164288819",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164288819\/37bb2\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164288819\/37bb2\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164288819\/37bb2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164288819\/37bb2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164288819\/37bb2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164288819\/37bb2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164288819\/37bb2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

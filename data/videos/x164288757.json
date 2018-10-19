@@ -1,0 +1,95 @@
+{
+    "title": "I.N.C. Statement Earrings",
+    "description": "Stock up on your statement earrings for summer!!",
+    "referenceId": "a68b4cee42239919b4c079986b45bf34",
+    "date_created": "1527205540",
+    "date_modified": "1527205688",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "87",
+    "engagement_score": "10",
+    "conversion_score": "50",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213203",
+    "product_category": "jewelry",
+    "id": "164288757",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "statement-earring",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "159",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "159",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "159",
+        "prettyDuration": "00:02:39",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164288757\/21736\/thumb-a68b4cee42239919b4c079986b45bf34-00002.jpg",
+        "type": "mp4",
+        "assetId": 164288757,
+        "assetTitle": "Statement Earring",
+        "assetTitleTextEncoded": "statement-earring",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 164288757,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164288757\/21736\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164288757\/21736\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164288757\/21736\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164288757\/21736\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164288757\/21736\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164288757\/21736\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164288757\/21736\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "A Style CPE Exam Danza Folklorica",
+    "tvp_enhanced_transcript": null
+}

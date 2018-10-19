@@ -1,0 +1,101 @@
+{
+    "title": "Tropical-Print-whitewash-short",
+    "description": "A Kenneth Cole short sleeve Tropical Print shirt paired with a white wash Levi short and a white Cole Haan sneakers.",
+    "referenceId": "e0b9519697b9aed415fade87fe1e3ecd",
+    "date_created": "1528160976",
+    "date_modified": "1528232210",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "24",
+    "engagement_score": "3",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213381",
+    "product_category": "men",
+    "id": "164631021",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "1a44f5c8-09bc-4fee-a839-66b1dd1bbcdb",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "39",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "39",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "39",
+        "prettyDuration": "00:00:39",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/825970118-1528232209.png",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164631021\/45e3f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164631021\/45e3f\/media.m3u8",
+        "assetId": "164631021",
+        "assetTitle": "Tropical-Print-whitewash-short",
+        "assetTitleTextEncoded": "1a44f5c8-09bc-4fee-a839-66b1dd1bbcdb",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164631021",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164631021\/45e3f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164631021\/45e3f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164631021\/45e3f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164631021\/45e3f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164631021\/45e3f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Hibiscus Macy's",
+    "tvp_enhanced_transcript": null
+}

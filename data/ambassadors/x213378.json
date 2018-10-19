@@ -1,0 +1,21 @@
+{
+    "id": "213378",
+    "first_name": "Lisa",
+    "last_name": "Bueker",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Beauty Advisor"
+    },
+    "last_login_timestamp": "1527205988",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-13 23:59:39",
+    "login_id": "1759121",
+    "user_id": "213378",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Lisa Bueker",
+    "profile_picture": null,
+    "titleTextEncoded": "lisa-bueker",
+    "title": "Lisa Bueker",
+    "videos_count": "0"
+}

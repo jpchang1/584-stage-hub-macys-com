@@ -1,0 +1,95 @@
+{
+    "title": "Fashion vs Style",
+    "description": "#fashion #style #dkny #shoeoftheday #ootd #bandana #summer #macysstylecrew #macysmystylist",
+    "referenceId": "de7b89356796da2ccf943ae014dfe226",
+    "date_created": "1527026573",
+    "date_modified": "1527203353",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "64",
+    "engagement_score": "8",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213111",
+    "product_category": "women",
+    "id": "163988219",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "lyd12-stylevsfashion",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "130",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "130",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "130",
+        "prettyDuration": "00:02:10",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/151598391-1527203352.jpg",
+        "type": "mp4",
+        "assetId": "163988219",
+        "assetTitle": "Fashion vs Style",
+        "assetTitleTextEncoded": "lyd12-stylevsfashion",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163988219",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163988219\/58b09\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163988219\/58b09\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163988219\/58b09\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163988219\/58b09\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163988219\/58b09\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's",
+    "tvp_enhanced_transcript": null
+}

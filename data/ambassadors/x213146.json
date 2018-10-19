@@ -1,0 +1,21 @@
+{
+    "id": "213146",
+    "first_name": "Peter",
+    "last_name": "Hartford-Walters",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/292056893-0.1666716774459.jpg",
+        "job_title": "Lead Visual Stylist "
+    },
+    "last_login_timestamp": "1529329674",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 22:11:35",
+    "login_id": "1759121",
+    "user_id": "213146",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Peter Hartford-Walters",
+    "profile_picture": "\/api\/canvas\/logo\/292056893-0.1666716774459.jpg",
+    "titleTextEncoded": "peter-hartford-walters",
+    "title": "Peter Hartford-Walters",
+    "videos_count": "3"
+}

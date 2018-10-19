@@ -1,0 +1,21 @@
+{
+    "id": "213247",
+    "first_name": "Jonathan",
+    "last_name": "Carriaga",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/358785106-0.7134072927758.jpg",
+        "job_title": "Executive Stylist"
+    },
+    "last_login_timestamp": "1529045573",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 19:11:21",
+    "login_id": "1759121",
+    "user_id": "213247",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Jonathan Carriaga",
+    "profile_picture": "\/api\/canvas\/logo\/358785106-0.7134072927758.jpg",
+    "titleTextEncoded": "jonathan-carriaga",
+    "title": "Jonathan Carriaga",
+    "videos_count": "1"
+}

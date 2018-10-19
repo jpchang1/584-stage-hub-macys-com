@@ -1,0 +1,95 @@
+{
+    "title": "Vince Camuto Dress",
+    "description": "Floral-Print Chiffon Ruffle Maxi Dress",
+    "referenceId": "2a97e1d2b189983d27339dd5e2677548",
+    "date_created": "1528678437",
+    "date_modified": "1528681267",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1",
+    "engagement_score": "4",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213184",
+    "product_category": "women",
+    "id": "164782965",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "42524523-1d29-4491-8bb8-603c23ef5b09",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "3",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "3",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "3",
+        "prettyDuration": "00:00:03",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164782965\/61059\/thumb-2a97e1d2b189983d27339dd5e2677548-00002.jpg",
+        "type": "mp4",
+        "assetId": "164782965",
+        "assetTitle": "42524523-1D29-4491-8BB8-603C23EF5B09",
+        "assetTitleTextEncoded": "42524523-1d29-4491-8bb8-603c23ef5b09",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164782965",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164782965\/61059\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164782965\/61059\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164782965\/61059\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164782965\/61059\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164782965\/61059\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164782965\/61059\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164782965\/61059\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

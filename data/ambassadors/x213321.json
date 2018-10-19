@@ -1,0 +1,21 @@
+{
+    "id": "213321",
+    "first_name": "Liz",
+    "last_name": "Pepin",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/735941407-0.3013981963973.jpg",
+        "job_title": "Visual Fashion Stylist"
+    },
+    "last_login_timestamp": "1527866371",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-07 20:21:21",
+    "login_id": "1759121",
+    "user_id": "213321",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Liz Pepin",
+    "profile_picture": "\/api\/canvas\/logo\/735941407-0.3013981963973.jpg",
+    "titleTextEncoded": "liz-pepin",
+    "title": "Liz Pepin",
+    "videos_count": "0"
+}

@@ -1,0 +1,95 @@
+{
+    "title": "Introducing Antoinette",
+    "description": "Everything that is meant for you will manifest itself! #proudmoment Top Secret, No More, It's official!! I am one of the newest members of #macysstylecrew ",
+    "referenceId": "8a0d74fe0d96a4ddd11e6514fdc10bcf",
+    "date_created": "1526430886",
+    "date_modified": "1526432299",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "47",
+    "engagement_score": "6",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213145",
+    "product_category": "shoes",
+    "id": "163926125",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "introducing-fanci",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "128",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "128",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "128",
+        "prettyDuration": "00:02:08",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163926125\/032f6\/thumb-8a0d74fe0d96a4ddd11e6514fdc10bcf-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/163926125\/032f6\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/163926125\/032f6\/media.m3u8",
+        "assetId": "163926125",
+        "assetTitle": "Introducing Fanci",
+        "assetTitleTextEncoded": "introducing-fanci",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163926125",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163926125\/032f6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163926125\/032f6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163926125\/032f6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163926125\/032f6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163926125\/032f6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,93 @@
+{
+    "title": "INC Mega Polka Dot Peplum Top",
+    "description": "I love a top that\u2019s both fashionable and comfortable. This one fits the bill! I\u2019m obsessed with the fit!",
+    "referenceId": "c2a8c889409f06a287c31269edf0ce8d",
+    "date_created": "1526563445",
+    "date_modified": "1526563556",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "54",
+    "engagement_score": "13",
+    "conversion_score": "50",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213203",
+    "product_category": "women",
+    "id": "163943910",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "afe30b56-d914-40df-87e5-49fdfaa0a026",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "22",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "22",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "22",
+        "prettyDuration": "00:00:22",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163943910\/433bb\/thumb-c2a8c889409f06a287c31269edf0ce8d-00001.jpg",
+        "type": "mp4",
+        "assetId": "163943910",
+        "assetTitle": "AFE30B56 D914-40DF-87E5-49FDFAA0A026",
+        "assetTitleTextEncoded": "afe30b56-d914-40df-87e5-49fdfaa0a026",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163943910",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163943910\/433bb\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163943910\/433bb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163943910\/433bb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163943910\/433bb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163943910\/433bb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

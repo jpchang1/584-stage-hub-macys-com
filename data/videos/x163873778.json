@@ -1,0 +1,86 @@
+{
+    "title": "Joy",
+    "description": "When you know the outfit is just right for you, that you flip your hair with joy",
+    "referenceId": "5eaafc4d60c5828fec39128f8a137455",
+    "date_created": "1525979739",
+    "date_modified": "1526403417",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "17",
+    "engagement_score": "3",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213226",
+    "product_category": null,
+    "id": "163873778",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "vid-30640223-202951-038",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "6",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "6",
+            "width": 720,
+            "height": 900
+        },
+        "mediaDuration": "6",
+        "prettyDuration": "00:00:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163873778\/acb6a\/thumb-5eaafc4d60c5828fec39128f8a137455-00001.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163873778\/acb6a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 900
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163873778\/acb6a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 576,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163873778\/acb6a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163873778\/acb6a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 288,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163873778\/acb6a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

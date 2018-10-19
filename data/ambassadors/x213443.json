@@ -1,0 +1,21 @@
+{
+    "id": "213443",
+    "first_name": "Jayce",
+    "last_name": "Reese",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Associate Product Manager"
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2018-06-04 20:30:31",
+    "login_id": "1759121",
+    "user_id": "213443",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Jayce Reese",
+    "profile_picture": null,
+    "titleTextEncoded": "jayce-reese",
+    "title": "Jayce Reese",
+    "videos_count": "0"
+}

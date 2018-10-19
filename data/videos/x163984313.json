@@ -1,0 +1,97 @@
+{
+    "title": "Rainy Spring Day Outfit",
+    "description": "This outfit is lightweight enough for spring but still super stylish!",
+    "referenceId": "414e330f8d0f68e064e02e6b5e487629",
+    "date_created": "1526935122",
+    "date_modified": "1527294574",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "78",
+    "engagement_score": "9",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213222",
+    "product_category": "women",
+    "id": "163984313",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "trim-cdc2985a-5bb1-4d2e-a511-257bb5a239bb",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "27",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "27",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "27",
+        "prettyDuration": "00:00:27",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/266966986-1527294573.jpg",
+        "type": "mp4",
+        "assetId": "163984313",
+        "assetTitle": "Rainy Spring Day Outfit",
+        "assetTitleTextEncoded": "trim-cdc2985a-5bb1-4d2e-a511-257bb5a239bb",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163984313",
+            "li": "1759121"
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/163984313\/de1d7\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/163984313\/de1d7\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163984313\/de1d7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163984313\/de1d7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163984313\/de1d7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163984313\/de1d7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163984313\/de1d7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "CBS Studio Center",
+    "tvp_enhanced_transcript": null
+}

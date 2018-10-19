@@ -1,0 +1,21 @@
+{
+    "id": "213259",
+    "first_name": "Angelica",
+    "last_name": "Groce",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/661485401-0.8054415484890.jpg",
+        "job_title": "Visual"
+    },
+    "last_login_timestamp": "1529076345",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 22:36:23",
+    "login_id": "1759121",
+    "user_id": "213259",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Angelica Groce",
+    "profile_picture": "\/api\/canvas\/logo\/661485401-0.8054415484890.jpg",
+    "titleTextEncoded": "angelica-groce",
+    "title": "Angelica Groce",
+    "videos_count": "3"
+}

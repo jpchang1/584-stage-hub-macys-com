@@ -1,0 +1,101 @@
+{
+    "title": "Advanced Night Repair Synchronized Recovery Complex II Serum",
+    "description": "Advanced Night Repair- The #1 Serum for Everyone!! This amazing night serum helps to reduce premature signs of aging, fights pollutants, and provides youthful and radiant skin. Hyaluronic Acid, a key ingredient, also helps to lock in moisture to the skin for a more hydrated and radiant look.",
+    "referenceId": "41404a4d3442c5857274df0da71ff5a4",
+    "date_created": "1529021477",
+    "date_modified": "1529022845",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "4",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213442",
+    "product_category": "beauty",
+    "id": "164908927",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "ae478870-c366-47ea-9467-f9671977e756",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "5",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "5",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "5",
+        "prettyDuration": "00:00:05",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164908927\/7851b\/thumb-41404a4d3442c5857274df0da71ff5a4-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "assetId": "164908927",
+        "assetTitle": "Apply before Sleep",
+        "assetTitleTextEncoded": "ae478870-c366-47ea-9467-f9671977e756",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164908927",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164908927\/7851b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164908927\/7851b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164908927\/7851b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164908927\/7851b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164908927\/7851b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164908927\/7851b\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164908927\/7851b\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

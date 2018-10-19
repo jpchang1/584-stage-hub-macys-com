@@ -1,0 +1,93 @@
+{
+    "title": "Pajama Ideas for Mothers Day",
+    "description": "This clip has three pajama sets. One set is Ralph Lauren, the other two sets are Charter Club.",
+    "referenceId": "4971392f73ca0b8a8f35d465f53ee30c",
+    "date_created": "1526007547",
+    "date_modified": "1526007747",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "21",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": "women",
+    "id": "163879489",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "1080p",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "12",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "12",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "12",
+        "prettyDuration": "00:00:12",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163879489\/5eef6\/thumb-4971392f73ca0b8a8f35d465f53ee30c-00001.jpg",
+        "type": "mp4",
+        "assetId": "163879489",
+        "assetTitle": "Pajama Ideas for Mothers Day",
+        "assetTitleTextEncoded": "1080p",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163879489",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163879489\/5eef6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163879489\/5eef6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163879489\/5eef6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163879489\/5eef6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163879489\/5eef6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,21 @@
+{
+    "id": "628",
+    "first_name": "Joe",
+    "last_name": "Smith",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/111258400-0.2437033926602.jpg",
+        "job_title": "Tester"
+    },
+    "last_login_timestamp": "1525307217",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-01 16:23:36",
+    "login_id": "1759121",
+    "user_id": "628",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Joe Smith",
+    "profile_picture": "\/api\/canvas\/logo\/111258400-0.2437033926602.jpg",
+    "titleTextEncoded": "joe-smith",
+    "title": "Joe Smith",
+    "videos_count": "0"
+}

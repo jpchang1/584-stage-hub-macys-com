@@ -1,0 +1,97 @@
+{
+    "title": "Dress Selfie",
+    "description": "BAR III DRESS",
+    "referenceId": "7cd41ce814c1930ab6c1656c0448878e",
+    "date_created": "1526703034",
+    "date_modified": "1526942500",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "31",
+    "engagement_score": "3",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213213",
+    "product_category": "women",
+    "id": "163966215",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "a7f416ef-d747-49ab-9193-62fe51276a73",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "47",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "47",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "47",
+        "prettyDuration": "00:00:47",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/252294182-1526942500.jpg",
+        "type": "mp4",
+        "assetId": 163966215,
+        "assetTitle": "A7F416EF-D747-49AB-9193-62FE51276A73",
+        "assetTitleTextEncoded": "a7f416ef-d747-49ab-9193-62fe51276a73",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 163966215,
+            "li": "1759121"
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/163966215\/9f50e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/163966215\/9f50e\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163966215\/9f50e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163966215\/9f50e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163966215\/9f50e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163966215\/9f50e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163966215\/9f50e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

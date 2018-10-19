@@ -1,0 +1,21 @@
+{
+    "id": "213158",
+    "first_name": "Brandy",
+    "last_name": "Companion",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/941416639-0.3087070588022.jpg",
+        "job_title": "Executive Stylist"
+    },
+    "last_login_timestamp": "1527363727",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 23:36:53",
+    "login_id": "1759121",
+    "user_id": "213158",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Brandy Companion",
+    "profile_picture": "\/api\/canvas\/logo\/941416639-0.3087070588022.jpg",
+    "titleTextEncoded": "brandy-companion",
+    "title": "Brandy Companion",
+    "videos_count": "0"
+}

@@ -1,0 +1,88 @@
+{
+    "title": "Decorate your dorm in style",
+    "description": "",
+    "referenceId": "e66d71b1bd761f854a1913f3e0e8a792",
+    "date_created": "1527613462",
+    "date_modified": "1527696900",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "30",
+    "engagement_score": "4",
+    "conversion_score": "25",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213213",
+    "product_category": null,
+    "id": "164599193",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "7b323049-b2dd-4cba-924f-ff590fb962c7",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "38",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "38",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "38",
+        "prettyDuration": "00:00:38",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164599193\/c4880\/thumb-e66d71b1bd761f854a1913f3e0e8a792-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164599193\/c4880\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164599193\/c4880\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164599193\/c4880\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164599193\/c4880\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164599193\/c4880\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164599193\/c4880\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164599193\/c4880\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Ohio State Buckeyes football",
+    "tvp_enhanced_transcript": null
+}

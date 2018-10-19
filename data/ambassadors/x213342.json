@@ -1,0 +1,21 @@
+{
+    "id": "213342",
+    "first_name": "Bob",
+    "last_name": "Bobberson",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Bobbing for Apples"
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-08 23:10:45",
+    "login_id": "1759121",
+    "user_id": "213342",
+    "role_id": "2",
+    "status": "1",
+    "fullName": "Bob Bobberson",
+    "profile_picture": null,
+    "titleTextEncoded": "bob-bobberson",
+    "title": "Bob Bobberson",
+    "videos_count": "0"
+}

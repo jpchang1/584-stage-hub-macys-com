@@ -1,0 +1,86 @@
+{
+    "title": "Makeup  Savings",
+    "description": "Every women wants to save money when buying makeup.",
+    "referenceId": "b1c784aabf9e1f3320f3489f476eadb3",
+    "date_created": "1526686570",
+    "date_modified": "1526944102",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "51",
+    "engagement_score": "5",
+    "conversion_score": "25",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213241",
+    "product_category": null,
+    "id": "163964940",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "0b54f0f4-b1df-4c74-95c0-5548d932d590",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "15",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "15",
+            "width": 320,
+            "height": 568
+        },
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163964940\/2e1bd\/thumb-b1c784aabf9e1f3320f3489f476eadb3-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163964940\/2e1bd\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 568
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163964940\/2e1bd\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 568
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163964940\/2e1bd\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163964940\/2e1bd\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163964940\/2e1bd\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-06-16\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-06-18\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}
