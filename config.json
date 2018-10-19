@@ -1,0 +1,16 @@
+{
+    "title": "ENV Stage Macys' HUB",
+    "baseURL": "https:\/\/stage-hub.macys.com\/style-crew",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "defaultContentLanguage": "none",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759121",
+        "subfolder": "\/style-crew",
+        "firstpartycookies": true,
+        "cookiedomain": "macys.com"
+    }
+}
