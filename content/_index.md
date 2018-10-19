@@ -1,6 +1,6 @@
 {
     "type": "captivate",
     "layout": "home",
-    "url": "\/\/style-crew",
+    "url": "\/style-crew",
     "description": ""
 }
