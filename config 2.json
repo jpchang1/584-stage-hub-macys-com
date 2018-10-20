@@ -1,6 +1,6 @@
 {
-    "title": "ENV Stage Macys' HUB",
-    "baseURL": "https:\/\/stage-hub.macys.com\/style-crew",
+    "title": "Macys Style Crew",
+    "baseURL": "https:\/\/www.macys.com\/style-crew",
     "languageCode": "en-us",
     "theme": "tvpage",
     "defaultContentLanguage": "none",
@@ -12,6 +12,8 @@
         "subfolder": "\/style-crew",
         "firstpartycookies": true,
         "cookiedomain": "macys.com",
+        "reservedContent": "terms.md,signin.md,support.md",
+        "description": "Macy's has the latest fashion brands on Women's and Men's Clothing, Accessories, Jewelry, Beauty, Shoes and Home Products.",
         "tvppages": {
             "macysHostLink": {
                 "for": "macys",

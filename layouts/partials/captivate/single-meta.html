@@ -1,0 +1,66 @@
+{{- $.Scratch.Set "siteDescription" (.Params.description | default .Site.Params.description) -}}
+{{- $.Scratch.Set "siteTitle" (printf "%s - %s" .Title .Site.Title ) -}}
+{{- if eq .Layout "home" -}}
+	{{- $.Scratch.Add "metaImg" ( "images/macysLogo.gif" | absURL ) -}}
+	{{- $.Scratch.Set "siteDescription" .Site.Params.description -}}
+	{{- $.Scratch.Set "siteTitle" .Site.Title -}}
+{{- else if eq .Layout "channel" -}}
+	{{- $.Scratch.Add "metaImg" ( "images/macysLogo.gif" | absURL ) -}}
+{{- else if eq .Layout "ambassador" -}}
+	{{- $ambassador := index $.Site.Data.ambassadors (printf "x%s" .Params.id ) -}}
+	{{- $ambassadorPhoto := printf "https://api.tvpage.com%s" $ambassador.profile_picture -}}
+	{{- $.Scratch.Add "metaImg" $ambassadorPhoto -}}
+{{- else if eq .Layout "photo" -}}
+{{ $photo := index $.Site.Data.photos (printf "x%s" .Params.photoid ) }}
+{{ with $photo.assets }}
+    {{ with .thumbnails }}
+        {{ if (gt (len .) 0) }}
+            {{- $.Scratch.Add "metaImg" (index . 0).url -}}
+        {{ end }}
+    {{ end }}
+{{ end }}
+{{- else if or (eq .Layout "channelVideo") (eq .Layout "video") -}}
+	{{- $video := index $.Site.Data.videos (printf "x%s" .Params.videoid ) -}}
+	{{- if and (isset $video "asset") (isset $video.asset "thumbnailUrl") -}}
+		{{- if in $video.asset.thumbnailUrl "http" -}}
+			{{- $.Scratch.Add "metaImg" $video.asset.thumbnailUrl -}}
+		{{- else -}}
+			{{- $thumbnailUrl := printf "https:%s" $video.asset.thumbnailUrl -}}
+			{{- $.Scratch.Add "metaImg" $thumbnailUrl -}}
+		{{- end -}}
+	{{- end -}}
+{{- end -}}
+{{- if ($.Scratch.Get "siteDescription") -}}
+	{{- $original := ($.Scratch.Get "siteDescription") -}}
+	{{- $.Scratch.Set "siteDescription" (truncate 160 $original) -}}
+{{- end -}}
+<meta charset="utf-8">
+
+<link rel="icon" href="{{- relURL "favicon/favicon.ico" -}}" type="image/x-icon">
+<link rel="shortcut icon" href="{{- relURL "favicon/favicon.ico" -}}" type="image/x-icon">
+
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+{{- .Hugo.Generator -}}
+<link rel="canonical" href="{{ .Permalink }}">
+<meta name="description" content="{{ replaceRE "\n" "" ( $.Scratch.Get "siteDescription" | default .Summary) }}">
+<meta property="og:url"                content="{{ .Permalink }}" />
+<meta property="og:type"               content="website" />
+<meta property="og:title"              content='{{- $.Scratch.Get "siteTitle" -}}' />
+<meta property="og:image"              content="{{ $.Scratch.Get "metaImg" }}" />
+<meta property="og:image:width" 			   content="854" />
+<meta property="og:image:height" 			   content="480" />
+<meta property="og:image:alt" 			   content="{{ .Site.Title }}" />
+{{- if or (eq .Layout "channelVideo") (eq .Layout "video") -}}
+	<meta name="twitter:card" content="summary_large_image" />
+{{- else -}}
+	<meta name="twitter:card" content="summary_large_image">
+{{- end -}}
+<meta name="twitter:url" content="{{ .Permalink }}">
+<meta name="twitter:title" content="{{- $.Scratch.Get "siteTitle" -}}">
+<meta name="twitter:description" content="{{ replaceRE "\n" "" ( $.Scratch.Get "siteDescription" | default .Summary) }}">
+<meta name="twitter:image" content="{{ $.Scratch.Get "metaImg" }}">
+<link rel="dns-prefetch" href="https://cdnjs.tvpage.com">
+<link rel="dns-prefetch" href="https://api.tvpage.com">
+{{ partial (printf "%s/structure-data.html" .Type) . }}
+
+<title>{{- $.Scratch.Get "siteTitle" -}}</title>

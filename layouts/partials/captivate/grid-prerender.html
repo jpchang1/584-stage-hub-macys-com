@@ -1,0 +1,114 @@
+{{- $css := readFile "static/css/video-grid.css" -}}
+<style>{{- replaceRE "\n" "" $css | safeCSS -}}</style>
+{{- $loginId := .Site.Params.loginId -}}
+<div id="tvp-video-gallery">
+    <div class="container">
+        {{- if  or (eq .Layout "video") (eq .Layout "photo") -}}
+            <div class="tvp-line-related">
+					<div class="text-center">
+						RELATED VIDEOS
+					</div>
+            </div>
+        {{- else if eq .Layout "ambassador" -}}
+            {{- $videos := $.Scratch.Get "videos" -}}
+            {{- if gt (len $videos) 0 -}}
+            <div class="tvp-line-related">
+                    <div class="text-center">
+                        {{ .Title | upper }} VIDEOS
+                    </div>
+            </div>
+            {{- end -}}
+		{{- end -}}
+        <div class="row">
+            <div class="tvp-grid">
+                <div class="text-center col-xs-12">
+                    {{- if not (eq .Layout "photo") -}}
+                    <h2 class="tvp-video-grid-title">
+
+                    </h2>
+                    {{- end -}}
+                </div>
+                {{- $videos := $.Scratch.Get "videos" -}}
+                {{- if $videos -}}
+                    {{- range $index, $video := $videos -}}
+
+                        {{- with $video -}}
+                        {{- $url := (printf "v/%s/%s/" .titleTextEncoded (string .id)) | relURL -}}
+                        <div data-id="{{.id | string }}" class="tvp-video-item tvp-video-item-static col-xs-12 col-sm-4 col-md-3 " >
+                            <div>
+                            <a data-id="{{.id | string}}" class="tvp-video-item-link-static" href="{{ $url -}}">
+                                <div class="tvp-video-item-thumbnail" >
+                                    <div class="lazy-wrap-static">
+                                        {{- with .asset -}}
+                                            {{- if gt $index 3 -}}
+                                                <img alt="{{.title}}" data-img-url="{{- .thumbnailUrl -}}" class="loadme"/>
+                                            {{- else -}}
+                                                <img src="{{- .thumbnailUrl -}}" alt="{{.title}}"/>
+                                            {{- end -}}
+                                        {{- end -}}
+                                    </div>
+                                    <div class="tvp-video-item-overlay tvp-playing">
+
+                                        <div class="tvp-video-item-overlay-playing">
+                                            <span>NOW PLAYING</span>
+                                        </div>
+                                        <div class="tvp-video-item-overlay-content">
+                                            <svg class="tvp-play-icon-svg" viewBox="0 0 200 200">
+                                                <polygon fill="#FFFFFF" points="70, 55 70, 145 145, 100"></polygon>
+                                            </svg>
+                                            <span class="tvp-hidden tvp-watch-now">WATCH NOW</span>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <h2 class="tvp-video-item-title">
+                                    {{.title}}
+                                </h2>
+                            </a>
+
+                            {{- with getJSON (print "https://stage.tvpage.com/api/accountUser/ambassador/" .user_id "?X-login-id=" $loginId) -}}
+                                <a class="tvp-video-item-author" href='{{- (print "a/" .user_slug "/" .user_id) | relURL -}}'>
+                                    {{.first_name}} {{.last_name}}
+                                </a>
+                            {{- end -}}
+
+                                <a href="{{- $url -}}">
+                                    <div class="tvp-video-item-description">
+                                        {{.description}}
+                                    </div>
+                                    <div class="row-custom product-container">
+                                        {{- $productUrl := printf "https://stage.tvpage.com/api/videos/%s/products?X-login-id=%s" (string .id) $loginId -}}
+                                        {{- $products := getJSON $productUrl -}}
+                                        {{- if $products -}}
+                                            {{- $productsQty := (len $products) -}}
+                                            {{- range $index, $product := $products -}}
+                                                {{- if and (eq $index 3) (gt $productsQty 4) -}}
+                                                    <div class="col-custom product-in product-in-video-counter">
+                                                        <div>
+                                                            <span>{{ sub $productsQty  3}}<br/>MORE</span>
+                                                        </div>
+                                                    </div>
+                                                {{- else if lt $index 4 -}}
+                                                    <div class="col-custom product-in product-in-video">
+                                                        <div>
+                                                            <div class="lazy-wrap-static">
+                                                                <img src="{{ .imageUrl}}" alt="{{.title}}">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                {{- end -}}
+                                            {{ end }}
+                                        {{- end -}}
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        {{- end -}}
+                    {{- end -}}
+                {{- end -}}
+
+            </div>
+        </div>
+    </div>
+    <div id="tvp-video-gallery-grid"></div>
+</div>

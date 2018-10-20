@@ -1,0 +1,28 @@
+
+{{ partial (printf "%s/dochead.html" .Type) . }}
+<link href="//assets.macysassets.com/page/header-footer-wgl/latest/css/customFonts.css" type="text/css" rel="stylesheet"/>
+   
+<link href="//assets.macysassets.com/page/header-footer-wgl/latest/css/header-footer-wgl.csg.css" rel="stylesheet">
+<link href="//assets.macysassets.com/page/header-footer-wgl/latest/css/header-footer-wgl.mcom-header-footer.css" rel="stylesheet">
+<header data-hostlink="//www.macys.com"
+data-assethost="//assets.macysassets.com"
+data-uri="/xapi/navigate/v1/header"
+data-context='{"shoppingMode":"SITE","regionCode":"US","application":"SITE","deviceType":"DESKTOP","navigationType":"BROWSE","viewType":"Default","currencyCode":"USD"}'>
+</header>
+{{ partial (printf "%s/main_video.html" .Type) . }}
+{{ partial (printf "%s/scripts.html" .Type) . }}
+<footer data-hostlink="//www.macys.com" 
+data-assethost="//assets.macysassets.com" 
+data-uri="/xapi/navigate/v1/footer" 
+data-context='{"shoppingMode":"SITE","regionCode":"US","application":"SITE","deviceType":"DESKTOP","navigationType":"BROWSE","viewType":"Default","currencyCode":"USD"}'>
+</footer>
+{{- if (getenv "HUGO_DEBUG") -}}
+    <script src='{{ relURL "dist/home.js" }}' type="text/javascript"></script>
+{{- else -}}
+    <script async src='{{ relURL "dist/home.min.js" }}' type="text/javascript"></script>
+{{- end -}}
+<script src="//assets.macysassets.com/page/header-footer-wgl/latest/js/common.bundle.js"></script>
+<script src="//assets.macysassets.com/page/header-footer-wgl/latest/js/header-footer-wgl.mcom-header-footer.js"></script>
+
+</body>
+</html>

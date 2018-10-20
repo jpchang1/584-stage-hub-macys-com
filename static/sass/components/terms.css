@@ -1,0 +1,9 @@
+.terms-body{
+    margin-top: 15px;
+}
+.term-item{
+    display: flex;
+}
+.term-item span:last-child{
+    margin-left : 4px;
+}

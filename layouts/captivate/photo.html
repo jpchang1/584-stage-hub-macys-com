@@ -1,0 +1,17 @@
+{{ partial (printf "%s/dochead.html" .Type) . }}
+{{ partial (printf "%s/header.html" .Type) . }}
+{{ partial (printf "%s/main_video.html" .Type) . }}
+{{ $photo := index $.Site.Data.photos (printf "x%s" .Params.photoid ) }}
+<script type='text/javascript'>
+    TVSite = window.TVSite || {};
+    TVSite.channelVideosData = {};
+    {{ with $photo }}
+    TVSite.channelVideosData.video = {{ $photo | jsonify | safeJS }};
+    {{ else }}
+    TVSite.channelVideosData.video = {};
+    {{ end }}
+
+    TVSite.channelVideosData.videos = {{ $.Scratch.Get "videos" | jsonify | safeJS }};
+</script>
+{{ partial (printf "%s/scripts.html" .Type) . }}
+{{ partial (printf "%s/footer.html" .Type) . }}

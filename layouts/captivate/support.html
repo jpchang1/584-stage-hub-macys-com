@@ -1,0 +1,9 @@
+
+{{ partial (printf "%s/dochead.html" .Type) . }}
+{{ partial (printf "%s/header.html" .Type) . }}
+{{ partial (printf "%s/main_support.html" .Type) . }}
+{{ partial (printf "%s/scripts.html" .Type) . }}
+
+{{- partial (printf "%s/multifile.html" .Type) . -}}
+</body>
+</html>

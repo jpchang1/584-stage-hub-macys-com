@@ -1,0 +1,69 @@
+.tvp-channel{
+	&-banner{
+		left : 0;
+		width : 100%;
+		height : 280px;
+		background-color : rgba(0,0,0,0.5);
+		background-position : center;
+		position: relative;
+		background-image: url(https://shop.advanceautoparts.com/r/themes/aap/images/carbon-fiber.png);
+		//set default background
+	}
+	&-title{
+		line-height: 68px;
+		margin: 0;
+		color: #ffffff;
+		font-weight: 800;
+		font-size: 64px;
+		text-transform: uppercase;
+		top : 50%;
+		left : 50%;
+		transform: translate(-50%,-50%);
+		-webkit-transform: translate(-50%,-50%);
+		position: absolute;
+		width : 100%;
+		padding: 0 10px;
+	}
+}
+.tvp-channel-banner.tvp-129292912{
+	background-image : url("/img/heroes/129292912.jpg");
+	background-repeat : no-repeat;
+	background-size : cover;
+}
+.tvp-channel-banner.tvp-129292913{
+	background-image : url("/img/heroes/129292913.jpg");
+	background-repeat : no-repeat;
+	background-size : cover;
+}
+.tvp-channel-banner.tvp-129292914{
+	background-image : url("/img/heroes/129292914.jpg");
+	background-repeat : no-repeat;
+	background-size : cover;
+}
+.tvp-channel-banner.tvp-129292915{
+	background-image : url("/img/heroes/129292915.jpg");
+	background-repeat : no-repeat;
+	background-size : cover;
+}
+.tvp-channel-banner.tvp-129292916{
+	background-image : url("/img/heroes/129292916.jpg");
+	background-repeat : no-repeat;
+	background-size : cover;
+}
+.tvp-channel-banner.tvp-129292917{
+	background-image : url("/img/heroes/129292917.jpg");
+	background-repeat : no-repeat;
+	background-size : cover;
+}
+@media (max-width :768px){
+	.tvp-channel-title{
+		font-size: 38px;
+		line-height: 42px;
+	}
+}
+@media (max-width :600px){
+	.tvp-channel-title{
+		font-size: 32px;
+		line-height: 36px;
+	}
+}

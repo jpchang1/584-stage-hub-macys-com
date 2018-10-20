@@ -1,0 +1,51 @@
+{{- $.Scratch.Set "homeUrl" ("/" | relURL) -}}
+{{- $.Scratch.Set "headerTitle" "Style Crew" -}}
+{{- $.Scratch.Set "imageHeaderUrl" ("images/logo.png" | relURL) -}}
+
+{{- if eq .Layout "ambassador" -}}
+    {{- $ambassador := index $.Site.Data.ambassadors (printf "x%s" .Params.id ) -}}
+    {{- $ambassadorPhoto := printf "https://api.tvpage.com%s" $ambassador.profile_picture -}}
+    {{- $ambassadorUrl := printf "a/%s/%s" $ambassador.titleTextEncoded $ambassador.id -}}
+    {{- $.Scratch.Set "homeUrl" ($ambassadorUrl | relURL) -}}
+    {{- $.Scratch.Set "headerTitle" $ambassador.fullName -}}
+    {{- if ne "//sitecdn.tvpage.com/player/logos/default_profile.jpg" $ambassador.profile_picture -}}
+        {{- $.Scratch.Set "imageHeaderUrl" $ambassadorPhoto -}}
+    {{- end -}}
+{{- end -}}
+
+{{- $homeUrl :=  $.Scratch.Get "homeUrl" -}}
+{{- $headerTitle := $.Scratch.Get "headerTitle" -}}
+{{- $imageHeaderUrl := $.Scratch.Get "imageHeaderUrl" -}}
+{{- $cssHeader := readFile "static/sass/components/_home-top-black.scss" -}}
+<style>
+{{- replaceRE "\n" "" $cssHeader | safeCSS -}}
+.style-logo{
+    background-image: url({{ $imageHeaderUrl }});
+}
+</style>
+<div class="header">
+    <div class="container">
+        <div class="row header-container">
+            <div>
+                <div class="col-md-4 home-top-title">
+                    <div class="style-container" href="{{ $homeUrl }}">
+                        <a href="{{ $homeUrl }}" class="style-logo">
+                            <img src="{{ $imageHeaderUrl }}" alt="{{$headerTitle}}"/>
+                        </a>
+                        <div class="style-title">
+                            <a class="style-title-wrapper" href="{{ $homeUrl }}">
+                                {{ $headerTitle }}
+                            </a>
+                            {{- if eq .Layout "ambassador" -}}
+                            <a class="all-videos" href="{{ "/" | relURL }}">See Style Crew Homepage</a>
+                            {{- end -}}
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-8 search-area-holder">
+                    <div id="tvp-search-area" class="tvp-search-area"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

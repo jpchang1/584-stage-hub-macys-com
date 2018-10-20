@@ -1,0 +1,75 @@
+
+.tvp-product {
+    font-family: "Open Sans", sans-serif;
+    color: #000000;
+    max-width: 266px;
+}
+.tvp-product-thumbnail{
+    cursor: pointer;
+    position: relative;
+}
+.product-overlay{
+    position: absolute;
+    top : 50%;
+    left : 50%;
+    transform : translate(-50%, -50%);
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+.product-overlay:after{
+    position: absolute;
+    top : 50%;
+    left : 50%;
+    transform : translate(-50%, -50%);
+    content: "QUICK VIEW";
+    background-color: #ffffff;
+    box-shadow: 0 4px 4px 0 rgba(0,0,0,0.12);
+    text-decoration: underline;
+    opacity : 0.9;
+    padding : 9px 25px;
+    font-size: 12px;
+    color : #333333;
+    white-space: nowrap;
+}
+.tvp-hover .product-overlay, .tvp-show .product-overlay{
+    display : block;
+}
+.tvp-product-thumbnail.tvp-hover{
+    display: block;
+}
+.tvp-product-thumbnail:before {
+    display: block;
+    content: "";
+    width: 100%;
+    padding-top: 96%;
+}
+
+.tvp-product-thumbnail > .content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow: hidden;
+}
+
+.tvp-product-thumbnail > .content > img {
+    top: 50%;
+    position: absolute;
+    left: 50%;
+    width: auto;
+    height : 100%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+}
+
+@media (max-width:991px){
+    .tvp-product-thumbnail {
+      height: 120px;
+      width: 135px;
+    }
+}

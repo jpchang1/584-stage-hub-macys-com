@@ -1,0 +1,256 @@
+{{- if eq .Layout "home" -}}
+    <script type="text/javascript">
+        TVSite.channelVideosData = [];
+        TVSite.channelsGallery = [];
+        TVSite.channelVideosData.videos = [];
+    </script>
+    {{- if (getenv "HUGO_DEBUG") -}}
+        <script>
+            var url = '{{ relURL "dist/home.js" }}';
+            window.addEventListener("load",function(){
+                var script = document.createElement("script");
+                script.src = url;
+                script.type = "text/javascript";
+                var fjs = document.getElementsByTagName("script");
+                fjs = fjs[fjs.length-1];
+                fjs.parentNode.insertBefore(script, fjs);
+            });
+        </script>
+    {{- else -}}
+        <script>
+            var url = '{{ (print "dist/home.min.js?v=" now.Unix) | relURL }}';
+            window.addEventListener("load",function(){
+                var script = document.createElement("script");
+                script.src = url;
+                script.type = "text/javascript";
+                var fjs = document.getElementsByTagName("script");
+                fjs = fjs[fjs.length-1];
+                fjs.parentNode.insertBefore(script, fjs);
+            });
+        </script>
+    {{- end -}}
+{{- else if eq .Layout "channel" -}}
+    {{- if (getenv "HUGO_DEBUG") -}}
+        <script>
+            var url = '{{ relURL "dist/channel.js" }}';
+            window.addEventListener("load",function(){
+                var script = document.createElement("script");
+                script.src = url;
+                script.type = "text/javascript";
+                var fjs = document.getElementsByTagName("script")[0];
+                fjs.parentNode.insertBefore(script, fjs);
+            });
+        </script>
+    {{- else -}}
+        <script>
+            var url = '{{ (print "dist/channel.min.js?v=" now.Unix) | relURL }}';
+            window.addEventListener("load",function(){
+                var script = document.createElement("script");
+                script.src = url;
+                script.type = "text/javascript";
+                var fjs = document.getElementsByTagName("script")[0];
+                fjs.parentNode.insertBefore(script, fjs);
+            });
+        </script>
+    {{- end -}}
+{{- else if eq .Layout "channelVideo" -}}
+    {{- if (getenv "HUGO_DEBUG") -}}
+        <script>
+            var url = '{{ relURL "dist/channelvideo.js" }}';
+            window.addEventListener("load",function(){
+                var script = document.createElement("script");
+                script.src = url;
+                script.type = "text/javascript";
+                var fjs = document.getElementsByTagName("script")[0];
+                fjs.parentNode.insertBefore(script, fjs);
+            });
+        </script>
+    {{- else -}}
+        <script>
+            var url = '{{ (print "dist/channelvideo.min.js?v=" now.Unix) | relURL }}';
+            window.addEventListener("load",function(){
+                var script = document.createElement("script");
+                script.src = url;
+                script.type = "text/javascript";
+                var fjs = document.getElementsByTagName("script")[0];
+                fjs.parentNode.insertBefore(script, fjs);
+            });
+        </script>
+    {{- end -}}
+{{- else if eq .Layout "video" -}}
+    {{- if (getenv "HUGO_DEBUG") -}}
+        <script>
+            var url = '{{ relURL "dist/video.js" }}';
+            window.addEventListener("load",function(){
+                var script = document.createElement("script");
+                script.src = url;
+                script.type = "text/javascript";
+                var fjs = document.getElementsByTagName("script")[0];
+                fjs.parentNode.insertBefore(script, fjs);
+            });
+        </script>
+    {{- else -}}
+        <script>
+            var url = '{{ (print "dist/video.min.js?v=" now.Unix) | relURL }}';
+            window.addEventListener("load",function(){
+                var script = document.createElement("script");
+                script.src = url;
+                script.type = "text/javascript";
+                var fjs = document.getElementsByTagName("script")[0];
+                fjs.parentNode.insertBefore(script, fjs);
+            });
+        </script>
+    {{- end -}}
+{{- else if eq .Layout "photo" -}}
+    {{- if (getenv "HUGO_DEBUG") -}}
+        <script>
+            var url = '{{ relURL "dist/video.js" }}';
+            window.addEventListener("load",function(){
+                var script = document.createElement("script");
+                script.src = url;
+                script.type = "text/javascript";
+                var fjs = document.getElementsByTagName("script")[0];
+                fjs.parentNode.insertBefore(script, fjs);
+            });
+        </script>
+    {{- else -}}
+        <script>
+            var url = '{{ (print "dist/video.min.js?v=" now.Unix) | relURL }}';
+            window.addEventListener("load",function(){
+                var script = document.createElement("script");
+                script.src = url;
+                script.type = "text/javascript";
+                var fjs = document.getElementsByTagName("script")[0];
+                fjs.parentNode.insertBefore(script, fjs);
+            });
+        </script>
+    {{- end -}}
+{{- else if eq .Layout "terms" -}}
+    {{- if (getenv "HUGO_DEBUG") -}}
+        <script>
+            var url = '{{ relURL "dist/terms.js" }}';
+            window.addEventListener("load",function(){
+                var script = document.createElement("script");
+                script.src = url;
+                script.type = "text/javascript";
+                var fjs = document.getElementsByTagName("script")[0];
+                fjs.parentNode.insertBefore(script, fjs);
+            });
+        </script>
+    {{- else -}}
+        <script>
+            var url = '{{ (print "dist/terms.min.js?v=" now.Unix) | relURL }}';
+            window.addEventListener("load",function(){
+                var script = document.createElement("script");
+                script.src = url;
+                script.type = "text/javascript";
+                var fjs = document.getElementsByTagName("script")[0];
+                fjs.parentNode.insertBefore(script, fjs);
+            });
+        </script>
+    {{- end -}}
+{{- else if eq .Layout "signin" -}}
+    {{- if (getenv "HUGO_DEBUG") -}}
+        <script>
+            var url = '{{ relURL "dist/signin.js" }}';
+            window.addEventListener("load",function(){
+                var script = document.createElement("script");
+                script.src = url;
+                script.type = "text/javascript";
+                var fjs = document.getElementsByTagName("script")[0];
+                fjs.parentNode.insertBefore(script, fjs);
+            });
+        </script>
+    {{- else -}}
+        <script>
+            var url = '{{ (print "dist/signin.min.js?v=" now.Unix) | relURL }}';
+            window.addEventListener("load",function(){
+                var script = document.createElement("script");
+                script.src = url;
+                script.type = "text/javascript";
+                var fjs = document.getElementsByTagName("script")[0];
+                fjs.parentNode.insertBefore(script, fjs);
+            });
+        </script>
+    {{- end -}}
+{{- else if eq .Layout "search" -}}
+    {{- if (getenv "HUGO_DEBUG") -}}
+        <script>
+            var url = '{{ relURL "dist/search.js" }}';
+            window.addEventListener("load",function(){
+                var script = document.createElement("script");
+                script.src = url;
+                script.type = "text/javascript";
+                var fjs = document.getElementsByTagName("script")[0];
+                fjs.parentNode.insertBefore(script, fjs);
+            });
+        </script>
+    {{- else -}}
+        <script>
+            var url = '{{ (print "dist/search.min.js?v=" now.Unix) | relURL }}';
+            window.addEventListener("load",function(){
+                var script = document.createElement("script");
+                script.src = url;
+                script.type = "text/javascript";
+                var fjs = document.getElementsByTagName("script")[0];
+                fjs.parentNode.insertBefore(script, fjs);
+            });
+        </script>
+    {{- end -}}
+{{- else if eq .Layout "support" -}}
+    {{- if (getenv "HUGO_DEBUG") -}}
+        <script>
+            var url = '{{ relURL "dist/support.js" }}';
+            window.addEventListener("load",function(){
+                var script = document.createElement("script");
+                script.src = url;
+                script.type = "text/javascript";
+                var fjs = document.getElementsByTagName("script")[0];
+                fjs.parentNode.insertBefore(script, fjs);
+            });
+        </script>
+    {{- else -}}
+        <script>
+            var url = '{{ (print "dist/support.min.js?v=" now.Unix) | relURL }}';
+            window.addEventListener("load",function(){
+                var script = document.createElement("script");
+                script.src = url;
+                script.type = "text/javascript";
+                var fjs = document.getElementsByTagName("script")[0];
+                fjs.parentNode.insertBefore(script, fjs);
+            });
+        </script>
+    {{- end -}}
+{{- else if eq .Layout "ambassador" -}}
+    {{- if (getenv "HUGO_DEBUG") -}}
+        <script>
+            var url = '{{ relURL "dist/video.js" }}';
+            window.addEventListener("load",function(){
+                var script = document.createElement("script");
+                script.src = url;
+                script.type = "text/javascript";
+                var fjs = document.getElementsByTagName("script")[0];
+                fjs.parentNode.insertBefore(script, fjs);
+            });
+        </script>
+    {{- else -}}
+        <script>
+            var url = '{{ (print "dist/video.min.js?v=" now.Unix) | relURL }}';
+            window.addEventListener("load",function(){
+                var script = document.createElement("script");
+                script.src = url;
+                script.type = "text/javascript";
+                var fjs = document.getElementsByTagName("script")[0];
+                fjs.parentNode.insertBefore(script, fjs);
+            });
+        </script>
+    {{- end -}}
+    {{- $ambassador := index $.Site.Data.ambassadors (printf "x%s" .Params.id ) -}}
+    <script>
+        TVSite.ambassadorData = {{ $ambassador | jsonify | safeJS }};
+    </script>
+    
+{{- end -}}
+{{- if or (eq .Layout "video") (eq .Layout "photo") (eq .Layout "channelVideo") (eq .Layout "ambassador") -}}
+    <script async type="text/javascript" src="//cdnjs.tvpage.com/tvplayer/local/tvp-3.2.min.js"></script>
+{{- end -}}

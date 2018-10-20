@@ -1,0 +1,131 @@
+{{- if or (eq .Layout "channel") (eq .Layout "home") (eq .Layout "index") -}}
+	{{- $.Scratch.Set "titlePage" "" -}}
+	{{- if isset .Params "title" -}}
+		{{- $.Scratch.Set "titlePage" .Params.title -}}
+	{{- else -}}
+		{{- $.Scratch.Set "titlePage" .Title -}}
+	{{- end -}}
+	<script type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		"@type": "WebPage",
+		"name": "{{ $.Scratch.Get "titlePage" }}",
+		"description": "{{- $.Scratch.Get "siteDescription" | default .Summary -}}",
+		"PotentialAction": {
+		  "@type": "ViewAction",
+		  "Target": "{{- .Permalink -}}"
+		}
+	}
+	</script>
+{{- else if or (eq .Layout "channelVideo") (eq .Layout "video") -}}
+	{{- $video := index $.Site.Data.videos (printf "x%s" .Params.videoid ) -}}
+	{{- $.Scratch.Set "dateUploaded" 0 -}}
+	{{- if gt (int $video.date_created) 0 -}}
+    {{- $.Scratch.Set "dateUploaded" (int $video.date_created) -}}
+	{{- end -}}
+	{{- $date := time ($.Scratch.Get "dateUploaded") -}}
+	{{- $.Scratch.Set "videoThumbnail" $video.asset.thumbnailUrl -}}
+	{{- if not (in $video.asset.thumbnailUrl "http") -}}
+		{{- $.Scratch.Set "videoThumbnail" (printf "https:%s" $video.asset.thumbnailUrl) -}}
+	{{- end -}}
+	<script type="application/ld+json">
+	{
+	    "@context": "http://schema.org",
+	    "@type": "VideoObject",
+	    "name": "{{$video.title}}",
+	    "description": "{{$video.description}}",
+	    "thumbnailUrl": "{{$.Scratch.Get "videoThumbnail"}}",
+      "uploadDate": "{{ time $date.Unix }}",
+	    "duration": "{{$video.duration}}",
+	    "PotentialAction": {
+	        "@type" : "ViewAction",
+	        "Target" : "{{- .Permalink -}}"
+	    }
+	}
+	</script>
+{{- end -}}
+{{- if or (eq .Layout "home") (eq .Layout "video") (eq .Layout "channelVideo") (eq .Layout "ambassador") -}}
+{{- $loginId := .Site.Params.loginId -}}
+{{- $url := printf "https://stage.tvpage.com/api/channels/155524389/videos?p=0&n=24&status=approved&X-login-id=%s" $loginId -}}
+{{- $.Scratch.Set "apiUrl" $url -}}
+{{- if eq .Layout "ambassador" -}}
+		{{- $channelId := "163880337" -}}
+		
+		{{- $url := printf "https://stage.tvpage.com/api/channels/%s/videos?p=0&n=24&status=approved&X-login-id=%s&user_id=%s" $channelId $loginId .Params.id -}}
+		{{- $.Scratch.Set "apiUrl" $url -}}
+{{- else if eq .Layout "video" -}}
+		{{- $channelId := "155524390" -}}
+		{{- $productUrl := printf "https://stage.tvpage.com/api/videos/%s/products?X-login-id=%s" (string .Params.videoid) $loginId -}}
+		{{- $products := getJSON $productUrl -}}
+		{{- $brand := index $products 0 | default nil -}}
+		{{- $.Scratch.Set "queryFilter" "" -}}
+			{{- if $brand -}}
+				{{- $query := querify "brand" $brand.brand -}}
+				{{- $.Scratch.Set "queryFilter" $query -}}
+			{{- else -}}
+				{{- $titleClean := replaceRE "[^a-zA-Z0-9 ]" "" .Title -}}
+				{{- $titleCleanSpace := replaceRE " " "%20" $titleClean -}}
+				{{- $query := querify "s" $titleCleanSpace | safeURL -}}
+				{{- $.Scratch.Set "queryFilter" (printf "s=%s" $titleCleanSpace ) -}}
+			{{- end -}}
+		{{- $queryFilter := $.Scratch.Get "queryFilter" -}}
+		{{- $url := (printf "https://stage.tvpage.com/api/channels/%s/videos?p=0&n=24&status=approved&X-login-id=%s&%s" $channelId $loginId $queryFilter) -}}
+		{{- $.Scratch.Set "apiUrl" $url -}}
+{{- end -}}
+{{- $apiUrl := $.Scratch.Get "apiUrl" -}}
+{{- $videos := getJSON $apiUrl -}}
+{{- if gt (len $videos) 0 -}}
+	{{- range $videos -}}
+		{{- $video := . -}}
+		{{- with $video -}}
+		{{- $.Scratch.Set "dateUploaded" 0 -}}
+		{{- if gt (int .date_created) 0 -}}
+			{{- $.Scratch.Set "dateUploaded" (int .date_created) -}}
+		{{- end -}}
+		{{- $date := time ($.Scratch.Get "dateUploaded") -}}
+		{{- $.Scratch.Set "videoThumbnail" "" -}}
+		{{- with .asset -}}
+			{{- $.Scratch.Set "videoThumbnail" .thumbnailUrl -}}
+			{{- if not (in .thumbnailUrl "http") -}}
+				{{- $.Scratch.Set "videoThumbnail" (printf "https:%s" .thumbnailUrl) -}}
+			{{- end -}}
+		{{- end -}}
+		<script type="application/ld+json">
+		{
+				"@context": "http://schema.org",
+				"@type": "VideoObject",
+				"name": "{{.title}}",
+				"description": "{{.description}}",
+				"thumbnailUrl": "{{$.Scratch.Get "videoThumbnail"}}",
+				"uploadDate": "{{ time $date.Unix }}",
+				"duration": "{{.duration}}",
+				"PotentialAction": {
+						"@type" : "ViewAction",
+						"Target" : "{{- .Permalink -}}"
+				}
+		}
+		</script>
+		{{- $productUrl := printf "https://stage.tvpage.com/api/videos/%s/products?X-login-id=1759121" (string .id) -}}
+		{{- $products := getJSON $productUrl -}}
+		{{- range $products -}}
+		{{- $product := . -}}
+		<script type="application/ld+json">
+		{
+				"@context": "http://schema.org/",
+				"@type": "Product",
+				"name": "{{$product.title}}",
+				"image": "{{$product.imageUrl}}",
+				"description": "{{$product.description}}",
+				"mpn": "{{$product.mpn}}",
+				"offers": {
+					"@type": "Offer",
+					"priceCurrency": "USD",
+					"price": "{{$product.price}}"
+				}
+		}
+		</script>
+		{{- end -}}
+		{{- end -}}
+	{{- end -}}
+{{- end -}}
+{{- end -}}

@@ -1,0 +1,84 @@
+.mt-70 {
+  margin-top: 70px;
+}
+
+
+.col-heading {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 34px;
+}
+
+.form-control {
+  border-radius: 0px;
+  background-color: transparent;
+  box-shadow: none;
+  width: 80%;
+}
+
+.form-control:focus {
+  box-shadow: none;
+  border-color: initial;
+}
+
+.form-group > label {
+  margin-bottom: 8px;
+}
+
+.btn-default{
+  background-color: #CC0000;
+  color: #fff;
+  border-radius: 2px;
+  border: none;
+  font-weight: bold;
+  padding: 10px 18px;
+  transition: background-color 300ms ease-out;
+}
+.btn-default:hover, .btn-default:active{
+  background-color : #af0000;
+  color : #ffffff;
+}
+@media (max-width:992px){
+  .sign-in-col {
+    padding-bottom: 60px;
+    border-bottom: 1px solid #DDDDDD;
+  }
+  .form-control {
+    width: 100%;
+  }
+}
+
+@media (min-width:992px){
+  .sign-in-col {
+    padding-bottom: 166px;
+    border-right: 1px solid #DDDDDD;
+  }
+}
+
+@media (max-width:992px){
+  .create-account-col{
+    padding-top: 40px;
+    padding-bottom: 80px
+  }
+}
+
+
+@media (min-width:992px){
+  .create-account-col{
+    padding: 0px 72px 194px 86px;
+  }
+}
+
+.mb-18 {
+  margin-bottom: 18px;
+}
+
+.link {
+  color: inherit;
+  text-decoration: underline;
+}
+
+.link:hover {
+  color: inherit;
+  text-decoration: underline!important;
+}

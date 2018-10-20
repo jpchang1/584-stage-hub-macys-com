@@ -1,0 +1,7 @@
+<main id="main-content" class="main-content">
+<div id="tvp-video-gallery">
+    {{- partial (printf "%s/header-prerender.html" .Type) . -}}
+    {{- partial (printf "%s/player.html" .Type) . -}}    
+    {{- partial (printf "%s/grid-prerender.html" .Type) . -}}
+</div>
+</main>

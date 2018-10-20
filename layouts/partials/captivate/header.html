@@ -1,0 +1,7 @@
+{{ $dataHostLink := ($.Scratch.Get "settings").macysHostLink }}
+{{ $dataAssetHost := ($.Scratch.Get "settings").macysAssetHost }}
+<header data-hostlink="{{ $dataHostLink }}"
+data-assethost="{{ $dataAssetHost }}"
+data-uri="/xapi/navigate/v1/header"
+>
+</header>

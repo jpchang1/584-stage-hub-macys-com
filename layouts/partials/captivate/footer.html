@@ -1,0 +1,33 @@
+{{ $dataHostLink := ($.Scratch.Get "settings").macysHostLink }}
+{{ $dataAssetHost := ($.Scratch.Get "settings").macysAssetHost }}
+<footer data-hostlink="{{ $dataHostLink }}" 
+data-assethost="{{ $dataAssetHost }}" 
+data-uri="/xapi/navigate/v1/footer" 
+>
+</footer>
+
+<script>
+    function renderHF(elementStr){
+        var mobile = '{"shoppingMode":"SITE","regionCode":"US","application":"SITE","navigationType":"BROWSE","deviceType" : "TABLET","viewType":"Compact","currencyCode":"USD"}';
+        var desktop = '{"shoppingMode":"SITE","regionCode":"US","application":"SITE","navigationType":"BROWSE", "deviceType" : "DESKTOP" ,"viewType":"Default","currencyCode":"USD"}';
+        var windowsWidth = window.innerWidth;
+        var elementToModify = document.getElementsByTagName(elementStr)[0];
+        if(windowsWidth <= 768){
+            elementToModify.setAttribute("data-context",mobile);
+        }
+        else{
+            elementToModify.setAttribute("data-context",desktop);
+        }
+    }
+    renderHF("header");
+    renderHF("footer");
+</script>
+<!--
+<script src="//assets.macysassets.com/page/header-footer-wgl/latest/js/common.bundle.js"></script>
+<script src="//assets.macysassets.com/page/header-footer-wgl/latest/js/header-footer-wgl.mcom-header-footer.js"></script>
+-->
+<script src="{{ $dataAssetHost }}/page/header-footer-wgl/latest/js/common.bundle.js"></script>
+<script src="{{ $dataAssetHost }}/page/header-footer-wgl/latest/js/header-footer-wgl.mcom-header-footer.js"></script>
+{{- partial (printf "%s/multifile.html" .Type) . -}}
+</body>
+</html>

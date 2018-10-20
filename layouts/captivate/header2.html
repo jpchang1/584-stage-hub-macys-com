@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+{{- range $i, $def := (getJSON (printf "themes/tvpage/defaults/%s.json" .Type)).option -}}
+  {{- $.Scratch.SetInMap "settings" .code .value -}}
+{{ end }}
+{{- range $i, $param := .Params -}}
+  {{- $.Scratch.SetInMap "settings" $i . -}}
+{{ end }}
+{{- if isset .Site.Params "tvppages" -}}
+  {{- range (.Param "tvppages") -}}
+    {{- $.Scratch.SetInMap "settings" .code .value -}}
+  {{- end -}}
+{{- end -}}
+{{- $.Scratch.Set "siteDescription" .Params.description -}}
+{{- $.Scratch.Set "siteTitle" (printf "%s - %s" .Title .Site.Title ) -}}
+{{- if eq .Layout "index" -}}
+  {{- $.Scratch.Set "siteTitle" .Site.Title -}}
+{{- end -}}
+{{- $baseUrl := .Site.BaseURL -}}
+<html lang="en">
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    {{- partial (printf "%s/single-meta.html" .Type) . -}}
+    <link href="//assets.macysassets.com/page/header-footer-wgl/latest/css/customFonts.css" type="text/css" rel="stylesheet"/>
+    
+    <link href="//assets.macysassets.com/page/header-footer-wgl/latest/css/header-footer-wgl.csg.css" rel="stylesheet">
+    <link href="//assets.macysassets.com/page/header-footer-wgl/latest/css/header-footer-wgl.mcom-header-footer.css" rel="stylesheet">
+    </head>
+<body>
+
+<header data-hostlink="//www.macys.com"
+data-assethost="//assets.macysassets.com"
+data-uri="/xapi/navigate/v1/header"
+data-context='{"shoppingMode":"SITE","regionCode":"US","application":"SITE","deviceType":"DESKTOP","navigationType":"BROWSE","viewType":"Default","currencyCode":"USD"}'>
+</header>
+{{ partial (printf "%s/main_video.html" .Type) . }}
+{{ partial (printf "%s/scripts.html" .Type) . }}
+<footer data-hostlink="//www.macys.com" 
+data-assethost="//assets.macysassets.com" 
+data-uri="/xapi/navigate/v1/footer" 
+data-context='{"shoppingMode":"SITE","regionCode":"US","application":"SITE","deviceType":"DESKTOP","navigationType":"BROWSE","viewType":"Default","currencyCode":"USD"}'>
+</footer>
+
+<script src="//assets.macysassets.com/page/header-footer-wgl/latest/js/common.bundle.js"></script>
+<script src="//assets.macysassets.com/page/header-footer-wgl/latest/js/header-footer-wgl.mcom-header-footer.js"></script>
+</body>
+</html>

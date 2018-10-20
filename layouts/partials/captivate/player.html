@@ -1,0 +1,135 @@
+{{- $css := readFile "static/sass/components/player.css" -}}
+<style>{{- replaceRE "\n" "" $css | safeCSS -}}</style>
+{{- $cssAmbassador := readFile "static/css/VideoDetails.css" -}}
+<style>{{- replaceRE "\n" "" $cssAmbassador | safeCSS -}}</style>
+{{- $.Scratch.Set "videoToPlay" slice -}}
+{{- if eq .Layout "ambassador" -}}
+    {{- $videos := $.Scratch.Get "videos" -}}
+    {{- range first 1 $videos -}}
+        {{- $.Scratch.Set "videoToPlay" . -}}
+    {{- end -}}
+{{- else if eq .Layout "video" -}}
+    {{ $video := index $.Site.Data.videos (printf "x%s" .Params.videoid ) }}
+    {{- $.Scratch.Set "videoToPlay" $video -}}
+{{- else if eq .Layout "photo" -}}
+    {{ $photo := index $.Site.Data.photos (printf "x%s" .Params.photoid ) }}
+    {{- $.Scratch.Set "videoToPlay" $photo -}}
+{{- end -}}
+{{ $videoToPlay := $.Scratch.Get "videoToPlay" }}
+{{- $.Scratch.Set "AmbassadorVideoPage" slice -}}
+{{- if $videoToPlay -}}
+<div id="tvp-video-player">
+<div class="app-container-home">
+    <div class="document-body">
+        <div>
+            <div class="tvp-player-products-container">
+                <div id="player-container" class="container player-container">
+                    <div class="row">
+                        <h1 class="tvp-player-video-title col-xs-12 col-md-10">
+                            <div>
+                                <span class="tvp-player-video-title-text"></span>
+                            </div>
+                        </h1>
+                        <h2 class="tvp-player-video-title-products col-md-2 text-center"> </h2>
+                        <div id="tvpageplayer-container" class="col-xs-12 col-sm-12 col-md-10 col-md-offset-0">
+                            <div id="tvpageplayer-wrapper" class="TVPagePlayer-wrapper">
+                                <div id="tvpageplayer" class="tvp-player">
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2 col-xs-12">
+                            <div>
+                                <div id="tvp-scroller" class="tvp-scroller-y">
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tvp-line-detail">
+                        <div class="text-center">DETAILS</div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-10 tvp-row-separator">
+                            <div class="video-info">
+                                <div class="details-wrapper">
+                                    <span class="tvp-published">Published on
+                                        <span>{{$videoToPlay.date_created}}</span>
+                                    </span>
+                                    <span class="tvp-duration">Duration
+                                        {{- with $videoToPlay.asset -}}
+                                            {{- with .prettyDuration -}}
+                                                <span>{{- . -}}</span>
+                                            {{- end -}}
+                                        {{- end -}}
+                                    </span>
+                                    <span class="tvp-social"> Share
+                                        <span class="tvp-social-facebook">
+                                            <svg width="20" height="20" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">
+                                                <path fill="#333333" d="M1343 12v264h-157q-86 0-116 36t-30 108v189h293l-39 296h-254v759h-306v-759h-255v-296h255v-218q0-186 104-288.5t277-102.5q147 0 228 12z"></path>
+                                            </svg>
+                                        </span>
+                                        <span class="tvp-social-twitter">
+                                            <svg width="20" height="20" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">
+                                                <path fill="#333333" d="M1684 408q-67 98-162 167 1 14 1 42 0 130-38 259.5t-115.5 248.5-184.5 210.5-258 146-323 54.5q-271 0-496-145 35 4 78 4 225 0 401-138-105-2-188-64.5t-114-159.5q33 5 61 5 43 0 85-11-112-23-185.5-111.5t-73.5-205.5v-4q68 38 146 41-66-44-105-115t-39-154q0-88 44-163 121 149 294.5 238.5t371.5 99.5q-8-38-8-74 0-134 94.5-228.5t228.5-94.5q140 0 236 102 109-21 205-78-37 115-142 178 93-10 186-50z"></path>
+                                            </svg>
+                                        </span>
+                                        <span class="tvp-social-twitter share-link">
+                                            <svg width="20" height="20" viewBox="0 0 24 24">
+                                                <path fill="#333333" d="M10.59,13.41C11,13.8 11,14.44 10.59,14.83C10.2,15.22 9.56,15.22 9.17,14.83C7.22,12.88 7.22,9.71 9.17,7.76V7.76L12.71,4.22C14.66,2.27 17.83,2.27 19.78,4.22C21.73,6.17 21.73,9.34 19.78,11.29L18.29,12.78C18.3,11.96 18.17,11.14 17.89,10.36L18.36,9.88C19.54,8.71 19.54,6.81 18.36,5.64C17.19,4.46 15.29,4.46 14.12,5.64L10.59,9.17C9.41,10.34 9.41,12.24 10.59,13.41M13.41,9.17C13.8,8.78 14.44,8.78 14.83,9.17C16.78,11.12 16.78,14.29 14.83,16.24V16.24L11.29,19.78C9.34,21.73 6.17,21.73 4.22,19.78C2.27,17.83 2.27,14.66 4.22,12.71L5.71,11.22C5.7,12.04 5.83,12.86 6.11,13.65L5.64,14.12C4.46,15.29 4.46,17.19 5.64,18.36C6.81,19.54 8.71,19.54 9.88,18.36L13.41,14.83C14.59,13.66 14.59,11.76 13.41,10.59C13,10.2 13,9.56 13.41,9.17Z"></path>
+                                            </svg>
+                                            <span id="tooltip-text" class="tooltip-text tvp-hide">Copied to clipboard.</span>
+                                        </span>
+                                    </span>
+                                </div>
+                                
+                                {{- $ambassadorUrl := printf "https://stage.tvpage.com/api/accountUser/ambassador/%s?X-login-id=%s" (string $videoToPlay.user_id) .Site.Params.loginId -}}
+                                {{- $ambassador := getJSON $ambassadorUrl -}}
+                                {{- if $ambassador -}}
+                                {{- $.Scratch.Set "AmbassadorVideoPage" $ambassador -}}
+                                {{- $ambassadorChannelUrl := printf "a/%s/%s/" $ambassador.user_slug $ambassador.user_id -}}
+
+                                <div class="ambassador-profile">
+                                    <a href={{$ambassadorChannelUrl | relURL}} alt={{$ambassador.first_name}}>
+                                        <div class="tvp-author">
+                                            {{- $defaultProfile := "images/logo.png" | relURL -}}
+                                            {{- $.Scratch.Set "profile_picture" $defaultProfile -}}
+                                            {{- if $ambassador.profile_picture -}}
+                                                {{- $picture := print "https://api.tvpage.com" $ambassador.profile_picture -}}
+                                                {{- if ne "//sitecdn.tvpage.com/player/logos/default_profile.jpg" $ambassador.profile_picture -}}
+                                                    {{- $.Scratch.Set "profile_picture" $picture -}}
+                                                {{- end -}}
+                                            {{- end -}}
+                                            {{- $profilePicture := $.Scratch.Get "profile_picture" -}}
+                                            <div class="tvp-author-thumbnail" style='background-image:url("{{ $profilePicture }}")'>
+                                                <img src='{{ $profilePicture }}' alt="{{ $ambassador.first_name }}"/>
+                                            </div>
+                                            <div class="ambassador-details">
+                                                <span class="ambassador-name">{{$ambassador.first_name}} {{$ambassador.last_name}}</span>
+                                                {{- if $ambassador.videos_count -}}
+                                                    <span class="ambassador-videos">{{$ambassador.videos_count}} Videos</span>
+                                                {{- end -}}
+                                            </div>
+                                        </div> 
+                                    </a>
+                                </div>
+                                {{- end -}}
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="clamp-lines tvp-video-description"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+{{ if eq .Layout "video" }}
+<script>
+    TVSite = window.TVSite || {};
+    TVSite.ambassadorData = {{ ($.Scratch.Get "AmbassadorVideoPage") | jsonify | safeJS }}
+</script>
+{{- end -}}
+{{- end -}}

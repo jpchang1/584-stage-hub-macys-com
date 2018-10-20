@@ -1,0 +1,56 @@
+<main id="main-content" class="main-content">
+{{- $cssBanner := readFile "static/sass/components/header-banner.css" -}}
+<style>{{- replaceRE "\n" "" $cssBanner | safeCSS -}}</style>
+<div class="header-banner">
+    <div class="header-bar">
+    </div>
+    <div class="header-star">
+        <img src="{{ "images/logo.png" | relURL }}" alt="Macy's"/>
+    </div>
+    <div class="text-center container">
+        <span class="header-legend">
+        The Macy’s Style Crew is a community of our very own colleagues who are passionate about sharing what they love most about fashion and style. 
+        Browse their content below or follow #macysstylecrew on social media to stay updated on the latest trends!
+        </span>
+    </div>
+</div>
+
+{{- partial (printf "%s/header-prerender.html" .Type) . -}}
+
+<style>
+    .tvp-grid{
+    padding-top: 0 !important;
+}
+.signin-container{
+    position : relative;
+    height : 40px;
+}
+.signin-link{
+    position : absolute;
+    right: 0;
+    bottom: 0;
+    color : #333333;
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+    line-height: 19px;
+}
+.signin-link:hover, .signin-link:active{
+    text-decoration: underline !important;
+    color : #333333;
+}
+@media(max-width:600px){
+    .signin-link{
+        left : 50%;
+        transform: translateX(-50%);
+        right: auto;;
+    }
+}
+</style>
+<div class="container">
+    <div class="signin-container">
+        <a class="signin-link" href="{{ "sign-in" | relURL }}" alt="Ambassador Sign In">Ambassador Sign In</a>
+    </div>
+</div>
+
+{{- partial (printf "%s/grid-prerender.html" .Type) . -}}
+</main>

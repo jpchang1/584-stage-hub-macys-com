@@ -1,0 +1,27 @@
+.tvp-grid{
+    padding-top: 0 !important;
+}
+.signin-container{
+    position : relative;
+    height : 40px;
+}
+.signin-link{
+    position : absolute;
+    right: 0;
+    bottom: 0;
+    color : #333333;
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+    line-height: 19px;
+}
+.signin-link:hover, .signin-link:active{
+    text-decoration: underline !important;
+    color : #333333;
+}
+@media(max-width:600px){
+    .signin-link{
+        left : 50%;
+        transform: translateX(-50%);
+        right: auto;;
+    }
+}

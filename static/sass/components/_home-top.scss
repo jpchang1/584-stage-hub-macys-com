@@ -1,0 +1,29 @@
+
+.header-container{
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+.home-top-title img{
+    height: 41px;
+    vertical-align: text-top;
+}
+.menu-mobile{
+    position: absolute;
+    top: 0;
+    right : 15px;
+    height: 41px;
+}
+.menu-mobile-item{
+    display: inline-block;
+    vertical-align: middle;
+}
+.menu-mobile-filters, .menu-mobile-search{
+    display: block;
+    line-height: 41px;
+}
+.menu-mobile-item svg{
+    vertical-align: middle;
+}
+.menu-mobile-item:last-child{
+    margin-left : 5px;
+}
